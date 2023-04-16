@@ -8,35 +8,10 @@ require 'time'
 require 'date'
 require 'csv'
 require 'logger'
+require './get-kitsune-response'
 
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
-
-def getKitsuneResponse(url, params, logger)
-  logger.debug url
-  logger.debug params
-  try_count = 0
-  begin
-    result = Typhoeus::Request.get(
-      url,
-      params: params
-    )
-    x = JSON.parse(result.body)
-  rescue JSON::ParserError => e
-    try_count += 1
-    if try_count < 4
-      $stderr.printf("JSON::ParserError exception, retry:%d\n",\
-                     try_count)
-      sleep(10)
-      retry
-    else
-      $stderr.printf("JSON::ParserError exception, retrying FAILED\n")
-      x = nil
-    end
-  end
-  x
-end
-
 url_params = {
   format: 'json',
   product: 'thunderbird'
@@ -71,6 +46,6 @@ until end_program
   end
 end
 headers = %w[slug title]
-CSV.open("thunderbird-kb-title-slug-all-articles.csv", 'w', write_headers: true, headers: headers) do |csv_object|
+CSV.open('thunderbird-kb-title-slug-all-articles.csv', 'w', write_headers: true, headers: headers) do |csv_object|
   csv.each { |row_array| csv_object << row_array }
 end
