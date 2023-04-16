@@ -1,0 +1,154 @@
+slug,title
+how-do-i-create-screenshot-my-problem,How do I create a screenshot of my problem?
+what-mozilla-maintenance-service,What is the Mozilla Maintenance Service?
+signatures,Signatures
+global-search,Global Search
+quick-filter-toolbar,Quick Filter Toolbar
+manual-account-configuration,Manual Account Configuration
+faq-changing-imap-pop,FAQ Changing IMAP to POP
+archived-messages,Archived Messages
+automatic-account-configuration,Automatic Account Configuration
+keyboard-shortcuts-thunderbird,Keyboard shortcuts - perform common Thunderbird tasks quickly
+profiles-where-thunderbird-stores-user-data,Profiles - Where Thunderbird stores your messages and other user data
+troubleshoot-mode-thunderbird,Troubleshoot Mode Thunderbird
+thunderbird-and-gmail,Thunderbird and Gmail
+changing-imap-pop,Changing IMAP to POP
+mozilla-crash-reporter-tb,Mozilla Crash Reporter TB
+creating-newsgroup-account,Creating a Newsgroup Account
+thunderbird-and-hotmail,Thunderbird and Hotmail
+thunderbird-and-comcast,Thunderbird and Comcast
+imap-synchronization,IMAP Synchronization
+cannot-receive-messages,Cannot receive messages
+thunderbird-crashes,Thunderbird Crashes
+updating-thunderbird,Updating Thunderbird
+thunderbird-faq,Thunderbird FAQ
+thunderbird-software-update-failed,Thunderbird Software Update Failed
+how-disable-or-change-thunderbird-start-page,How to disable or change the Thunderbird start page
+thunderbird-and-sympatico,Thunderbird and Sympatico
+using-identities,Using Identities
+thunderbird-add-ons-frequently-asked-questions,Thunderbird add-ons - frequently asked questions
+thunderbird-and-yahoo,Thunderbird and Yahoo
+cannot-send-messages,Cannot send messages
+switching-thunderbird,Switching to Thunderbird
+installing-thunderbird-linux,Installing Thunderbird on Linux
+installing-thunderbird-on-mac,Installing Thunderbird on Mac
+keyboard-shortcuts-searching,Keyboard Shortcuts for Searching
+compacting-folders,Compacting folders
+moving-thunderbird-data-to-a-new-computer,Moving Thunderbird Data to a New Computer
+names-bug-no-email-addresses-are-displayed,Names but no Email Addresses are Displayed
+hyperlinks-in-messages-not-working,Hyperlinks in Messages Not Working
+protect-your-thunderbird-passwords-primary-password,Protect your Thunderbird passwords with a Primary Password
+adding-a-holiday-calendar,Adding a holiday calendar
+changing-calendar-preferences,Changing calendar preferences
+make-thunderbird-default-mail-client,Make Thunderbird the Default Mail Client
+lightning-user-interface,Lightning User Interface
+using-lightning-google-calendar,Using Lightning with Google Calendar
+configuring-lightning,Configuring Lightning
+working-events,Working with events
+creating-a-new-event-or-task,Creating a new event or task
+exporting-and-sharing-a-calendar,Exporting and sharing a calendar
+changing-date-or-time-event,Changing the Date or Time of an Event
+inviting-other-people-events,Inviting Other People to Events
+creating-a-recurring-event,Creating a recurring event
+creating-new-calendars,Creating New Calendars
+message-list-columns,Message List Columns
+vacation-response,Vacation Response
+using-multiple-profiles,Using Multiple Profiles
+configuration-options-accounts,Configuration Options for Accounts
+configuration-options-identity,Configuration Options for Identity
+configuration-options-attachments,Configuration Options for Attachments
+thunderbird-makes-unrequested-connections,Thunderbird makes unrequested connections
+how-use-virtual-card-vcard,How to use a Virtual Card (vCard)
+how-can-i-send-large-attachment,How can I send a large attachment?
+thunderbird-and-att,Thunderbird and AT&T
+config-editor,Config Editor
+blocking-sender,Blocking a sender
+how-use-attachments,How to Use Attachments
+rebuilding-global-database,Rebuilding the Global Database
+what-winmaildat-attachment,What is the winmail.dat attachment?
+switching-folder-pane-view,Switching the folder pane view
+how-install-and-use-another-language-dictionary-th,How to Install and Use another Language in the Dictionary on Thunderbird
+glossary-terms-including-types-accounts,Glossary of Terms including types of Accounts
+installing-thunderbird-windows,Installing Thunderbird on Windows
+open-search,Open Search
+add-search-engine-open-search,Add Search Engine to Open Search
+thunderbird-and-junk-spam-messages,Thunderbird and Junk / Spam Messages
+filelink-large-attachments,Filelink for Large Attachments
+digitally-signing-and-encrypting-messages,Digitally Signing and Encrypting Messages
+new-email-address,New Email Address
+thunderbirds-scam-detection,Thunderbird’s Scam Detection
+using-saved-searches,Using Saved Searches
+sending-and-receiving-messages-thunderbird,Sending and Receiving Messages on Thunderbird
+how-customize-new-mail-sound,How to Customize the New Mail Sound
+organize-your-messages-using-filters,Organize Your Messages by Using Filters
+how-subscribe-news-feeds-and-blogs,How to Subscribe to News Feeds and Blogs
+switch-pop-imap-account,Switch from POP to IMAP account
+instant-messaging-and-chat,Instant Messaging and Chat
+addressing-email,Addressing an Email
+how-customize-toolbars,How to Customize Toolbars
+display-thunderbird-menus-and-toolbar,Display the Thunderbird menus and toolbar
+ignore-threads,Ignoring threads
+uninstall-thunderbird,Uninstall Thunderbird from your computer
+remote-content-in-messages,Remote Content in Messages
+cannot-delete-messages,Cannot delete messages
+how-create-and-use-mailing-lists-thunderbird,How to create and use mailing lists on Thunderbird
+new-thunderbird-38,New in Thunderbird 38.0
+installing-addon-thunderbird,Installing an Add-on in Thunderbird
+maildir-thunderbird,Maildir in Thunderbird
+avoid-and-report-mozilla-tech-support-scams,Avoid and report Mozilla tech support scams
+thunderbird-and-logjam,Thunderbird and Logjam
+thunderbird-accessibility-features,Thunderbird Accessibility Features
+get-latest-version-thunderbird-windows-xp-vista,How can I get the latest version of Thunderbird on Windows XP or Vista?
+new-thunderbird-45,New in Thunderbird 45.0
+message-tags,Message Tags - Categorize your email in Thunderbird
+advanced-panel-settings-in-thunderbird,"Advanced panel - System, network, updates, and other advanced settings in Thunderbird"
+new-thunderbird-52,New in Thunderbird 52.0
+your-hardware-no-longer-supported-tb,Your hardware is no longer supported by Thunderbird
+thunderbird-osx,"Thunderbird support has ended for Mac OS X 10.6, 10.7 and 10.8"
+message-threading-thunderbird,Message threading in Thunderbird - keep messages grouped by conversation
+enable-email-invitations-caldav-servers-configured,Enable email invitations for CalDAV servers configured to do serverside scheduling
+security-panel-settings-in-thunderbird,"Security panel - Junk, scam, antivirus, and password settings in Thunderbird"
+privacy-panel-settings-in-thunderbird,Privacy panel - Remote content and cookie settings in Thunderbird
+find-what-version-thunderbird-you-are-using,Find what version of Thunderbird you are using
+password-manager-remember-delete-change-tb,"Password Manager - Remember, delete and change passwords in Thunderbird"
+new-thunderbird-60,New in Thunderbird 60
+thunderbird-end-support-xp-and-vista,Thunderbird end of Support for XP and Vista
+tables-format-messages-rows-and-columns,Tables - Format messages with rows and columns
+unify-your-pop-email-accounts-global-inbox,Unify your POP email accounts with a global inbox
+difference-between-imap-and-pop3,The difference between IMAP and POP3
+calendar-updates-issues-thunderbird,Calendar updates issues with Thunderbird
+install-themes-change-look-thunderbird,Install themes to change the look of Thunderbird
+unable-install-add-on-extension-theme-thunderbird,Unable to install add-ons (extensions or themes) in Thunderbird
+thunderbird-beta,Thunderbird Beta
+getting-started-thunderbird-main-window,Getting started with the Thunderbird main window
+how-change-thunderbird-layout,How to change the Thunderbird layout
+firefox-accounts-supportmozillaorg,Firefox accounts on support.mozilla.org
+unable-launch-older-version-profile,Unable to use profile when you launch an older version of Thunderbird
+new-thunderbird-68,New in Thunderbird 68.0
+dangerous-directories-Thunderbird-account-settings,Dangerous directories
+profile-manager-create-and-remove-thunderbird-profiles,profile manager create and remove thunderbird profiles
+dedicated-profile-thunderbird-installation,Dedicated profile per Thunderbird installation
+introduction-to-e2e-encryption,Introduction to End-to-end encryption in Thunderbird
+managing-thunderbird-updates,Managing Thunderbird Updates
+new-thunderbird-78,New in Thunderbird 78.0
+openpgp-thunderbird-howto-and-faq,OpenPGP in Thunderbird - HOWTO and FAQ
+thunderbird-78-faq,Thunderbird 78 FAQ
+profiling-thunderbird-performance,Profiling Thunderbird Performance
+primary-password-replacing-master-password-thunderbird,Primary Password is replacing Master Password in Thunderbird
+permission-request-messages-thunderbird-extensions,Permission request messages for Thunderbird extensions
+policies-extensions-locked,Unable to uninstall add-ons (extensions or themes)
+compacting-folders-potential-complications,Compacting folders - Potential complications
+openpgp-recipient-alias-configuration,OpenPGP Recipient Alias Configuration
+customize-date-time-formats-thunderbird,Customize Date and Time formats in Thunderbird
+new-thunderbird-91,New in Thunderbird 91
+automatic-conversion-google-mail-accounts-oauth20,Automatic Conversion of Google mail accounts to OAuth 2.0 Authentication
+openpgp-unsafe-key-properties-ignored,Unsafe properties of OpenPGP keys might be ignored
+new-thunderbird-102,New in Thunderbird 102
+custom-installation-thunderbird-windows,Custom installation of Thunderbird on Windows
+thunderbird-help-cannot-encrypt,Prerequisite for sending an encrypted email message
+thunderbird-help-openpgp-alias,Thunderbird and OpenPGP Alias Keys
+thunderbird-help-openpgp-counterfeit-key,OpenPGP keys might be authentic or counterfeit
+thunderbird-help-setup-account-e2ee,Setup your email account for using End-To-End Encryption
+thunderbird-export,Export your Thunderbird Profile
+thunderbird-import,Import settings and data into Thunderbird
+upgrading-older-version-thunderbird,Upgrading from an older version of Thunderbird
