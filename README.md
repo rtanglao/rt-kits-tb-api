@@ -2,7 +2,7 @@
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
 ## 2023-04-16 add linking field using mlr
-* `\x27` is a single quotation mark, `\x22` i.e. `"` does NOT work for some strange reason. bug?
+* `\x27` is a single quotation mark, `\x22` i.e. `"` does NOT work (adds two quotation marks instead of one!) for some strange reason. bug?
 ```bash
 mlr --csv put '$link = "<a href=\x27https://support.mozilla.org" . $url . "\x27>" . $title . "</a>"' thunderbird-kb-title-slug-all-articles-details-without-html.csv
 ```
