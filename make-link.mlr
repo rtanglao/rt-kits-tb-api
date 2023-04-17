@@ -1,0 +1,1 @@
+$link = "<a href=\x27https://support.mozilla.org" . $url . "\x27>" . $title . "</a>"

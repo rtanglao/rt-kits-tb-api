@@ -1,0 +1,2 @@
+# this doesn't work becuse it emits 2 double quotation marks!
+$link = "<a href=\x22https://support.mozilla.org" . $url . "\x22>" . $title . "</a>"
