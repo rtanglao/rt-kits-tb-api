@@ -1,6 +1,12 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2023-04-16 add linking field using mlr
+* `\x27` is a single quotation mark, `\x22` i.e. `"` does NOT work for some strange reason. bug?
+```bash
+mlr --csv put '$link = "<a href=\x27https://support.mozilla.org" . $url . "\x27>" . $title . "</a>"' thunderbird-kb-title-slug-all-articles-details-without-html.csv
+```
+
 ## 2023-04-16 Get a summary article list and then a detailed list and and then delete the `html` column in order to import into a spreadsheet
 
 * 0\. (`brew install miller` on macOS)
