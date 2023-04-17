@@ -1,7 +1,7 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
-## 2023-04-16 add linking field using mlr
+## 2023-04-16 add link field using mlr
 * The following command line snippet generates `thunderbird-kb-title-slug-all-articles-details-with-link-without-html.csv`
 * `\x27` is a single quotation mark, `\x22` i.e. `"` does NOT work (adds two quotation marks instead of one!) for some strange reason. bug?
 
