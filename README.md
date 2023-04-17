@@ -3,7 +3,7 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 
 ## 2023-04-16 Get a summary article list and then a detailed list and and then delete the `html` column in order to import into a spreadsheet
 
-* 0. (`brew install miller` on macOS)
+* 0\. (`brew install miller` on macOS)
 
 * 1\. Get kb article summary list
 ```bash
