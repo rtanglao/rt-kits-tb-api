@@ -2,9 +2,12 @@
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
 ## 2023-04-16 add linking field using mlr
+* The following command line snippet generates `thunderbird-kb-title-slug-all-articles-details-with-link-without-html.csv`
 * `\x27` is a single quotation mark, `\x22` i.e. `"` does NOT work (adds two quotation marks instead of one!) for some strange reason. bug?
+
 ```bash
-mlr --csv put '$link = "<a href=\x27https://support.mozilla.org" . $url . "\x27>" . $title . "</a>"' thunderbird-kb-title-slug-all-articles-details-without-html.csv
+mlr --csv put -f make-bare-link.mlr thunderbird-kb-title-slug-all-articles-details-without-html.csv \
+> thunderbird-kb-title-slug-all-articles-details-with-link-without-html.csv
 ```
 
 ## 2023-04-16 Get a summary article list and then a detailed list and and then delete the `html` column in order to import into a spreadsheet
@@ -33,3 +36,4 @@ count
 mlr --csv cut -x -f html thunderbird-kb-title-slug-all-articles-details.csv > \
 thunderbird-kb-title-slug-all-articles-details-without-html.csv
 ```
+thunderbird-kb-title-slug-all-articles-details-with-link-without-html.csv
