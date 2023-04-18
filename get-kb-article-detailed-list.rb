@@ -14,12 +14,6 @@ require './get-kitsune-response'
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 
-def collapse_array_into_semicolon_delimited_string(array)
-  array_str = ''
-  array.each { |a| array_str = "#{array_str}#{a};" }
-  array_str
-end
-
 if ARGV.length < 1
   puts "usage: #{$0} <csv-file-with-slugs>"
   exit
@@ -35,10 +29,10 @@ CSV.foreach(CSV_SUMMARY_FILE, headers: true).each do |a|
   url = "https://support.mozilla.org/api/1/kb/#{slug}"
   article = getKitsuneResponse(url, url_params, logger)
   article = article.to_hash
-  article['products_str'] = collapse_array_into_semicolon_delimited_string(article['products'])
-  article['topics_str'] = collapse_array_into_semicolon_delimited_string(article['topics'])
+  article['products_str'] = article['products'].join(';')
+  article['topics_str'] = article['topics'].join(';')
   logger.debug article.ai
-  csv.push(article.except("products", "topics"))
+  csv.push(article.except('products', 'topics'))
   sleep(0.125) # sleep 1/8 second between API calls
 end
 
