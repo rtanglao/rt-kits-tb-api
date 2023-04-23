@@ -139,7 +139,6 @@ end
 headers = %w[id created updated title content tags product topic locale answers creator]
 fn_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d'
 fn_str += '-thunderbird-creator-answers-desktop-all-locales.csv'
-logger.debug fn_str
 FILENAME = format(fn_str,
                   yyyy1: ARGV[0].to_i, mm1: ARGV[1].to_i, dd1: ARGV[2].to_i,
                   yyyy2: ARGV[3].to_i, mm2: ARGV[4].to_i, dd2: ARGV[5].to_i)
