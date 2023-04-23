@@ -1,7 +1,14 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
-## 2023-0422 open unanswered thunderbird questions in Firefox
+## 2023-04-23 get fixed random 2 questions
+`brew install coreutils` to get `shuf` and `gshuf` on macOS
+```bash
+. ./get-fixed-random.sh
+mlr -s ../get-unanswered.mlr 2023-04-20-2023-04-20-thunderbird-creator-answers-desktop-all-locales.csv | \
+shuf -n 2 --random-source=<(get_fixed_random 42) | xargs -n 1 open
+```
+## 2023-04-22 open unanswered thunderbird questions in Firefox
 ```bash
 cd 2023
 mlr -s ../get-unanswered.mlr 2023-04-20-2023-04-20-thunderbird-creator-answers-desktop-all-locales.csv | xargs -n 1 open
