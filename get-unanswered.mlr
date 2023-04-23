@@ -1,0 +1,5 @@
+--csv  --headerless-csv-output
+cut -f id,answers 
+then filter '$answers==""' 
+then put '$link = "https://support.mozilla.org/questions/" . $id'
+then cut -f link 
