@@ -5,6 +5,7 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 `brew install coreutils` to get `shuf` and `gshuf` on macOS
 ```bash
 . ./get-fixed-random.sh
+cd 2023
 # `42` is the fixed seed
 mlr -s ../get-unanswered.mlr 2023-04-20-2023-04-20-thunderbird-creator-answers-desktop-all-locales.csv | \
 shuf -n 2 --random-source=<(get_fixed_random 42) | xargs -n 1 open
