@@ -5,6 +5,10 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 ```bash
  ./get-ff-kb-articles-list.rb
 ```
+The following creates: details-firefox-kb-title-slug-all-articles.csv
+```bash
+./get-kb-article-detailed-list.rb firefox-kb-title-slug-all-articles.csv
+```
 ## 2023-04-23 get fixed random 2 questions
 `brew install coreutils` to get `shuf` and `gshuf` on macOS
 ```bash
