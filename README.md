@@ -1,5 +1,10 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
+
+## 2023-05-13 How to use SQLite to search all the Firefox and Thunderbird kb articles including the HTML (sadly Markdown not available)
+* Using datasette lite, load the CSV files.
+  * [Firefox](https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Fdetails-firefox-kb-title-slug-all-articles.csv#/data/details-firefox-kb-title-slug-all-articles): Load https://github.com/rtanglao/rt-kits-tb-api/blob/main/details-firefox-kb-title-slug-all-articles.csv into datasette lite
+  * [Thunderbird](https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Fthunderbird-kb-title-slug-all-articles-details.csv): Load https://github.com/rtanglao/rt-kits-tb-api/blob/main/thunderbird-kb-title-slug-all-articles-details.csv into datasette lite
 ## 2023-05-13 get all the Firefox kb articles
 * The following creates: [firefox-kb-title-slug-all-articles.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/firefox-kb-title-slug-all-articles.csv) (over 400 as of this writing) which you can then search using [datasette lite](https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Ffirefox-kb-title-slug-all-articles.csv) and recall :-) that you can also s[earch thunderbird articles using datasette lite](https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Fthunderbird-kb-title-slug-all-articles.csv#/data/thunderbird-kb-title-slug-all-articles)
 ```bash
