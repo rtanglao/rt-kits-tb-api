@@ -5,7 +5,7 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 ```bash
  ./get-ff-kb-articles-list.rb
 ```
-The following creates: details-firefox-kb-title-slug-all-articles.csv
+The following creates: [details-firefox-kb-title-slug-all-articles.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/details-firefox-kb-title-slug-all-articles.csv)
 ```bash
 ./get-kb-article-detailed-list.rb firefox-kb-title-slug-all-articles.csv
 ```
