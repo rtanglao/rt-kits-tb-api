@@ -1,6 +1,10 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
-
+## 2023-05-13 get all the firefox kb articles
+* The following creates: firefox-kb-title-slug-all-articles.csv
+```bash
+ ./get-ff-kb-articles-list.rb
+```
 ## 2023-04-23 get fixed random 2 questions
 `brew install coreutils` to get `shuf` and `gshuf` on macOS
 ```bash
