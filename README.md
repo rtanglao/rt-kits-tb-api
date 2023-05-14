@@ -1,6 +1,12 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2023-05-13 How to get answers by creator
+* The following creates [rtanglao-answers.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/rtanglao-answers.csv)
+```bash
+./get-answers-by-creator.rb rtanglao
+```
+
 ## 2023-05-13 How to use SQLite to search all the Firefox and Thunderbird kb articles including the HTML (sadly Markdown not available)
 * Using datasette lite, load the CSV files.
   * [Firefox](https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Fdetails-firefox-kb-title-slug-all-articles.csv#/data/details-firefox-kb-title-slug-all-articles): Load https://github.com/rtanglao/rt-kits-tb-api/blob/main/details-firefox-kb-title-slug-all-articles.csv into datasette lite
