@@ -1,7 +1,7 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
-## 2023-05-13 get all the firefox kb articles
-* The following creates: [firefox-kb-title-slug-all-articles.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/firefox-kb-title-slug-all-articles.csv)
+## 2023-05-13 get all the Firefox kb articles
+* The following creates: [firefox-kb-title-slug-all-articles.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/firefox-kb-title-slug-all-articles.csv) which you can then search using [datasette lite](https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Ffirefox-kb-title-slug-all-articles.csv)
 ```bash
  ./get-ff-kb-articles-list.rb
 ```
