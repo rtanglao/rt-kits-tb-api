@@ -74,7 +74,7 @@ until end_program
     sleep(0.5) # sleep 0.5 seconds between API calls
   end
 end
-headers = %w[id question question_url content created creator display_name updated\
+headers = %w[id question question_url content created creator display_name updated
              updated_by is_spam num_helpful_votes num_unhelpful_votes]
 CSV.open("#{CREATOR}-answers.csv", 'w', write_headers: true, headers: headers) do |csv_object|
   csv.each { |row_array| csv_object << row_array }

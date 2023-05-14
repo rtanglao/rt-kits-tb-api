@@ -1,5 +1,4 @@
-id,question,question_url,content,created,creator,display_name,"updated
-",updated_by,is_spam,num_helpful_votes,num_unhelpful_votes
+id,question,question_url,content,created,creator,display_name,updated,updated_by,is_spam,num_helpful_votes,num_unhelpful_votes
 1579802,1412755,https://support.mozilla.org/question/1412755,"<p>Hi steveA
 </p><p>How are you displaying ""raw"" mode? On Ubuntu 22.04, Thunderbird 102.10.0, I used Control U (Command U if you are on Mac)  to ""View Source"", made the window full screen and the ""x of y"" matches behaviour is correct i.e. the first match is displayed and the cursor is correctly on the first match.
 </p><p>Please try Thunderbird Troubleshoot Mode:
