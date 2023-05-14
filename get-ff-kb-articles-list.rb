@@ -8,13 +8,13 @@ require 'time'
 require 'date'
 require 'csv'
 require 'logger'
-require_relative ' get-kitsune-response'
+require_relative 'get-kitsune-response'
 
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 url_params = {
   format: 'json',
-  product: 'thunderbird'
+  product: 'firefox'
 }
 
 url = 'https://support.mozilla.org/api/1/kb/'
@@ -46,6 +46,6 @@ until end_program
   end
 end
 headers = %w[slug title]
-CSV.open('thunderbird-kb-title-slug-all-articles.csv', 'w', write_headers: true, headers: headers) do |csv_object|
+CSV.open('firefox-kb-title-slug-all-articles.csv', 'w', write_headers: true, headers: headers) do |csv_object|
   csv.each { |row_array| csv_object << row_array }
 end
