@@ -8,7 +8,7 @@ def getKitsuneResponse(url, params, logger)
       params: params
     )
     x = JSON.parse(result.body)
-  rescue JSON::ParserError => e
+  rescue JSON::ParserError
     try_count += 1
     if try_count < 4
       $stderr.printf("JSON::ParserError exception, retry:%d\n",\
