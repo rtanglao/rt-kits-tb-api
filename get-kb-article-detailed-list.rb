@@ -9,7 +9,7 @@ require 'date'
 require 'csv'
 require 'logger'
 require 'pry'
-require './get-kitsune-response'
+require_relative 'get-kitsune-response'
 
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
@@ -28,6 +28,8 @@ CSV.foreach(CSV_SUMMARY_FILE, headers: true).each do |a|
   slug = a['slug']
   url = "https://support.mozilla.org/api/1/kb/#{slug}"
   article = getKitsuneResponse(url, url_params, logger)
+  next if article.nil?
+
   article = article.to_hash
   article['products_str'] = article['products'].join(';')
   article['topics_str'] = article['topics'].join(';')
@@ -37,6 +39,6 @@ CSV.foreach(CSV_SUMMARY_FILE, headers: true).each do |a|
 end
 
 headers = csv[0].keys
-CSV.open('thunderbird-kb-title-slug-all-articles-details.csv', 'w', write_headers: true, headers: headers) do |csv_object|
+CSV.open("details-#{CSV_SUMMARY_FILE}", 'w', write_headers: true, headers: headers) do |csv_object|
   csv.each { |row_array| csv_object << row_array }
 end
