@@ -58,7 +58,7 @@ until end_program
       updated = kludge_time_from_bogusZ_to_utc(a['updated'])
       logger.debug "updated with PST correction: #{updated}"
     end
-    s_question_url = "https://support.mozilla.org/question/#{question}"
+    s_question_url = "https://support.mozilla.org/questions/#{question}"
     csv.push([id, question, s_question_url, a['content'], created,
               a['creator']['username'], a['creator']['display_name'],
               updated, a['updated_by'], a['is_spam'], a['num_helpful_votes'],
