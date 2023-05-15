@@ -1,6 +1,13 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2023-05-14 How to get questions with answers after my latest answer and open in a web browser
+
+* Not perfect (only handles your last 20 answers, only handles 1 page of answers, doesn't handle where you answer more than once and other edge cases :-) ~!)
+```bash
+mlr --csv head -n 20 rtanglao-answers.csv | ./get-questions-with-answers-after-my-last-answer.rb 2>/tmp/rtlogfile | xargs -n 1 open
+```
+
 ## 2023-05-13 How to get answers by creator
 * The following creates [rtanglao-answers.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/rtanglao-answers.csv)
 ```bash
