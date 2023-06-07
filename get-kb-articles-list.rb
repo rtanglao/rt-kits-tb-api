@@ -8,7 +8,7 @@ require 'time'
 require 'date'
 require 'csv'
 require 'logger'
-require_relative ' get-kitsune-response'
+require_relative 'get-kitsune-response'
 
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
