@@ -153,7 +153,7 @@ use-firefox-sidebar-access-bookmarks-history-synced,"Use the Firefox Sidebar to 
 im-having-problems-confirming-my-firefox-account,I'm having problems confirming my Firefox Account
 use-firefox-another-language,Use Firefox in another language
 where-go-developer-support,Where to go for developer support
-access-mozilla-services-firefox-account,Access Mozilla Services with a Firefox Account
+access-mozilla-services-firefox-account,Access Mozilla services with a Firefox account
 frequently-asked-questions,Frequently Asked Questions
 forget-button-quickly-delete-your-browsing-history,Forget button - quickly delete your browsing history on Firefox
 firefox-crashes-asking-support,Firefox crashes - asking for support
@@ -372,7 +372,7 @@ introducing-total-cookie-protection-standard-mode,Introducing Total Cookie Prote
 firefox-version-100-on-windows-7,Will Firefox version 100 work on Windows 7?
 change-website-appearance-settings-firefox,Change website appearance settings in Firefox
 what-mozilla-connect,What is Mozilla Connect?
-view-articles-recommended-pocket-your-firefox-desk,View articles recommended by Pocket on your Firefox for Desktop homepage
+view-articles-recommended-pocket-firefox-new-tab-homepage,View articles recommended by Pocket on your Firefox New Tab and homepage
 how-set-tab-pickup-firefox-view,Access pages from other devices with Firefox View
 firefox-translations,Firefox Translations
 text-recognition,Copy text from images on Firefox for MacOS
@@ -392,6 +392,12 @@ relay-integration,Add Firefox Relay to the Firefox password manager
 why-do-i-get-harmful-download-message-when-downloading-firefox-windows,Why do I get a harmful download message when downloading Firefox on Windows?
 mozilla-social-faq,Mozilla Social FAQ
 pocket-recommendations-firefox-new-tab,Pocket Recommendations in the Firefox new tab
+switching-devices,Back up and transfer your Firefox data to another device
+addons-restricted-domains,Why aren’t my add-ons working on some websites?
+dns-over-https,Configure DNS over HTTPS protection levels in Firefox
+firefox-users-macos-1012-1013-1014-moving-to-extended-support,"Firefox users on macOS 10.12, 10.13 and 10.14 moving to Extended Support Release"
+firefox-users-windows-7-8-and-81-moving-extended-support,"Firefox users on Windows 7, 8 and 8.1 moving to Extended Support Release"
+how-reset-your-password-without-account-recovery-keys-access-data,How to reset your password without Account Recovery Keys and regain access to your data
 searches-take-you-to-wrong-search-website,What to do when searches take you to the wrong search website
 troubleshoot-firefox-crashes-closing-or-quitting,Troubleshoot Firefox crashes (closing or quitting unexpectedly)
 firefox-stuck-troubleshoot-mode,Firefox is stuck in Troubleshoot Mode
