@@ -18,7 +18,6 @@ bookmark-folders-organize-your-bookmarks,Use bookmark folders to organize your b
 update-failed-error-message-when-updating,How to fix the Update Failed error message when updating Firefox
 restore-default-smart-bookmarks-folders,Restore the default Smart Bookmarks Folders
 configure-windows-firewall-allow-firefox-access,Configure Windows Firewall to allow Firefox access to the Internet
-import-ie-favorites-other-computer,Import Internet Explorer Favorites from another computer
 how-do-i-delete-bookmark,How do I delete a bookmark?
 firefox-takes-long-time-start-up,Firefox takes a long time to start up
 search-firefox-address-bar,Search with the Firefox address bar
@@ -36,7 +35,7 @@ pop-blocker-settings-exceptions-troubleshooting,"Pop-up blocker settings, except
 reset-preferences-fix-problems,Reset Firefox preferences to troubleshoot and fix problems
 import-bookmarks-html-file,Import Bookmarks from an HTML file
 uninstall-firefox-from-your-computer,Uninstall Firefox from your computer
-import-bookmarks-internet-explorer-or-microsoft-edge,Import Bookmarks and other data from Internet Explorer or Microsoft Edge
+import-bookmarks-and-other-data-microsoft-edge,Import Bookmarks and other data from Microsoft Edge
 create-desktop-shortcut-website,Create a desktop shortcut to a website
 sort-bookmarks-quickly-find-ones-you-want,Sort your bookmarks to quickly find the ones you want
 use-primary-password-protect-stored-logins,Use a Primary Password to protect stored logins and passwords
@@ -50,7 +49,6 @@ changes-toolbars-and-window-sizes-are-not-saved,Changes to toolbars and window s
 install-older-version-firefox,Install an older version of Firefox
 how-stop-firefox-making-automatic-connections,How to stop Firefox from making automatic connections
 troubleshoot-firefox-issues-caused-malware,Troubleshoot Firefox issues caused by malware
-export-bookmarks-internet-explorer,Export bookmarks to Internet Explorer
 diagnose-firefox-issues-using-troubleshoot-mode,Diagnose Firefox issues using Troubleshoot Mode
 troubleshoot-extensions-themes-to-fix-problems,"Troubleshoot extensions, themes and hardware acceleration issues to solve common Firefox problems"
 usernames-and-passwords-are-not-saved,Usernames and passwords are not saved
@@ -333,6 +331,7 @@ https-only-prefs,HTTPS-Only Mode in Firefox
 primary-password-replacing-master-password,Primary Password is replacing Master Password
 ccleaner-deleting-firefox-extension-settings-firef,CCleaner is deleting Firefox extension settings in Firefox 79
 telemetry-collection-windows-default-browser-trend,Telemetry collection- Windows default browser trends
+import-login-data-file,Import login data from a file
 delete-sync-data-firefox-signing-out-firefox-account,Delete sync data from Firefox by signing out of Firefox Accounts
 control-audio-or-video-playback-your-keyboard,Control audio or video playback with your keyboard
 notes-status,Firefox Notes status
@@ -382,6 +381,7 @@ recommended-firefox-extensions-families-and-students,Recommended Firefox extensi
 disable-password-saving-firefox,Disable password saving in Firefox
 disable-credit-card-syncing-across-devices,Disable credit card syncing across devices
 block-deceptive-content-and-dangerous-downloads-firefox,Block deceptive content and dangerous downloads in Firefox
+quick-actions-firefox-search-bar,Quick actions in the Firefox search bar
 firefox-update-notifications-windows,Firefox update notifications on Windows
 firefox-hangs-when-copying-suggested-actions-windows-11,Firefox hangs when copying with Suggested Actions enabled on Windows 11 - What to do
 site-permission-add-ons,Site Permission Add-ons
@@ -395,9 +395,11 @@ pocket-recommendations-firefox-new-tab,Pocket Recommendations in the Firefox new
 switching-devices,Back up and transfer your Firefox data to another device
 addons-restricted-domains,Why aren’t my add-ons working on some websites?
 dns-over-https,Configure DNS over HTTPS protection levels in Firefox
+quarantined-domains,Why are some add-ons not allowed on sites restricted by Mozilla?
 firefox-users-macos-1012-1013-1014-moving-to-extended-support,"Firefox users on macOS 10.12, 10.13 and 10.14 moving to Extended Support Release"
 firefox-users-windows-7-8-and-81-moving-extended-support,"Firefox users on Windows 7, 8 and 8.1 moving to Extended Support Release"
 how-reset-your-password-without-account-recovery-keys-access-data,How to reset your password without Account Recovery Keys and regain access to your data
+get-your-local-weather-forecast-firefox-address-bar,Get your local weather forecast from the Firefox address bar
 searches-take-you-to-wrong-search-website,What to do when searches take you to the wrong search website
 troubleshoot-firefox-crashes-closing-or-quitting,Troubleshoot Firefox crashes (closing or quitting unexpectedly)
 firefox-stuck-troubleshoot-mode,Firefox is stuck in Troubleshoot Mode
