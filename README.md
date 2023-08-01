@@ -6,6 +6,8 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 ```bash
 ./get-all-products-kb-articles-list.rb
 # the above script creates: allproducts-kb-title-slug-all-articles.csv
+ ./get-kb-article-detailed-list.rb allproducts-kb-title-slug-all-articles.csv
+# resulting file is: details-allproducts-kb-title-slug-all-articles.csv
 ```
 ## 2023-08-01 get all desktop articles and search for "Firefox accounts"
 
@@ -14,7 +16,7 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
  ./get-ff-kb-articles-list.rb
 # changed API delay to 5 seconds 
  ./get-kb-article-detailed-list.rb firefox-kb-title-slug-all-articles.csv
-# resulting file is: details-firefox-kb-title-slug-all-articles.csv]
+# resulting file is: details-firefox-kb-title-slug-all-articles.csv
 ```
 
 * Add  [details-firefox-kb-title-slug-all-articles.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/details-firefox-kb-title-slug-all-articles.csv) to google drive and have fun :-)
