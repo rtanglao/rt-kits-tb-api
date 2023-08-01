@@ -1,6 +1,12 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2023-08-01 get articles for all products and search for "firefox account"
+
+```bash
+./get-all-products-kb-articles-list.rb
+# the above script creates: allproducts-kb-title-slug-all-articles.csv
+```
 ## 2023-08-01 get all desktop articles and search for "Firefox accounts"
 
 ```bash
@@ -10,6 +16,7 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
  ./get-kb-article-detailed-list.rb firefox-kb-title-slug-all-articles.csv
 # resulting file is: details-firefox-kb-title-slug-all-articles.csv]
 ```
+
 * Add  [details-firefox-kb-title-slug-all-articles.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/details-firefox-kb-title-slug-all-articles.csv) to google drive and have fun :-)
 * AND / OR search it with datasette lite: https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Fdetails-firefox-kb-title-slug-all-articles.csv#/data/details-firefox-kb-title-slug-all-articles
   * SQLite query: `select rowid, id, title, slug, url, locale, summary, html, products_str, topics_str from [details-firefox-kb-title-slug-all-articles] where "html" like :p0 order by rowid limit 101` where `p0` = `%firefox account%` [datasette sqlite query returns 54 rows](https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Fdetails-firefox-kb-title-slug-all-articles.csv#/data/details-firefox-kb-title-slug-all-articles?_filter_column_1=html&_filter_op_1=contains&_filter_value_1=firefox+account&_filter_column=&_filter_op=exact&_filter_value=&_sort=rowid) where the `html` column contains `Firefox account` ; also available as a CSV file that you can upload to Google Sheets: https://github.com/rtanglao/rt-kits-tb-api/blob/main/all-desktop-articles-that-have-firefox-account-in-the-html-column_files.csv
