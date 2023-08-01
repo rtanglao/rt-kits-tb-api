@@ -36,7 +36,7 @@ CSV.foreach(CSV_SUMMARY_FILE, headers: true).each do |a|
   logger.debug article.ai
   article['url'] = "https://support.mozilla.org#{article['url']}"
   csv.push(article.except('products', 'topics'))
-  sleep(10.0) # sleep 10 seconds between API calls
+  sleep(5.0) # sleep 5 seconds between API calls
 end
 
 headers = csv[0].keys
