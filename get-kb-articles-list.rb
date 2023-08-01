@@ -22,7 +22,7 @@ end_program = false
 article_number = 0
 csv = []
 until end_program
-  sleep(1.0) # sleep 1 second between API calls
+  sleep(10.0) # sleep 10 seconds between API calls
   articles = getKitsuneResponse(url, url_params, logger)
   logger.debug "article count:#{articles['count']}"
   url_params = nil
