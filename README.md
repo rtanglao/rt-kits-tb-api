@@ -8,6 +8,7 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
  ./get-ff-kb-articles-list.rb
 # changed API delay to 5 seconds 
  ./get-kb-article-detailed-list.rb firefox-kb-title-slug-all-articles.csv
+# resulting file is details-firefox-kb-title-slug-all-articles.csv
 # Add link field
 ```
 ## 2023-05-14 How to get questions with answers after my latest answer and open in a web browser
