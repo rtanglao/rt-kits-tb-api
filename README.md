@@ -8,7 +8,7 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
  ./get-ff-kb-articles-list.rb
 # changed API delay to 5 seconds 
  ./get-kb-article-detailed-list.rb firefox-kb-title-slug-all-articles.csv
-# resulting file is 
+# resulting file is: details-firefox-kb-title-slug-all-articles.csv]
 ```
 * Add  [details-firefox-kb-title-slug-all-articles.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/details-firefox-kb-title-slug-all-articles.csv) to google drive and have fun :-)
 * AND / OR search it with datasette lite: https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Fdetails-firefox-kb-title-slug-all-articles.csv#/data/details-firefox-kb-title-slug-all-articles
