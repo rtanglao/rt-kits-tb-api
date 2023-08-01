@@ -1,6 +1,15 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2023-08-01 get all desktop articles and search for "Firefox accounts"
+
+```bash
+# changed API delay to 10 seconds to prevent dreaded 429 error code
+ ./get-ff-kb-articles-list.rb
+# changed API delay to 5 seconds 
+ ./get-kb-article-detailed-list.rb firefox-kb-title-slug-all-articles.csv
+# Add link field
+```
 ## 2023-05-14 How to get questions with answers after my latest answer and open in a web browser
 
 * Not perfect (only handles your last 20 answers, only handles 1 page of answers, doesn't handle where you answer more than once and other edge cases :-) ~!)
