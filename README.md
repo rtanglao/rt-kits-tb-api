@@ -8,9 +8,11 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
  ./get-ff-kb-articles-list.rb
 # changed API delay to 5 seconds 
  ./get-kb-article-detailed-list.rb firefox-kb-title-slug-all-articles.csv
-# resulting file is details-firefox-kb-title-slug-all-articles.csv
-# Add link field
+# resulting file is 
 ```
+* Add  [details-firefox-kb-title-slug-all-articles.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/details-firefox-kb-title-slug-all-articles.csv) to google drive and have fun :-)
+* AND / OR search it with datasette lite: https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Fdetails-firefox-kb-title-slug-all-articles.csv#/data/details-firefox-kb-title-slug-all-articles
+* 
 ## 2023-05-14 How to get questions with answers after my latest answer and open in a web browser
 
 * Not perfect (only handles your last 20 answers, only handles 1 page of answers, doesn't handle where you answer more than once and other edge cases :-) ~!)
