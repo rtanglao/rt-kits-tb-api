@@ -1,6 +1,9 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2024-03-24 how to search thunderbird-kb-title-slug-all-articles-details.csv
+
+* Open it in datasette: https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Fthunderbird-kb-title-slug-all-articles-details.csv
 ## 2024-03-24 how to produce thunderbird-kb-title-slug-all-articles-details.csv
 ```sql
 select id, title, slug, url, locale, summary, html, products_str, topics_str from [details-allproducts-kb-title-slug-all-articles] where "products_str" like :p0 order by rowid 
