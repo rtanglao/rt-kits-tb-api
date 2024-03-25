@@ -1,6 +1,11 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2024-03-24 how to produce thunderbird-kb-title-slug-all-articles-details.csv
+```sql
+select id, title, slug, url, locale, summary, html, products_str, topics_str from [details-allproducts-kb-title-slug-all-articles] where "products_str" like :p0 order by rowid 
+```
+and then save as thunderbird-kb-title-slug-all-articles-details.csv which you can load into sqlite using datasette and search it
 ## 2023-08-01 get articles for all products and search for "firefox account"
 
 ```bash
