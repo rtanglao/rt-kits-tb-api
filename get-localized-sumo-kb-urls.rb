@@ -15,13 +15,13 @@ ARGF.each_line do |kb_slug|
   page.css('.translated_locale').map { |link| link['href'] }.each do |localized_slug|
     fromuri = "https://support.mozilla.org#{localized_slug}"
     logger.debug "fromuri:#{fromuri}"
-    from_uri= URI(fromuri)
+    from_uri = URI(fromuri)
     Net::HTTP.start(from_uri.host, from_uri.port, use_ssl: from_uri.scheme == 'https') do |http|
       request = Net::HTTP::Get.new from_uri.request_uri
       response = http.request request # Net::HTTPResponse object
       response_uri = response['location']
       puts response_uri.nil? ? localized_slug : response_uri
-      sleep(1)
+      sleep(1) # Keep Kitsune from throttling this script :-)
     end
   end
 end
