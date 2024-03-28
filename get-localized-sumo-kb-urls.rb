@@ -7,6 +7,8 @@ require 'mechanize'
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 mechanize = Mechanize.new
+# Prior art from 2017 :-)
+# https://github.com/rtanglao/rt-li-sumo-redirects/blob/master/OTHER-LANGUAGE/get-other-language-urls.rb
 
 ARGF.each_line do |kb_slug|
   kb_slug_url = "https://support.mozilla.org/en-US/kb/#{kb_slug.chomp}/show_translations"
