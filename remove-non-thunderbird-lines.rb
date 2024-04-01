@@ -13,6 +13,14 @@ if ARGV.length != 2
 end
 CSV_WITH_SLUGS = ARGV[0]
 CSV_WITH_GA = ARGV[1]
-ap CSV.parse(File.read(CSV_WITH_SLUGS), headers: true).by_col[1]
-# CSV.foreach(CSV_WITH_GA, headers: true).each do |ga_line|
-# end
+slugs = CSV.parse(File.read(CSV_WITH_SLUGS), headers: true).by_col[1].map(&:downcase)
+ap slugs
+tb_ga_csv = []
+CSV.foreach(CSV_WITH_GA, headers: true).each do |ga_line|
+  ga_l = ga_line.to_hash
+  ap ga_l
+  next if ga_l['Page'].nil?
+  page = ga_l['Page'].downcase
+  tb_ga_csv.push(ga_l) if page.include? 'thunderbird' ||slugs.include?(page)
+end
+ap tb_ga_csv
