@@ -13,6 +13,7 @@ if ARGV.length != 2
 end
 CSV_WITH_SLUGS = ARGV[0]
 CSV_WITH_GA = ARGV[1]
+
 slugs = CSV.parse(File.read(CSV_WITH_SLUGS), headers: true).by_col[1].map(&:downcase)
 ap slugs
 tb_ga_csv = []
@@ -26,9 +27,10 @@ CSV.foreach(CSV_WITH_GA, headers: true).each do |ga_line|
 end
 ap tb_ga_csv
 ap tb_ga_csv.first
-ap tb_ga_csv.first.keys 
+ap tb_ga_csv.first.keys
 
-CSV.open('junk.csv', "w") do |csv|
+TB_GA_OUTPUT_CSV = "just-thunderbird-desktop-articles-#{CSV_WITH_GA}".freeze
+CSV.open(TB_GA_OUTPUT_CSV, 'w') do |csv|
   csv << tb_ga_csv.first.keys # adds the attributes name on the first line
   tb_ga_csv.each do |hash|
     csv << hash.values
