@@ -3,8 +3,8 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 
 ## 2024-03-31 how to get all the Thunderbird localized URLs
 ```bash
-mlr --csv cut -f slug thunderbird-kb-title-slug-all-articles-details.csv | ./get-localized-sumo-kb-urls.rb \
- > thunderbird-localized-sumo-kb-article-slugs.txt
+mlr --headerless-csv-output --csv cut -f slug thunderbird-kb-title-slug-all-articles-details.csv \
+| ./get-localized-sumo-kb-urls.rb > thunderbird-localized-sumo-kb-article-slugs.txt
 ```
 
 ## 2024-03-24 how to search thunderbird-kb-title-slug-all-articles-details.csv
