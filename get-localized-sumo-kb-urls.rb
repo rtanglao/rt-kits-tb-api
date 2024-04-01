@@ -9,7 +9,7 @@ logger.level = Logger::DEBUG
 mechanize = Mechanize.new
 # Prior art from 2017 :-)
 # https://github.com/rtanglao/rt-li-sumo-redirects/blob/master/OTHER-LANGUAGE/get-other-language-urls.rb
-
+puts 'en-us-slug, localized-slug'
 ARGF.each_line do |kb_slug|
   kb_slug_url = "https://support.mozilla.org/en-US/kb/#{kb_slug.chomp}/show_translations"
   logger.debug "kb_slug_url #{kb_slug_url}"
@@ -22,7 +22,8 @@ ARGF.each_line do |kb_slug|
       request = Net::HTTP::Get.new from_uri.request_uri
       response = http.request request # Net::HTTPResponse object
       response_uri = response['location']
-      puts response_uri.nil? ? localized_slug : response_uri
+      localized_slug_after_redirect = response_uri.nil? ? localized_slug : response_uri
+      puts "#{kb_slug.chomp}, #{localized_slug_after_redirect}"
       sleep(1) # Keep Kitsune from throttling this script :-)
     end
   end
