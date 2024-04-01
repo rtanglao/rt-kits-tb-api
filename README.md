@@ -15,6 +15,21 @@ mlr --headerless-csv-output --csv cut -f slug thunderbird-kb-title-slug-all-arti
 select id, title, slug, url, locale, summary, html, products_str, topics_str from [details-allproducts-kb-title-slug-all-articles] where "products_str" like :p0 order by rowid 
 ```
 and then save as thunderbird-kb-title-slug-all-articles-details.csv which you can load into sqlite using datasette and search it
+
+### Better WAY!
+```bash
+ mlr --csv filter '$products_str =~ "thunderbird"' details-allproducts-kb-title-slug-all-articles.csv \
+> thunderbird-kb-title-slug-all-articles-details.csv
+```
+
+#### To count the number of filtered records!
+```bash
+roland@Rolands-MacBook-Pro rt-kits-tb-api % mlr --csv filter '$products_str =~ "thunderbird"' then count details-allproducts-kb-title-slug-all-articles.csv                      
+count
+154
+```
+
+
 ## 2023-08-01 get articles for all products and search for "firefox account"
 
 ```bash
