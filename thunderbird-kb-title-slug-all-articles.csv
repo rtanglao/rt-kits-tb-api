@@ -92,17 +92,14 @@ uninstall-thunderbird,Uninstall Thunderbird from your computer
 remote-content-in-messages,Remote Content in Messages
 cannot-delete-messages,Cannot delete messages
 how-create-and-use-mailing-lists-thunderbird,How to create and use mailing lists on Thunderbird
-new-thunderbird-38,New in Thunderbird 38.0
 installing-addon-thunderbird,Installing an Add-on in Thunderbird
 maildir-thunderbird,Maildir in Thunderbird
 avoid-and-report-mozilla-tech-support-scams,Avoid and report Mozilla tech support scams
 thunderbird-and-logjam,Thunderbird and Logjam
 thunderbird-accessibility-features,Thunderbird Accessibility Features
 get-latest-version-thunderbird-windows-xp-vista,How can I get the latest version of Thunderbird on Windows XP or Vista?
-new-thunderbird-45,New in Thunderbird 45.0
 message-tags,Message Tags - Categorize your email in Thunderbird
 advanced-panel-settings-in-thunderbird,"Advanced panel - System, network, updates, and other advanced settings in Thunderbird"
-new-thunderbird-52,New in Thunderbird 52.0
 your-hardware-no-longer-supported-tb,Your hardware is no longer supported by Thunderbird
 thunderbird-osx,"Thunderbird support has ended for Mac OS X 10.6, 10.7 and 10.8"
 message-threading-thunderbird,Message threading in Thunderbird - keep messages grouped by conversation
@@ -111,7 +108,6 @@ security-panel-settings-in-thunderbird,"Security panel - Junk, scam, antivirus, 
 privacy-panel-settings-in-thunderbird,Privacy panel - Remote content and cookie settings in Thunderbird
 find-what-version-thunderbird-you-are-using,Find what version of Thunderbird you are using
 password-manager-remember-delete-change-tb,"Password Manager - Remember, delete and change passwords in Thunderbird"
-new-thunderbird-60,New in Thunderbird 60
 thunderbird-end-support-xp-and-vista,Thunderbird end of Support for XP and Vista
 tables-format-messages-rows-and-columns,Tables - Format messages with rows and columns
 unify-your-pop-email-accounts-global-inbox,Unify your POP email accounts with a global inbox
@@ -122,15 +118,12 @@ unable-install-add-on-extension-theme-thunderbird,Unable to install add-ons (ext
 thunderbird-beta,Thunderbird Beta
 getting-started-thunderbird-main-window,Getting started with the Thunderbird main window
 how-change-thunderbird-layout,How to change the Thunderbird layout
-firefox-accounts-supportmozillaorg,Firefox accounts on support.mozilla.org
 unable-launch-older-version-profile,Unable to use profile when you launch an older version of Thunderbird
-new-thunderbird-68,New in Thunderbird 68.0
 dangerous-directories-Thunderbird-account-settings,Dangerous directories
-profile-manager-create-and-remove-thunderbird-profiles,profile manager create and remove thunderbird profiles
+profile-manager-create-and-remove-thunderbird-profiles,Profile Manager - Create and remove Thunderbird profiles
 dedicated-profile-thunderbird-installation,Dedicated profile per Thunderbird installation
 introduction-to-e2e-encryption,Introduction to End-to-end encryption in Thunderbird
 managing-thunderbird-updates,Managing Thunderbird Updates
-new-thunderbird-78,New in Thunderbird 78.0
 openpgp-thunderbird-howto-and-faq,OpenPGP in Thunderbird - HOWTO and FAQ
 thunderbird-78-faq,Thunderbird 78 FAQ
 profiling-thunderbird-performance,Profiling Thunderbird Performance
@@ -140,7 +133,6 @@ policies-extensions-locked,Unable to uninstall add-ons (extensions or themes)
 compacting-folders-potential-complications,Compacting folders - Potential complications
 openpgp-recipient-alias-configuration,OpenPGP Recipient Alias Configuration
 customize-date-time-formats-thunderbird,Customize Date and Time formats in Thunderbird
-new-thunderbird-91,New in Thunderbird 91
 automatic-conversion-google-mail-accounts-oauth20,Automatic Conversion of Google mail accounts to OAuth 2.0 Authentication
 openpgp-unsafe-key-properties-ignored,Unsafe properties of OpenPGP keys might be ignored
 new-thunderbird-102,New in Thunderbird 102
@@ -152,5 +144,13 @@ thunderbird-help-setup-account-e2ee,Setup your email account for using End-To-En
 thunderbird-export,Export your Thunderbird Profile
 thunderbird-import,Import settings and data into Thunderbird
 upgrading-older-version-thunderbird,Upgrading from an older version of Thunderbird
-microsoft-oauth-authentication-and-thunderbird-202,Microsoft OAuth Authentication and Thunderbird in 2023
+microsoft-oauth-authentication-and-thunderbird-202,Microsoft OAuth Authentication and Thunderbird in 2024
 new-thunderbird-115-supernova,New in Thunderbird 115 Supernova
+getting-started-thunderbird-main-window-supernova,Getting Started with the Thunderbird main window (Supernova and newer)
+unified-toolbar,Unified Toolbar
+userchromecss-js-usercontent-unsupported,userChrome.css and .js and userContent are unsupported
+thunderbird-matrix-chat-faq,Thunderbird Matrix Chat FAQ
+thunderbird-115-supernova-faq,Thunderbird 115 Supernova FAQ
+well-known-sources-for-downloading-thunderbird,Well known sources for downloading the Thunderbird email software
+verifying-thunderbird-software-package,Verifying a Mozilla Thunderbird installation package
+instructions-smime-certificate-using-csr,Instructions for obtaining a personal S/MIME certificate by creating a CSR
