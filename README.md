@@ -1,6 +1,11 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2024-06-23 How To get all the Thunderbird revisions
+```bash
+./get-revisions-sumo-kb-urls.rb details-thunderbird-kb-title-slug-all-articles.csv > thunderbird-revisions.csv
+```
+
 ## 2024-04-01 remove all non Thunderbird URLs
 ```bash
 ./remove-non-thunderbird-lines.rb thunderbird-localized-sumo-kb-article-slugs.csv just-pageviews-2024-04-01-GA-jan1-dec31-2023-top5000-pageviews.csv
