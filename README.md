@@ -3,6 +3,7 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 
 ## 2024-06-23 How To get all the Thunderbird revisions
 ```bash
+mlr --headerless-csv-output --csv cut -f slug thunderbird-kb-title-slug-all-articles-details.csv | \
 ./get-revisions-sumo-kb-urls.rb details-thunderbird-kb-title-slug-all-articles.csv > thunderbird-revisions.csv
 ```
 
