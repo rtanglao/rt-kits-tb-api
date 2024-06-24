@@ -3,7 +3,11 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 
 ## 2024-06-24 Count all the Thunderbird revisions by creator
 ```bash
-roland@Rolands-MacBook-Pro rt-kits-tb-api % mlr --csv count-distinct -f creator then sort -nr count thunderbird-revisions.csv 
+roland@Rolands-MacBook-Pro rt-kits-tb-api % mlr --csv count-distinct -f creator then sort -nr count \
+thunderbird-revisions.csv
+```
+
+```csv
 creator,count
 /en-US/user/wsmwk/,259
 /en-US/user/Tonnes/,210
