@@ -34,5 +34,5 @@ ARGF.each_line do |kb_slug|
     revision = row.css('td.date a').attr('href').value
     puts "#{revision},#{datetime},#{creator},#{display_name},#{status}"
   end
+  sleep(1)
 end
-sleep(1)
