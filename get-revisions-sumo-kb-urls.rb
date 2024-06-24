@@ -14,6 +14,7 @@ mechanize = Mechanize.new
 # https://github.com/rtanglao/rt-li-sumo-redirects/blob/master/OTHER-LANGUAGE/get-other-language-urls.rb
 puts 'revision,datetime,creator,display_name,status'
 ARGF.each_line do |kb_slug|
+  logger.debug "kb_slug:#{kb_slug}"
   kb_slug_url = "https://support.mozilla.org/en-US/kb/#{kb_slug.chomp}/history"
   logger.debug "kb_slug_url #{kb_slug_url}"
   page = mechanize.get(kb_slug_url)
@@ -34,3 +35,4 @@ ARGF.each_line do |kb_slug|
     puts "#{revision},#{datetime},#{creator},#{display_name},#{status}"
   end
 end
+sleep(1)
