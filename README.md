@@ -1,6 +1,12 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2024-06-24 Get all the Firefox Desktop revisions
+```bash
+ mlr --headerless-csv-output --csv cut -f slug firefox-kb-title-slug-all-articles.csv | \
+./get-revisions-sumo-kb-urls.rb > firefox-revisions.csv
+```
+
 ## 2024-06-24 Count all the Thunderbird revisions by creator
 ```bash
 roland@Rolands-MacBook-Pro rt-kits-tb-api % mlr --csv count-distinct -f creator then sort -nr count \
