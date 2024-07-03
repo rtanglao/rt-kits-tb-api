@@ -10,12 +10,13 @@ require 'csv'
 require 'logger'
 require 'pry'
 require_relative 'get-kitsune-response'
+require 'nokogiri'
 
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 
-if ARGV.length < 1
-  puts "usage: #{$0} <csv-file-with-slugs>"
+if ARGV.empty?
+  puts "usage: #{$PROGRAM_NAME} <csv-file-with-slugs>"
   exit
 end
 article_number = 0
@@ -33,10 +34,11 @@ CSV.foreach(CSV_SUMMARY_FILE, headers: true).each do |a|
   article = article.to_hash
   article['products_str'] = article['products'].join(';')
   article['topics_str'] = article['topics'].join(';')
+  article['text'] = Nokogiri::HTML.parse(article['html']).text
   logger.debug article.ai
   article['url'] = "https://support.mozilla.org#{article['url']}"
   csv.push(article.except('products', 'topics'))
-  sleep(5.0) # sleep 5 seconds between API calls
+  sleep(1.0) # sleep 1 seconds between API calls
 end
 
 headers = csv[0].keys
