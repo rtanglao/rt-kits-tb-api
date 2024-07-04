@@ -36,8 +36,15 @@ CSV.foreach(CSV_SUMMARY_FILE, headers: true).each do |a|
   article['products_str'] = article['products'].join(';')
   article['topics_str'] = article['topics'].join(';')
   html_with_link_anchors_fixed = article['html'].gsub('href="#w', "href=\"/kb/#{slug}#w")
-  article['text'] = Ghostwriter::Writer.new(
-    link_base: "https://support.mozilla.org").textify(html_with_link_anchors_fixed)
+  logger.debug "html_with_link_anchors_fixed: #{html_with_link_anchors_fixed.ai}"
+  # FIXME: get rid of regex by fixing ghostwriter see https://github.com/rtanglao/rt-kits-tb-api/issues/2 :-)
+  article['text'] = if slug =~ /(dangerous-directories-Thunderbird-account-settings|keyboard-shortcuts-thunderbird)/i
+                      Nokogiri::HTML.parse(article['html']).text
+                    else
+                      Ghostwriter::Writer.new(
+                        link_base: 'https://support.mozilla.org'
+                      ).textify(html_with_link_anchors_fixed)
+                    end
   logger.debug article.ai
   article['url'] = "https://support.mozilla.org#{article['url']}"
   csv.push(article.except('products', 'topics'))
