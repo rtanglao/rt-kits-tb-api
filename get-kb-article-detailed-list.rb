@@ -4,14 +4,15 @@ require 'bundler/setup'
 require 'typhoeus'
 require 'amazing_print'
 require 'json'
-require 'time'
-require 'date'
 require 'csv'
 require 'logger'
 require 'pry'
 require_relative 'get-kitsune-response'
 require 'uri'
-require 'ghostwriter'
+# Got rid of ghostwriter because it couldn't handle the keyboard shortcuts article and it's non  standard text
+# https://github.com/TenjinInc/ghostwriter
+# require 'ghostwriter'
+require 'reverse_markdown'
 
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
@@ -20,7 +21,6 @@ if ARGV.empty?
   puts "usage: #{$PROGRAM_NAME} <csv-file-with-slugs>"
   exit
 end
-article_number = 0
 CSV_SUMMARY_FILE = ARGV[0]
 logger.debug "CSV_SUMMARY_FILE: #{CSV_SUMMARY_FILE}"
 csv = []
@@ -35,17 +35,21 @@ CSV.foreach(CSV_SUMMARY_FILE, headers: true).each do |a|
   article = article.to_hash
   article['products_str'] = article['products'].join(';')
   article['topics_str'] = article['topics'].join(';')
-  html_with_link_anchors_fixed = article['html'].gsub('href="#w', "href=\"/kb/#{slug}#w")
-  logger.debug "html_with_link_anchors_fixed: #{html_with_link_anchors_fixed.ai}"
+  # html_with_link_anchors_fixed = article['html'].gsub('href="#w', "href=\"/kb/#{slug}#w")
+  # logger.debug "html_with_link_anchors_fixed: #{html_with_link_anchors_fixed.ai}"
   # FIXME: get rid of regex by fixing ghostwriter see https://github.com/rtanglao/rt-kits-tb-api/issues/2 :-)
-  article['text'] = if slug =~ /(dangerous-directories-Thunderbird-account-settings|keyboard-shortcuts-thunderbird)/i
-                      Nokogiri::HTML.parse(article['html']).text
-                    else
-                      Ghostwriter::Writer.new(
-                        link_base: 'https://support.mozilla.org'
-                      ).textify(html_with_link_anchors_fixed)
-                    end
-  logger.debug article.ai
+  # article['text'] = if slug =~ /(dangerous-directories-Thunderbird-account-settings|keyboard-shortcuts-thunderbird)/i
+  #                     Nokogiri::HTML.parse(article['html']).text
+  #                   else
+  #                     Ghostwriter::Writer.new(
+  #                       link_base: 'https://support.mozilla.org'
+  #                     ).textify(html_with_link_anchors_fixed)
+  #                   end
+  html_with_link_anchors_fixed = article['html'].gsub('href="#w', "href=\"https://support.mozilla.org/kb/#{slug}#w")
+  html_with_link_anchors_fixed = html_with_link_anchors_fixed.gsub('href="/', 'href=\"https://support.mozilla.org/kb/')
+  article['text'] = ReverseMarkdown.convert html_with_link_anchors_fixed
+  logger.debug "markdown text: #{article['text']}"
+  # binding.pry
   article['url'] = "https://support.mozilla.org#{article['url']}"
   csv.push(article.except('products', 'topics'))
   sleep(1.0) # sleep 1 seconds between API calls
