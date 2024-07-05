@@ -46,7 +46,7 @@ CSV.foreach(CSV_SUMMARY_FILE, headers: true).each do |a|
   #                     ).textify(html_with_link_anchors_fixed)
   #                   end
   html_with_link_anchors_fixed = article['html'].gsub('href="#w', "href=\"https://support.mozilla.org/kb/#{slug}#w")
-  html_with_link_anchors_fixed = html_with_link_anchors_fixed.gsub('href="/', 'href=\"https://support.mozilla.org/kb/')
+  html_with_link_anchors_fixed = html_with_link_anchors_fixed.gsub('href="/', 'href=\"https://support.mozilla.org/')
   article['text'] = ReverseMarkdown.convert html_with_link_anchors_fixed
   logger.debug "markdown text: #{article['text']}"
   # binding.pry

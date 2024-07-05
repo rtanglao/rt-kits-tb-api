@@ -1,23 +1,21 @@
-html "
-
-Keyboard shortcuts are quick key combinations that let you perform certain tasks in Thunderbird faster. For example, if you want to archive a message, you can simply strike the ""A"" key rather than using the mouse to click the option in a menu. Some shortcuts can be customized or disabled with the use of an add-on.
+Keyboard shortcuts are quick key combinations that let you perform certain tasks in Thunderbird faster. For example, if you want to [archive a message]("https://support.mozilla.org/en-US/kb/archived-messages"), you can simply strike the "A" key rather than using the mouse to click the option in a menu. Some shortcuts can be customized or disabled with the use of an add-on.
 
 ## Table of Contents
 
-- 1 About keyboard shortcuts
-- 2 Shortcut keys and operating systems
-- 3 List of keyboard shortcuts
-  - 3.1 Message functions
-  - 3.2 Search and filter functions
-  - 3.3 Moving around Thunderbird
-  - 3.4 Writing messages
-  - 3.5 Address Book
-  - 3.6 Calendar
-  - 3.7 Miscellaneous
+- [1 About keyboard shortcuts](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_about-keyboard-shortcuts)
+- [2 Shortcut keys and operating systems](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_shortcut-keys-and-operating-systems)
+- [3 List of keyboard shortcuts](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_list-of-keyboard-shortcuts)
+  - [3.1 Message functions](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_message-functions)
+  - [3.2 Search and filter functions](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_search-and-filter-functions)
+  - [3.3 Moving around Thunderbird](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird)
+  - [3.4 Writing messages](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_writing-messages)
+  - [3.5 Address Book](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_address-book)
+  - [3.6 Calendar](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_calendar)
+  - [3.7 Miscellaneous](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_miscellaneous)
 
 # About keyboard shortcuts
 
-In Thunderbird, keyboard shortcuts are context sensitive, which means that they vary according to the area of the Thunderbird interface that is currently ""active"". For example, when a message is selected in the message list, the Cut, Copy, and Paste keyboard shortcuts are disabled (because it doesn't make sense to cut and paste text into the message list). Similarly, if you select text while you are reading a message, the Copy shortcut is available, but not the Cut or Paste shortcuts (because while it makes sense to copy text from a message you are reading, it doesn't make sense to paste text into or cut text from a message you are reading).
+In Thunderbird, keyboard shortcuts are context sensitive, which means that they vary according to the area of the Thunderbird interface that is currently "active". For example, when a message is selected in the message list, the Cut, Copy, and Paste keyboard shortcuts are disabled (because it doesn't make sense to cut and paste text into the message list). Similarly, if you select text while you are reading a message, the Copy shortcut is available, but not the Cut or Paste shortcuts (because while it makes sense to copy text from a message you are reading, it doesn't make sense to paste text into or cut text from a message you are reading).
 
 The keyboard shortcut functions themselves may vary depending on the part of the Thunderbird interface that is active. For example, if you are writing a message, the Ctrl + ACommand + A keyboard shortcut selects all the text in the message. However, if a message is highlighted in the message list, Ctrl + ACommand + A selects all the messages in the message list.
 
@@ -31,17 +29,17 @@ The keyboard shortcut functions themselves may vary depending on the part of the
 
 View Keyboard Shortcuts for:
 
-- Message functions
-- Search and filter functions
-- Moving around Thunderbird
-- Writing messages
-- Address Book
-- Calendar
-- Miscellaneous
+- [Message functions](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_message-functions)
+- [Search and filter functions](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_search-and-filter-functions)
+- [Moving around Thunderbird](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird)
+- [Writing messages](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_writing-messages)
+- [Address Book](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_address-book)
+- [Calendar](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_calendar)
+- [Miscellaneous](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_miscellaneous)
 
 ## Message functions
 
-&nbsp;&nbsp;←&nbsp; | &nbsp;&nbsp;↑&nbsp;&nbsp; | &nbsp;&nbsp;→
+[&nbsp;&nbsp;←&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_list-of-keyboard-shortcuts) | [&nbsp;&nbsp;↑&nbsp;&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_list-of-keyboard-shortcuts) | [&nbsp;&nbsp;→](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_search-and-filter-functions)
 
 | Starting a new message | |
 | --- | --- |
@@ -57,7 +55,7 @@ Ctrl + MCommand + N |
 Write, Reply, Reply All, Reply List, or Forward;  
 _ **or** _ _Right-click_ existing message, then hold Shift while choosing any one of the following from the context menu:  
 Reply to Sender Only, Reply to All, Reply to List, or Forward. |
-| _For keyboard shortcuts during message composition, see Writing Messages._ | |
+| _For keyboard shortcuts during message composition, see [Writing Messages](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_writing-messages)._ | |
 | Receiving and reading messages | |
 | --- | --- |
 | Get New Messages for Current Account | F5F5  
@@ -90,7 +88,7 @@ Command + Control + _scroll wheel down_ |
 | Newsgroups: Ignore or Unignore Thread | K |
 | Newsgroups: Ignore or Unignore Subthread | Shift + K |
 | Newsgroups: Watch Thread | W |
-| _For keyboard shortcuts to move between your messages, see Moving around Thunderbird._ | |
+| _For keyboard shortcuts to move between your messages, see [Moving around Thunderbird](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird)._ | |
 | Managing your messages | |
 | --- | --- |
 | Print message or selected message text | Ctrl + PCommand + P |
@@ -98,7 +96,7 @@ Command + Control + _scroll wheel down_ |
 | View Message Source | Ctrl + UCommand + U |
 | Select All (messages, text, or attachments) | Ctrl + ACommand + A |
 | Select Thread | Ctrl + Shift + ACommand + Shift + A |
-| Toggle Caret browsing (select text with keyboard) | F7 |
+| Toggle [Caret browsing](https://support.mozilla.org/en-US/kb/Unable%20to%20scroll%20with%20arrow%20keys) (select text with keyboard) | F7 |
 | Copy selected text | Ctrl + CCommand + C |
 | Cut selected search text | Ctrl + XCommand + X |
 | Paste text into search or filter fields | Ctrl + VCommand + V |
@@ -123,13 +121,13 @@ Command + _Click_ on each message that you want to add to your selection.
 | Copy message to another folder | Hold CtrlOption while _dragging_ message to destination folder (release mouse button before releasing CtrlOption). |
 | Move message to another folder | _Drag_ message to destination folder. |
 | Move/Copy message to previous target folder Again | Ctrl + Shift + MCtrl + Shift + MCommand + Option + M |
-| Archive Message | A |
+| [Archive Message]("https://support.mozilla.org/en-US/kb/archived-messages") | A |
 | Delete message, folder, attachment, or selected search text | Del |
 | Delete message bypassing trash (no Undo!) | Shift + Del |
 | Undo | Ctrl + ZCommand + Z |
 | Redo | Ctrl + YCommand + Y |
 | Rename Folder | F2 |
-| Tagging and marking your messages | |
+| [Tagging]("https://support.mozilla.org/en-US/kb/message-tags") and marking your messages | |
 | --- | --- |
 | Add/Remove Tag | 1 to 9 |
 | Remove All Tags from Message | 0 (zero) |
@@ -143,12 +141,12 @@ Command + _Click_ on each message that you want to add to your selection.
 
 ## Search and filter functions
 
-&nbsp;&nbsp;←&nbsp; | &nbsp;&nbsp;↑&nbsp;&nbsp; | &nbsp;&nbsp;→
+[&nbsp;&nbsp;←&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_message-functions) | [&nbsp;&nbsp;↑&nbsp;&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_list-of-keyboard-shortcuts) | [&nbsp;&nbsp;→](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird)
 
 | Finding messages | |
 | --- | --- |
-| Search All Messages (global fulltext search in all accounts) | Ctrl + KCommand + K |
-| Quick Filter (search messages in current folder or view) | Ctrl + Shift + KCommand + Shift + K |
+| [Search All Messages]("https://support.mozilla.org/en-US/kb/global-search") (global fulltext search in all accounts) | Ctrl + KCommand + K |
+| [Quick Filter]("https://support.mozilla.org/en-US/kb/quick-filter-toolbar") (search messages in current folder or view) | Ctrl + Shift + KCommand + Shift + K |
 | Clear current Quick Filter; hide Quick Filter Bar | Esc (as often as needed) |
 | Search Messages (advanced search in folder) | Ctrl + Shift + FCommand + Shift + F |
 | Finding text in the current message | |
@@ -161,11 +159,11 @@ F3 |
 Shift + F3Command + Shift + G  
 Shift + F3 |
 | _For a history of search shortcuts across different versions  
-of Thunderbird, see Keyboard Shortcuts for Searching._ | |
+of Thunderbird, see [Keyboard Shortcuts for Searching]("https://support.mozilla.org/en-US/kb/keyboard-shortcuts-searching")._ | |
 
 ## Moving around Thunderbird
 
-&nbsp;&nbsp;←&nbsp; | &nbsp;&nbsp;↑&nbsp;&nbsp; | &nbsp;&nbsp;→
+[&nbsp;&nbsp;←&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_search-and-filter-functions) | [&nbsp;&nbsp;↑&nbsp;&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_list-of-keyboard-shortcuts) | [&nbsp;&nbsp;→](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_writing-messages)
 
 | Moving between messages | |
 | --- | --- |
@@ -185,10 +183,10 @@ of Thunderbird, see Keyboard Shortcuts for Searching._ | |
 | Move to next main UI area  
 <small>In the Mail tab, quickly switch between Folder Pane, Message List, Message Pane, and Spaces Toolbar (forwards).</small> | F6  
 Ctrl + F6F6F6 |
-| Move selected Message List Pane column e.g. Subject to the right  
-<small>Applies to the Table View of the Mail Tab; does not apply to Card View.<span class="" for data-for="" mac> Not fully working on macOS due to <a href="" https:>1862272</a>. Workarounds: after clicking on a column, hit <span class="" key>Tab</span> and then that one column can be reordered; if able, use the mouse to drag and drop the columns.</span></small> | AltOption+Right |
-| Move selected Message List Pane column e.g. Subject to the left  
-<small>Applies to the Table View of the Mail Tab; does not apply to Card View.<span class="" for data-for="" mac> Not fully working on macOS due to <a href="" https:>1862272</a>. Workarounds: after clicking on a column, hit <span class="" key>Tab</span> and then that one column can be reordered; if able, use the mouse to drag and drop the columns.</span></small> | AltOption+Left |
+| Move selected [Message List Pane]("https://support.mozilla.org/en-US/kb/getting-started-thunderbird-main-window-supernova#w_7-message-list-pane") column e.g. Subject to the right  
+<small>Applies to the Table View of the Mail Tab; does not apply to Card View.<span class="for" data-for="mac"> Not fully working on macOS due to <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1862272">1862272</a>. Workarounds: after clicking on a column, hit <span class="key">Tab</span> and then that one column can be reordered; if able, use the mouse to drag and drop the columns.</span></small> | AltOption+Right |
+| Move selected [Message List Pane]("https://support.mozilla.org/en-US/kb/getting-started-thunderbird-main-window-supernova#w_7-message-list-pane") column e.g. Subject to the left  
+<small>Applies to the Table View of the Mail Tab; does not apply to Card View.<span class="for" data-for="mac"> Not fully working on macOS due to <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1862272">1862272</a>. Workarounds: after clicking on a column, hit <span class="key">Tab</span> and then that one column can be reordered; if able, use the mouse to drag and drop the columns.</span></small> | AltOption+Left |
 | Move to previous main UI area  
 <small>In the Mail tab, quickly switch between Folder Pane, Message List, Message Pane, and Spaces Toolbar (backwards).</small> | Shift + F6  
 Ctrl + Shift + F6Shift + F6Shift + F6 |
@@ -221,11 +219,11 @@ Ctrl + F4 (only for closing a tab)Ctrl + WCommand + W |
 
 ## Writing messages
 
-&nbsp;&nbsp;←&nbsp; | &nbsp;&nbsp;↑&nbsp;&nbsp; | &nbsp;&nbsp;→
+[&nbsp;&nbsp;←&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird) | [&nbsp;&nbsp;↑&nbsp;&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_list-of-keyboard-shortcuts) | [&nbsp;&nbsp;→](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_address-book)
 
 | Creating, saving, and sending a message | |
 | --- | --- |
-| New message (_see Starting a new message_) | Ctrl + N  
+| New message (_see [Starting a new message](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_message-functions)_) | Ctrl + N  
 Ctrl + MCtrl + N  
 Ctrl + MCommand + N |
 | Save Draft | Ctrl + SCommand + S |
@@ -251,8 +249,8 @@ Ctrl + _scroll wheel down_Command + Control + _scroll wheel down_ |
 | Reset Zoom | Ctrl + 0 (zero)Command + 0 (zero) |
 | Toggle Attachment Pane | Alt + MCtrl + M &nbsp;&nbsp;_New in TB 60_ |
 | Show Main Mail Window (Mail & Newsgroups) | Ctrl + 1Command + 1 |
-| _Most of the common keyboard shortcuts for  
-controlling a Thunderbird window can also be used  
+| _Most of the common [keyboard shortcuts for  
+controlling a Thunderbird window](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird) can also be used  
 in the compose window._ |
 | Editing the message text and handling attachments | |
 | --- | --- |
@@ -311,7 +309,7 @@ Command + , |
 | Text Style **Bold** | Ctrl + BCommand + B |
 | Text Style _Italics_ | Ctrl + ICommand + I |
 | Text Style <u>Underline</u> | Ctrl + UCommand + U |
-| Text Style ""\<tt\>Fixed Width\</tt\>"" | Ctrl + TCommand + T |
+| Text Style "\<tt\>Fixed Width\</tt\>" | Ctrl + TCommand + T |
 | Discontinue or Remove Text Styles | Ctrl + Shift + Y  
 Ctrl + SpaceCommand + Shift + Y |
 | Increase Indent | Ctrl + ]Command + ] |
@@ -319,7 +317,7 @@ Ctrl + SpaceCommand + Shift + Y |
 
 ## Address Book
 
-&nbsp;&nbsp;←&nbsp; | &nbsp;&nbsp;↑&nbsp;&nbsp; | &nbsp;&nbsp;→
+[&nbsp;&nbsp;←&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_writing-messages) | [&nbsp;&nbsp;↑&nbsp;&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_list-of-keyboard-shortcuts) | [&nbsp;&nbsp;→](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_calendar)
 
 | New Address Book Contact | Ctrl + NCommand + N |
 | Write new message to selected contact(s) | Ctrl + M |
@@ -333,7 +331,7 @@ Ctrl + SpaceCommand + Shift + Y |
 
 ## Calendar
 
-&nbsp;&nbsp;←&nbsp; | &nbsp;&nbsp;↑&nbsp;&nbsp; | &nbsp;&nbsp;→
+[&nbsp;&nbsp;←&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_address-book) | [&nbsp;&nbsp;↑&nbsp;&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_list-of-keyboard-shortcuts) | [&nbsp;&nbsp;→](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_miscellaneous)
 
 | Get started | |
 | --- | --- |
@@ -347,7 +345,7 @@ Ctrl + SpaceCommand + Shift + Y |
 | Calendar Tab | |
 | --- | --- |
 | Show Events Filter bar | Events and Tasks ⌈ Find Events |
-| Filter Events | (Bug 449018) |
+| Filter Events | ([Bug 449018](https://bugzilla.mozilla.org/show_bug.cgi?id=449018)) |
 | Clear current Events Filter | Esc |
 | Go to Today | Alt + End
 
@@ -368,12 +366,11 @@ Ctrl + SpaceCommand + Shift + Y |
 | Redo | Ctrl + YCommand + Y |
 | Print | Ctrl + PCommand + P |
 | _Furthermore, most of the keyboard shortcuts for  
-moving around Thunderbird still apply._ |
+[moving around Thunderbird](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_moving-around-thunderbird) still apply._ |
 
 ## Miscellaneous
 
-&nbsp;&nbsp;←&nbsp; | &nbsp;&nbsp;↑&nbsp;&nbsp; |
+[&nbsp;&nbsp;←&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_calendar) | [&nbsp;&nbsp;↑&nbsp;&nbsp;](https://support.mozilla.org/kb/keyboard-shortcuts-thunderbird#w_list-of-keyboard-shortcuts) |
 
 | Clear History | Ctrl + Shift + DelCommand + Shift + Del |
 
-"
