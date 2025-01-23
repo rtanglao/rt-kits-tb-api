@@ -5,6 +5,8 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 ```bash
 # the following updates: allproducts-kb-title-slug-all-articles.csv
 ./get-all-products-kb-articles-list.rb
+./get-kb-article-detailed-list.rb allproducts-kb-title-slug-all-articles.csv
+# resulting file is: details-allproducts-kb-title-slug-all-articles.csv
 ```
 ## 2024-06-24 Get all the Firefox Desktop revisions
 ```bash
