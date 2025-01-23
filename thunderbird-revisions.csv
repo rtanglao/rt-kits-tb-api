@@ -83,6 +83,7 @@ revision,datetime,creator,display_name,status
 /en-US/kb/what-mozilla-maintenance-service/revision/23148,2012-04-11T03:34:04-07:00,/en-US/user/Verdi/,Michael Verdi,approved
 /en-US/kb/what-mozilla-maintenance-service/revision/23127,2012-04-10T09:19:07-07:00,/en-US/user/Verdi/,Michael Verdi,approved
 /en-US/kb/what-mozilla-maintenance-service/revision/23113,2012-04-10T04:15:42-07:00,/en-US/user/Verdi/,Michael Verdi,unreviewed
+/en-US/kb/signatures/revision/282998,2024-07-22T02:47:25.439441-07:00,/en-US/user/AliceWyman/,AliceWyman,rejected
 /en-US/kb/signatures/revision/244495,2022-05-24T01:35:24-07:00,/en-US/user/Toad-Hall/,Toad-Hall,current
 /en-US/kb/signatures/revision/244492,2022-05-24T01:18:39-07:00,/en-US/user/Toad-Hall/,Toad-Hall,unreviewed
 /en-US/kb/signatures/revision/169131,2018-10-23T10:41:07-07:00,/en-US/user/Chris_Ilias/,Chris Ilias,approved
@@ -91,7 +92,9 @@ revision,datetime,creator,display_name,status
 /en-US/kb/signatures/revision/79242,2014-10-22T18:30:21-07:00,/en-US/user/user669794/,user669794,approved
 /en-US/kb/signatures/revision/56808,2014-02-27T16:35:55-08:00,/en-US/user/Swarnava/,Swarnava Sengupta,approved
 /en-US/kb/signatures/revision/54315,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/global-search/revision/253805,2022-11-21T21:54:02-08:00,/en-US/user/Mozinet/,Mozinet,current
+/en-US/kb/global-search/revision/287751,2024-10-30T06:55:51.202753-07:00,/en-US/user/wsmwk/,Wayne Mery,current
+/en-US/kb/global-search/revision/285620,2024-09-26T09:33:52.106411-07:00,/en-US/user/superian/,superian,unreviewed
+/en-US/kb/global-search/revision/253805,2022-11-21T21:54:02-08:00,/en-US/user/Mozinet/,Mozinet,approved
 /en-US/kb/global-search/revision/251385,2022-10-07T06:20:21-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/global-search/revision/119219,2016-03-04T20:38:06-08:00,/en-US/user/buluma_michael/,Michael Buluma,approved
 /en-US/kb/global-search/revision/119218,2016-03-04T20:18:43-08:00,/en-US/user/buluma_michael/,Michael Buluma,unreviewed
@@ -159,8 +162,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/archived-messages/revision/79247,2014-10-22T18:36:44-07:00,/en-US/user/user669794/,user669794,approved
 /en-US/kb/archived-messages/revision/57387,2014-03-05T18:24:25-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,approved
 /en-US/kb/archived-messages/revision/54324,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/automatic-account-configuration/revision/279725,2024-05-10T14:34:34.923403-07:00,/en-US/user/Mozinet/,Mozinet,unreviewed
-/en-US/kb/automatic-account-configuration/revision/276412,2024-02-15T16:16:31.971951-08:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/automatic-account-configuration/revision/279725,2024-05-10T14:34:34.923403-07:00,/en-US/user/Mozinet/,Mozinet,current
+/en-US/kb/automatic-account-configuration/revision/276412,2024-02-15T16:16:31.971951-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/automatic-account-configuration/revision/264562,2023-08-16T13:40:02-07:00,/en-US/user/mihait/,mihait,approved
 /en-US/kb/automatic-account-configuration/revision/262006,2023-06-09T06:27:54-07:00,/en-US/user/plwt/,Paul,approved
 /en-US/kb/automatic-account-configuration/revision/209006,2020-10-11T14:48:35-07:00,/en-US/user/MattAuSupport/,Matt,approved
@@ -221,6 +224,7 @@ revision,datetime,creator,display_name,status
 /en-US/kb/keyboard-shortcuts-thunderbird/revision/56497,2014-02-24T05:05:17-08:00,/en-US/user/ideato/,ideato,unreviewed
 /en-US/kb/keyboard-shortcuts-thunderbird/revision/56201,2014-02-21T23:14:52-08:00,/en-US/user/Swarnava/,Swarnava Sengupta,approved
 /en-US/kb/keyboard-shortcuts-thunderbird/revision/54326,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
+/en-US/kb/profiles-where-thunderbird-stores-user-data/revision/283450,2024-08-01T03:52:59.351396-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/profiles-where-thunderbird-stores-user-data/revision/272933,2023-12-20T23:07:15.926873-08:00,/en-US/user/markh2/,Mark Heijl,current
 /en-US/kb/profiles-where-thunderbird-stores-user-data/revision/250993,2022-09-24T01:53:51-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/profiles-where-thunderbird-stores-user-data/revision/242550,2022-04-24T13:03:31-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
@@ -281,17 +285,19 @@ revision,datetime,creator,display_name,status
 /en-US/kb/troubleshoot-mode-thunderbird/revision/56469,2014-02-24T02:18:15-08:00,/en-US/user/Swarnava/,Swarnava Sengupta,approved
 /en-US/kb/troubleshoot-mode-thunderbird/revision/56067,2014-02-20T15:48:16-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/troubleshoot-mode-thunderbird/revision/54333,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/thunderbird-and-gmail/revision/276408,2024-02-15T10:46:19.562403-08:00,/en-US/user/rtanglao/,Roland Tanglao,current
-/en-US/kb/thunderbird-and-gmail/revision/276003,2024-02-07T17:53:13.938530-08:00,/en-US/user/roy-orbison/,roy-orbison,approved
+/en-US/kb/thunderbird-and-gmail/revision/290769,2024-12-28T10:27:20.127875-08:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/thunderbird-and-gmail/revision/283347,2024-07-29T19:38:12.738193-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
+/en-US/kb/thunderbird-and-gmail/revision/276408,2024-02-15T10:46:19.562403-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-and-gmail/revision/276003,2024-02-07T17:53:13.938530-08:00,/en-US/user/roy-orbitson/,Roy Orbitson,approved
 /en-US/kb/thunderbird-and-gmail/revision/259804,2023-04-20T22:56:52-07:00,/en-US/user/Mozinet/,Mozinet,approved
-/en-US/kb/thunderbird-and-gmail/revision/254055,2022-11-27T09:24:13-08:00,/en-US/user/roy-orbison/,roy-orbison,approved
-/en-US/kb/thunderbird-and-gmail/revision/254054,2022-11-27T09:19:00-08:00,/en-US/user/roy-orbison/,roy-orbison,unreviewed
+/en-US/kb/thunderbird-and-gmail/revision/254055,2022-11-27T09:24:13-08:00,/en-US/user/roy-orbitson/,Roy Orbitson,approved
+/en-US/kb/thunderbird-and-gmail/revision/254054,2022-11-27T09:19:00-08:00,/en-US/user/roy-orbitson/,Roy Orbitson,unreviewed
 /en-US/kb/thunderbird-and-gmail/revision/251084,2022-09-26T21:21:12-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/thunderbird-and-gmail/revision/250838,2022-09-21T07:42:09-07:00,/en-US/user/marcelo.ghelman/,Marcelo Ghelman,approved
 /en-US/kb/thunderbird-and-gmail/revision/250626,2022-09-19T05:57:27-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/thunderbird-and-gmail/revision/250625,2022-09-19T05:55:53-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/thunderbird-and-gmail/revision/250611,2022-09-19T03:35:24-07:00,/en-US/user/firefox877/,thomas8,approved
-/en-US/kb/thunderbird-and-gmail/revision/248430,2022-08-02T17:53:03-07:00,/en-US/user/roy-orbison/,roy-orbison,rejected
+/en-US/kb/thunderbird-and-gmail/revision/248430,2022-08-02T17:53:03-07:00,/en-US/user/roy-orbitson/,Roy Orbitson,rejected
 /en-US/kb/thunderbird-and-gmail/revision/245077,2022-06-03T00:48:33-07:00,/en-US/user/Toad-Hall/,Toad-Hall,approved
 /en-US/kb/thunderbird-and-gmail/revision/245012,2022-06-02T00:31:28-07:00,/en-US/user/Toad-Hall/,Toad-Hall,rejected
 /en-US/kb/thunderbird-and-gmail/revision/244338,2022-05-21T01:47:28-07:00,/en-US/user/Mozinet/,Mozinet,approved
@@ -332,9 +338,10 @@ revision,datetime,creator,display_name,status
 /en-US/kb/changing-imap-pop/revision/107449,2015-10-26T03:57:02-07:00,/en-US/user/vesper/,vesper,current
 /en-US/kb/changing-imap-pop/revision/57275,2014-03-05T01:49:16-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,rejected
 /en-US/kb/changing-imap-pop/revision/54338,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/mozilla-crash-reporter-tb/revision/270427,2023-11-17T22:14:46-08:00,/en-US/user/AliceWyman/,AliceWyman,unreviewed
+/en-US/kb/mozilla-crash-reporter-tb/revision/282289,2024-07-09T08:30:26.709491-07:00,/en-US/user/Artist/,Artist,current
+/en-US/kb/mozilla-crash-reporter-tb/revision/270427,2023-11-17T22:14:46-08:00,/en-US/user/AliceWyman/,AliceWyman,approved
 /en-US/kb/mozilla-crash-reporter-tb/revision/269343,2023-11-02T19:03:02-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
-/en-US/kb/mozilla-crash-reporter-tb/revision/260153,2023-04-30T20:01:49-07:00,/en-US/user/wsmwk/,Wayne Mery,current
+/en-US/kb/mozilla-crash-reporter-tb/revision/260153,2023-04-30T20:01:49-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/mozilla-crash-reporter-tb/revision/260152,2023-04-30T19:49:14-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/mozilla-crash-reporter-tb/revision/240724,2022-04-01T11:26:03-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/mozilla-crash-reporter-tb/revision/235703,2022-01-02T21:14:35-08:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
@@ -364,7 +371,7 @@ revision,datetime,creator,display_name,status
 /en-US/kb/creating-newsgroup-account/revision/107451,2015-10-26T04:05:48-07:00,/en-US/user/vesper/,vesper,approved
 /en-US/kb/creating-newsgroup-account/revision/57269,2014-03-05T01:37:41-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,rejected
 /en-US/kb/creating-newsgroup-account/revision/54341,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/thunderbird-and-hotmail/revision/234252,2021-12-09T01:23:12-08:00,/en-US/user/hotmail./,Hotmail,unreviewed
+/en-US/kb/thunderbird-and-hotmail/revision/234252,2021-12-09T01:23:12-08:00,/en-US/user/hotmail./,Hotmail,rejected
 /en-US/kb/thunderbird-and-hotmail/revision/124048,2016-05-24T19:43:28-07:00,/en-US/user/underpass/,Underpass,current
 /en-US/kb/thunderbird-and-hotmail/revision/105456,2015-09-29T03:25:14-07:00,/en-US/user/Tonnes/,Tonnes,approved
 /en-US/kb/thunderbird-and-hotmail/revision/95973,2015-06-05T09:08:03-07:00,/en-US/user/Tonnes/,Tonnes,unreviewed
@@ -414,7 +421,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/thunderbird-crashes/revision/93183,2015-04-17T08:45:48-07:00,/en-US/user/heyjoni/,Joni,approved
 /en-US/kb/thunderbird-crashes/revision/57266,2014-03-05T01:33:14-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,rejected
 /en-US/kb/thunderbird-crashes/revision/54350,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/updating-thunderbird/revision/169485,2018-10-29T06:09:31-07:00,/en-US/user/Chris_Ilias/,Chris Ilias,current
+/en-US/kb/updating-thunderbird/revision/289401,2024-11-25T17:19:44.918598-08:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/updating-thunderbird/revision/169485,2018-10-29T06:09:31-07:00,/en-US/user/Chris_Ilias/,Chris Ilias,approved
 /en-US/kb/updating-thunderbird/revision/169319,2018-10-26T17:39:15-07:00,/en-US/user/michro/,Michele Rodaro,approved
 /en-US/kb/updating-thunderbird/revision/169300,2018-10-26T04:46:14-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/updating-thunderbird/revision/169299,2018-10-26T04:41:20-07:00,/en-US/user/ryanleesipes/,Ryan Sipes,unreviewed
@@ -455,7 +463,9 @@ revision,datetime,creator,display_name,status
 /en-US/kb/thunderbird-software-update-failed/revision/72876,2014-08-24T03:45:39-07:00,/en-US/user/user669794/,user669794,approved
 /en-US/kb/thunderbird-software-update-failed/revision/56233,2014-02-22T01:29:19-08:00,/en-US/user/Swarnava/,Swarnava Sengupta,approved
 /en-US/kb/thunderbird-software-update-failed/revision/54353,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/how-disable-or-change-thunderbird-start-page/revision/265537,2023-09-11T03:42:43-07:00,/en-US/user/Mozinet/,Mozinet,current
+/en-US/kb/how-disable-or-change-thunderbird-start-page/revision/281866,2024-07-02T13:03:04.958562-07:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/how-disable-or-change-thunderbird-start-page/revision/281844,2024-07-01T23:11:08.173516-07:00,/en-US/user/markh2/,Mark Heijl,unreviewed
+/en-US/kb/how-disable-or-change-thunderbird-start-page/revision/265537,2023-09-11T03:42:43-07:00,/en-US/user/Mozinet/,Mozinet,approved
 /en-US/kb/how-disable-or-change-thunderbird-start-page/revision/265530,2023-09-11T02:12:04-07:00,/en-US/user/AliceWyman/,AliceWyman,approved
 /en-US/kb/how-disable-or-change-thunderbird-start-page/revision/255761,2023-01-16T00:07:17-08:00,/en-US/user/firefox877/,thomas8,approved
 /en-US/kb/how-disable-or-change-thunderbird-start-page/revision/181799,2019-05-21T07:02:15-07:00,/en-US/user/Goofy_BZ/,Goofy,approved
@@ -481,7 +491,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/using-identities/revision/66231,2014-06-25T02:54:08-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/using-identities/revision/57270,2014-03-05T01:38:57-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,unreviewed
 /en-US/kb/using-identities/revision/54356,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/thunderbird-add-ons-frequently-asked-questions/revision/263207,2023-07-11T20:53:59-07:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/thunderbird-add-ons-frequently-asked-questions/revision/286059,2024-10-02T09:56:23.688835-07:00,/en-US/user/JUM/,JUM,current
+/en-US/kb/thunderbird-add-ons-frequently-asked-questions/revision/263207,2023-07-11T20:53:59-07:00,/en-US/user/AliceWyman/,AliceWyman,approved
 /en-US/kb/thunderbird-add-ons-frequently-asked-questions/revision/263205,2023-07-11T20:30:21-07:00,/en-US/user/AliceWyman/,AliceWyman,unreviewed
 /en-US/kb/thunderbird-add-ons-frequently-asked-questions/revision/263198,2023-07-11T18:04:35-07:00,/en-US/user/Mozinet/,Mozinet,approved
 /en-US/kb/thunderbird-add-ons-frequently-asked-questions/revision/263194,2023-07-11T16:22:07-07:00,/en-US/user/AliceWyman/,AliceWyman,unreviewed
@@ -573,7 +584,9 @@ revision,datetime,creator,display_name,status
 /en-US/kb/switching-thunderbird/revision/61714,2014-04-24T06:25:39-07:00,/en-US/user/pollti/,pollti,approved
 /en-US/kb/switching-thunderbird/revision/56470,2014-02-24T02:19:16-08:00,/en-US/user/Swarnava/,Swarnava Sengupta,approved
 /en-US/kb/switching-thunderbird/revision/54365,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/installing-thunderbird-linux/revision/277749,2024-03-12T05:12:19.437979-07:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/installing-thunderbird-linux/revision/291436,2025-01-14T07:03:52.358822-08:00,/en-US/user/coreycb/,Corey Bryant,current
+/en-US/kb/installing-thunderbird-linux/revision/284342,2024-08-27T14:16:07.247123-07:00,/en-US/user/lionelholt/,Lionel Holt,rejected
+/en-US/kb/installing-thunderbird-linux/revision/277749,2024-03-12T05:12:19.437979-07:00,/en-US/user/AliceWyman/,AliceWyman,approved
 /en-US/kb/installing-thunderbird-linux/revision/277728,2024-03-11T23:50:08.028124-07:00,/en-US/user/markh2/,Mark Heijl,approved
 /en-US/kb/installing-thunderbird-linux/revision/274992,2024-01-23T10:06:06.071144-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/installing-thunderbird-linux/revision/273493,2023-12-26T16:37:54.419837-08:00,/en-US/user/AliceWyman/,AliceWyman,approved
@@ -606,7 +619,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/installing-thunderbird-linux/revision/61394,2014-04-20T23:00:07-07:00,/en-US/user/Swarnava/,Swarnava Sengupta,approved
 /en-US/kb/installing-thunderbird-linux/revision/56478,2014-02-24T02:52:30-08:00,/en-US/user/Swarnava/,Swarnava Sengupta,approved
 /en-US/kb/installing-thunderbird-linux/revision/54366,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/installing-thunderbird-on-mac/revision/256519,2023-01-31T05:43:08-08:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/installing-thunderbird-on-mac/revision/289402,2024-11-25T17:21:27.008774-08:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/installing-thunderbird-on-mac/revision/256519,2023-01-31T05:43:08-08:00,/en-US/user/AliceWyman/,AliceWyman,approved
 /en-US/kb/installing-thunderbird-on-mac/revision/256516,2023-01-31T04:14:07-08:00,/en-US/user/plwt/,Paul,approved
 /en-US/kb/installing-thunderbird-on-mac/revision/212235,2020-12-09T23:11:00-08:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/installing-thunderbird-on-mac/revision/190262,2019-11-06T02:49:54-08:00,/en-US/user/Sancus/,Sancus,approved
@@ -625,7 +639,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/keyboard-shortcuts-searching/revision/96073,2015-06-06T02:00:41-07:00,/en-US/user/upwinxp/,Lan,approved
 /en-US/kb/keyboard-shortcuts-searching/revision/57283,2014-03-05T02:01:29-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,rejected
 /en-US/kb/keyboard-shortcuts-searching/revision/54368,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/compacting-folders/revision/227091,2021-08-09T23:48:06-07:00,/en-US/user/underpass/,Underpass,current
+/en-US/kb/compacting-folders/revision/286784,2024-10-15T17:35:27.264487-07:00,/en-US/user/sakellari.maria11/,Marsak,current
+/en-US/kb/compacting-folders/revision/227091,2021-08-09T23:48:06-07:00,/en-US/user/underpass/,Underpass,approved
 /en-US/kb/compacting-folders/revision/227083,2021-08-09T22:42:42-07:00,/en-US/user/underpass/,Underpass,approved
 /en-US/kb/compacting-folders/revision/227051,2021-08-09T04:22:26-07:00,/en-US/user/firefox877/,thomas8,approved
 /en-US/kb/compacting-folders/revision/227005,2021-08-08T09:19:42-07:00,/en-US/user/firefox877/,thomas8,approved
@@ -646,9 +661,13 @@ revision,datetime,creator,display_name,status
 /en-US/kb/compacting-folders/revision/70967,2014-08-12T21:11:22-07:00,/en-US/user/user917725/,user917725,approved
 /en-US/kb/compacting-folders/revision/57313,2014-03-05T02:49:18-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,approved
 /en-US/kb/compacting-folders/revision/54369,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
+/en-US/kb/moving-thunderbird-data-to-a-new-computer/revision/290864,2024-12-30T15:27:08.041221-08:00,/en-US/user/marcelo.ghelman/,Marcelo Ghelman,current
+/en-US/kb/moving-thunderbird-data-to-a-new-computer/revision/289882,2024-12-03T23:31:56.251802-08:00,/en-US/user/mathlover/,Philip,approved
+/en-US/kb/moving-thunderbird-data-to-a-new-computer/revision/289664,2024-11-29T02:58:13.377118-08:00,/en-US/user/wsmwk/,Wayne Mery,approved
+/en-US/kb/moving-thunderbird-data-to-a-new-computer/revision/288782,2024-11-18T04:54:24.681038-08:00,/en-US/user/AliceWyman/,AliceWyman,approved
 /en-US/kb/moving-thunderbird-data-to-a-new-computer/revision/264327,2023-08-09T07:34:25-07:00,/en-US/user/mlj1/,mlj1,unreviewed
 /en-US/kb/moving-thunderbird-data-to-a-new-computer/revision/264325,2023-08-09T07:25:19-07:00,/en-US/user/mlj1/,mlj1,unreviewed
-/en-US/kb/moving-thunderbird-data-to-a-new-computer/revision/244133,2022-05-17T10:31:16-07:00,/en-US/user/larry118/,larry118,current
+/en-US/kb/moving-thunderbird-data-to-a-new-computer/revision/244133,2022-05-17T10:31:16-07:00,/en-US/user/larry118/,larry118,approved
 /en-US/kb/moving-thunderbird-data-to-a-new-computer/revision/232441,2021-11-11T01:55:44-08:00,/en-US/user/mark332/,mark332,unreviewed
 /en-US/kb/moving-thunderbird-data-to-a-new-computer/revision/216788,2021-03-22T05:27:33-07:00,/en-US/user/marcelo.ghelman/,Marcelo Ghelman,approved
 /en-US/kb/moving-thunderbird-data-to-a-new-computer/revision/213472,2020-12-31T11:55:13-08:00,/en-US/user/Stevec5088/,Steve1234,approved
@@ -717,9 +736,9 @@ revision,datetime,creator,display_name,status
 /en-US/kb/hyperlinks-in-messages-not-working/revision/70958,2014-08-12T21:04:53-07:00,/en-US/user/user917725/,user917725,approved
 /en-US/kb/hyperlinks-in-messages-not-working/revision/56226,2014-02-22T01:10:51-08:00,/en-US/user/Swarnava/,Swarnava Sengupta,approved
 /en-US/kb/hyperlinks-in-messages-not-working/revision/54374,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/protect-your-thunderbird-passwords-primary-password/revision/281315,2024-06-20T05:28:52.905026-07:00,/en-US/user/AliceWyman/,AliceWyman,unreviewed
-/en-US/kb/protect-your-thunderbird-passwords-primary-password/revision/281310,2024-06-20T02:53:19.351071-07:00,/en-US/user/Mozinet/,Mozinet,unreviewed
-/en-US/kb/protect-your-thunderbird-passwords-primary-password/revision/281249,2024-06-18T15:47:24.402480-07:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/protect-your-thunderbird-passwords-primary-password/revision/281315,2024-06-20T05:28:52.905026-07:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/protect-your-thunderbird-passwords-primary-password/revision/281310,2024-06-20T02:53:19.351071-07:00,/en-US/user/Mozinet/,Mozinet,approved
+/en-US/kb/protect-your-thunderbird-passwords-primary-password/revision/281249,2024-06-18T15:47:24.402480-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/protect-your-thunderbird-passwords-primary-password/revision/279612,2024-05-07T09:07:18.617639-07:00,/en-US/user/MattAuSupport/,Matt,unreviewed
 /en-US/kb/protect-your-thunderbird-passwords-primary-password/revision/238033,2022-02-14T09:41:29-08:00,/en-US/user/firefox877/,thomas8,approved
 /en-US/kb/protect-your-thunderbird-passwords-primary-password/revision/226046,2021-07-15T23:45:01-07:00,/en-US/user/plwt/,Paul,rejected
@@ -746,7 +765,7 @@ revision,datetime,creator,display_name,status
 /en-US/kb/protect-your-thunderbird-passwords-primary-password/revision/79259,2014-10-22T18:45:40-07:00,/en-US/user/user669794/,user669794,approved
 /en-US/kb/protect-your-thunderbird-passwords-primary-password/revision/56806,2014-02-27T16:34:13-08:00,/en-US/user/Swarnava/,Swarnava Sengupta,approved
 /en-US/kb/protect-your-thunderbird-passwords-primary-password/revision/54375,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/adding-a-holiday-calendar/revision/228119,2021-08-30T07:50:26-07:00,/en-US/user/firefox877/,thomas8,unreviewed
+/en-US/kb/adding-a-holiday-calendar/revision/228119,2021-08-30T07:50:26-07:00,/en-US/user/firefox877/,thomas8,rejected
 /en-US/kb/adding-a-holiday-calendar/revision/178219,2019-03-08T21:18:24-08:00,/en-US/user/Chris_Ilias/,Chris Ilias,current
 /en-US/kb/adding-a-holiday-calendar/revision/171705,2018-11-24T04:05:11-08:00,/en-US/user/Chris_Ilias/,Chris Ilias,approved
 /en-US/kb/adding-a-holiday-calendar/revision/171501,2018-11-22T06:02:55-08:00,/en-US/user/Chris_Ilias/,Chris Ilias,approved
@@ -782,10 +801,14 @@ revision,datetime,creator,display_name,status
 /en-US/kb/lightning-user-interface/revision/56930,2014-03-01T16:59:35-08:00,/en-US/user/Meghraj/,Meghraj Suthar,unreviewed
 /en-US/kb/lightning-user-interface/revision/56689,2014-02-26T05:55:55-08:00,/en-US/user/ideato/,ideato,approved
 /en-US/kb/lightning-user-interface/revision/54379,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/using-lightning-google-calendar/revision/225291,2021-07-06T01:46:29-07:00,/en-US/user/antti.hukkanen/,antti.hukkanen,unreviewed
-/en-US/kb/using-lightning-google-calendar/revision/221155,2021-05-09T12:37:27-07:00,/en-US/user/MattAuSupport/,Matt,unreviewed
-/en-US/kb/using-lightning-google-calendar/revision/221154,2021-05-09T12:34:38-07:00,/en-US/user/MattAuSupport/,Matt,unreviewed
-/en-US/kb/using-lightning-google-calendar/revision/218563,2021-04-08T21:27:41-07:00,/en-US/user/kelimutu/,Kiki,current
+/en-US/kb/using-lightning-google-calendar/revision/286345,2024-10-09T20:57:38.081338-07:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/using-lightning-google-calendar/revision/286343,2024-10-09T18:06:46.962436-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/using-lightning-google-calendar/revision/286326,2024-10-09T09:58:34.876955-07:00,/en-US/user/sfriedberger/,Simon Friedberger,approved
+/en-US/kb/using-lightning-google-calendar/revision/286183,2024-10-07T02:34:06.235480-07:00,/en-US/user/antti.hukkanen/,antti.hukkanen,approved
+/en-US/kb/using-lightning-google-calendar/revision/225291,2021-07-06T01:46:29-07:00,/en-US/user/antti.hukkanen/,antti.hukkanen,rejected
+/en-US/kb/using-lightning-google-calendar/revision/221155,2021-05-09T12:37:27-07:00,/en-US/user/MattAuSupport/,Matt,rejected
+/en-US/kb/using-lightning-google-calendar/revision/221154,2021-05-09T12:34:38-07:00,/en-US/user/MattAuSupport/,Matt,rejected
+/en-US/kb/using-lightning-google-calendar/revision/218563,2021-04-08T21:27:41-07:00,/en-US/user/kelimutu/,Kiki,approved
 /en-US/kb/using-lightning-google-calendar/revision/214608,2021-01-27T03:07:37-08:00,/en-US/user/mikeshipka/,mikeshipka,unreviewed
 /en-US/kb/using-lightning-google-calendar/revision/214279,2021-01-20T21:43:14-08:00,/en-US/user/edward14/,edward14,unreviewed
 /en-US/kb/using-lightning-google-calendar/revision/127423,2016-07-05T23:29:35-07:00,/en-US/user/Tonnes/,Tonnes,approved
@@ -815,8 +838,9 @@ revision,datetime,creator,display_name,status
 /en-US/kb/creating-a-new-event-or-task/revision/56935,2014-03-01T17:25:49-08:00,/en-US/user/Meghraj/,Meghraj Suthar,rejected
 /en-US/kb/creating-a-new-event-or-task/revision/56692,2014-02-26T06:07:33-08:00,/en-US/user/ideato/,ideato,approved
 /en-US/kb/creating-a-new-event-or-task/revision/54383,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/exporting-and-sharing-a-calendar/revision/279879,2024-05-14T00:53:14.864927-07:00,/en-US/user/mkmelin/,mkmelin,unreviewed
-/en-US/kb/exporting-and-sharing-a-calendar/revision/158083,2018-03-14T00:23:05-07:00,/en-US/user/Tonnes/,Tonnes,current
+/en-US/kb/exporting-and-sharing-a-calendar/revision/289552,2024-11-27T04:26:16.054135-08:00,/en-US/user/Mozinet/,Mozinet,current
+/en-US/kb/exporting-and-sharing-a-calendar/revision/279879,2024-05-14T00:53:14.864927-07:00,/en-US/user/mkmelin/,mkmelin,approved
+/en-US/kb/exporting-and-sharing-a-calendar/revision/158083,2018-03-14T00:23:05-07:00,/en-US/user/Tonnes/,Tonnes,approved
 /en-US/kb/exporting-and-sharing-a-calendar/revision/156837,2018-02-09T06:54:51-08:00,/en-US/user/cecilebertin/,Cécile,approved
 /en-US/kb/exporting-and-sharing-a-calendar/revision/156426,2018-02-01T12:17:20-08:00,/en-US/user/Chris_Ilias/,Chris Ilias,approved
 /en-US/kb/exporting-and-sharing-a-calendar/revision/72882,2014-08-24T04:06:55-07:00,/en-US/user/user669794/,user669794,approved
@@ -880,6 +904,7 @@ revision,datetime,creator,display_name,status
 /en-US/kb/using-multiple-profiles/revision/79261,2014-10-22T18:48:14-07:00,/en-US/user/user669794/,user669794,approved
 /en-US/kb/using-multiple-profiles/revision/56198,2014-02-21T23:09:29-08:00,/en-US/user/Swarnava/,Swarnava Sengupta,approved
 /en-US/kb/using-multiple-profiles/revision/54396,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
+/en-US/kb/configuration-options-accounts/revision/284887,2024-09-07T15:03:12.052043-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/configuration-options-accounts/revision/170762,2018-11-13T20:25:49-08:00,/en-US/user/Tonnes/,Tonnes,current
 /en-US/kb/configuration-options-accounts/revision/163808,2018-07-14T05:07:40-07:00,/en-US/user/Chris_Ilias/,Chris Ilias,approved
 /en-US/kb/configuration-options-accounts/revision/163734,2018-07-12T18:09:37-07:00,/en-US/user/michro/,Michele Rodaro,approved
@@ -904,7 +929,7 @@ revision,datetime,creator,display_name,status
 /en-US/kb/configuration-options-attachments/revision/107650,2015-10-28T00:52:35-07:00,/en-US/user/vesper/,vesper,approved
 /en-US/kb/configuration-options-attachments/revision/57288,2014-03-05T02:16:06-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,rejected
 /en-US/kb/configuration-options-attachments/revision/54416,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/thunderbird-makes-unrequested-connections/revision/223592,2021-06-06T05:45:06-07:00,/en-US/user/keriou/,keriou,unreviewed
+/en-US/kb/thunderbird-makes-unrequested-connections/revision/223592,2021-06-06T05:45:06-07:00,/en-US/user/keriou/,keriou,rejected
 /en-US/kb/thunderbird-makes-unrequested-connections/revision/122173,2016-04-16T21:17:24-07:00,/en-US/user/pollti/,pollti,current
 /en-US/kb/thunderbird-makes-unrequested-connections/revision/119229,2016-03-04T23:59:47-08:00,/en-US/user/Tonnes/,Tonnes,approved
 /en-US/kb/thunderbird-makes-unrequested-connections/revision/117531,2016-02-16T10:48:05-08:00,/en-US/user/Tonnes/,Tonnes,approved
@@ -940,7 +965,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/thunderbird-and-att/revision/76429,2014-09-19T01:53:54-07:00,/en-US/user/gpiero61/,gpiero,approved
 /en-US/kb/thunderbird-and-att/revision/57242,2014-03-05T00:42:51-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,rejected
 /en-US/kb/thunderbird-and-att/revision/54447,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/config-editor/revision/267871,2023-10-25T19:59:12-07:00,/en-US/user/wsmwk/,Wayne Mery,current
+/en-US/kb/config-editor/revision/284537,2024-09-02T07:58:10.521292-07:00,/en-US/user/wsmwk/,Wayne Mery,current
+/en-US/kb/config-editor/revision/267871,2023-10-25T19:59:12-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/config-editor/revision/267746,2023-10-24T14:44:24-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/config-editor/revision/252505,2022-10-27T07:03:14-07:00,/en-US/user/AliceWyman/,AliceWyman,approved
 /en-US/kb/config-editor/revision/247800,2022-07-16T22:46:41-07:00,/en-US/user/Mozinet/,Mozinet,approved
@@ -991,8 +1017,9 @@ revision,datetime,creator,display_name,status
 /en-US/kb/rebuilding-global-database/revision/79269,2014-10-22T18:55:59-07:00,/en-US/user/user669794/,user669794,approved
 /en-US/kb/rebuilding-global-database/revision/57317,2014-03-05T02:54:45-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,approved
 /en-US/kb/rebuilding-global-database/revision/54459,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/what-winmaildat-attachment/revision/227698,2021-08-21T12:11:58-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
-/en-US/kb/what-winmaildat-attachment/revision/172917,2018-12-08T01:37:08-08:00,/en-US/user/Tonnes/,Tonnes,current
+/en-US/kb/what-winmaildat-attachment/revision/286604,2024-10-14T00:18:49.266070-07:00,/en-US/user/Mozinet/,Mozinet,current
+/en-US/kb/what-winmaildat-attachment/revision/227698,2021-08-21T12:11:58-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
+/en-US/kb/what-winmaildat-attachment/revision/172917,2018-12-08T01:37:08-08:00,/en-US/user/Tonnes/,Tonnes,approved
 /en-US/kb/what-winmaildat-attachment/revision/172913,2018-12-08T00:55:23-08:00,/en-US/user/Tonnes/,Tonnes,unreviewed
 /en-US/kb/what-winmaildat-attachment/revision/171786,2018-11-24T18:52:33-08:00,/en-US/user/Tonnes/,Tonnes,approved
 /en-US/kb/what-winmaildat-attachment/revision/171261,2018-11-19T06:42:28-08:00,/en-US/user/Chris_Ilias/,Chris Ilias,approved
@@ -1033,7 +1060,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/glossary-terms-including-types-accounts/revision/62945,2014-05-03T16:29:24-07:00,/en-US/user/Tonnes/,Tonnes,approved
 /en-US/kb/glossary-terms-including-types-accounts/revision/57252,2014-03-05T01:02:38-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,unreviewed
 /en-US/kb/glossary-terms-including-types-accounts/revision/54480,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/installing-thunderbird-windows/revision/156665,2018-02-05T04:36:21-08:00,/en-US/user/Chris_Ilias/,Chris Ilias,current
+/en-US/kb/installing-thunderbird-windows/revision/288755,2024-11-17T10:06:55.420376-08:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/installing-thunderbird-windows/revision/156665,2018-02-05T04:36:21-08:00,/en-US/user/Chris_Ilias/,Chris Ilias,approved
 /en-US/kb/installing-thunderbird-windows/revision/124310,2016-05-29T23:55:21-07:00,/en-US/user/Chris_Ilias/,Chris Ilias,approved
 /en-US/kb/installing-thunderbird-windows/revision/124243,2016-05-28T19:49:04-07:00,/en-US/user/Tonnes/,Tonnes,approved
 /en-US/kb/installing-thunderbird-windows/revision/121714,2016-04-10T03:34:36-07:00,/en-US/user/Chris_Ilias/,Chris Ilias,rejected
@@ -1073,8 +1101,9 @@ revision,datetime,creator,display_name,status
 /en-US/kb/add-search-engine-open-search/revision/56240,2014-02-22T01:47:47-08:00,/en-US/user/Swarnava/,Swarnava Sengupta,approved
 /en-US/kb/add-search-engine-open-search/revision/56192,2014-02-21T22:50:34-08:00,/en-US/user/Swarnava/,Swarnava Sengupta,approved
 /en-US/kb/add-search-engine-open-search/revision/54488,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
+/en-US/kb/thunderbird-and-junk-spam-messages/revision/282040,2024-07-04T04:41:22.611417-07:00,/en-US/user/bd./,BD,current
 /en-US/kb/thunderbird-and-junk-spam-messages/revision/278688,2024-04-03T06:07:58.882383-07:00,/en-US/user/cem.grundig/,Cem Ceyran,rejected
-/en-US/kb/thunderbird-and-junk-spam-messages/revision/278339,2024-03-23T03:35:04.276065-07:00,/en-US/user/michro/,Michele Rodaro,current
+/en-US/kb/thunderbird-and-junk-spam-messages/revision/278339,2024-03-23T03:35:04.276065-07:00,/en-US/user/michro/,Michele Rodaro,approved
 /en-US/kb/thunderbird-and-junk-spam-messages/revision/278318,2024-03-22T11:53:05.884977-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/thunderbird-and-junk-spam-messages/revision/278317,2024-03-22T11:27:39.672944-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
 /en-US/kb/thunderbird-and-junk-spam-messages/revision/278240,2024-03-20T19:22:49.122141-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
@@ -1101,7 +1130,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/thunderbird-and-junk-spam-messages/revision/95800,2015-06-03T08:15:55-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/thunderbird-and-junk-spam-messages/revision/57378,2014-03-05T18:03:39-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,approved
 /en-US/kb/thunderbird-and-junk-spam-messages/revision/54491,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
-/en-US/kb/filelink-large-attachments/revision/271694,2023-12-03T05:34:18.920117-08:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/filelink-large-attachments/revision/289763,2024-12-01T10:00:56.287911-08:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/filelink-large-attachments/revision/271694,2023-12-03T05:34:18.920117-08:00,/en-US/user/AliceWyman/,AliceWyman,approved
 /en-US/kb/filelink-large-attachments/revision/262874,2023-07-04T08:51:48-07:00,/en-US/user/bd./,BD,approved
 /en-US/kb/filelink-large-attachments/revision/262873,2023-07-04T08:50:45-07:00,/en-US/user/bd./,BD,unreviewed
 /en-US/kb/filelink-large-attachments/revision/262872,2023-07-04T06:47:18-07:00,/en-US/user/bd./,BD,unreviewed
@@ -1173,6 +1203,7 @@ revision,datetime,creator,display_name,status
 /en-US/kb/thunderbirds-scam-detection/revision/78030,2014-10-11T03:23:37-07:00,/en-US/user/pollti/,pollti,approved
 /en-US/kb/thunderbirds-scam-detection/revision/57263,2014-03-05T01:30:20-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,rejected
 /en-US/kb/thunderbirds-scam-detection/revision/54501,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
+/en-US/kb/using-saved-searches/revision/290774,2024-12-28T15:59:08.147306-08:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/using-saved-searches/revision/251113,2022-09-28T08:07:46-07:00,/en-US/user/firefox877/,thomas8,current
 /en-US/kb/using-saved-searches/revision/251099,2022-09-27T23:46:25-07:00,/en-US/user/firefox877/,thomas8,approved
 /en-US/kb/using-saved-searches/revision/251095,2022-09-27T20:55:16-07:00,/en-US/user/jevangelho/,Jason Evangelho,approved
@@ -1226,6 +1257,7 @@ revision,datetime,creator,display_name,status
 /en-US/kb/how-customize-new-mail-sound/revision/62689,2014-05-01T22:07:26-07:00,/en-US/user/el.cameleon/,Vincent,approved
 /en-US/kb/how-customize-new-mail-sound/revision/57292,2014-03-05T02:21:46-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,approved
 /en-US/kb/how-customize-new-mail-sound/revision/54510,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
+/en-US/kb/organize-your-messages-using-filters/revision/290775,2024-12-28T15:59:52.780451-08:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/organize-your-messages-using-filters/revision/220322,2021-04-29T17:18:51-07:00,/en-US/user/MattAuSupport/,Matt,current
 /en-US/kb/organize-your-messages-using-filters/revision/211247,2020-11-22T15:48:38-08:00,/en-US/user/finn0/,finn0,unreviewed
 /en-US/kb/organize-your-messages-using-filters/revision/211192,2020-11-21T14:58:38-08:00,/en-US/user/finn0/,finn0,rejected
@@ -1293,6 +1325,7 @@ revision,datetime,creator,display_name,status
 /en-US/kb/instant-messaging-and-chat/revision/70965,2014-08-12T21:08:31-07:00,/en-US/user/user917725/,user917725,approved
 /en-US/kb/instant-messaging-and-chat/revision/57310,2014-03-05T02:45:21-08:00,/en-US/user/dyvik1001/,Dyvik Chenna,approved
 /en-US/kb/instant-messaging-and-chat/revision/54515,2014-02-13T16:00:00-08:00,/en-US/user/tb_migration/,Thunderbird Migration,approved
+/en-US/kb/addressing-email/revision/283104,2024-07-24T12:58:51.292983-07:00,/en-US/user/bd./,BD,unreviewed
 /en-US/kb/addressing-email/revision/209894,2020-10-29T07:29:45-07:00,/en-US/user/firefox877/,thomas8,current
 /en-US/kb/addressing-email/revision/205739,2020-08-18T22:42:39-07:00,/en-US/user/Toad-Hall/,Toad-Hall,approved
 /en-US/kb/addressing-email/revision/205382,2020-08-14T07:07:26-07:00,/en-US/user/firefox877/,thomas8,approved
@@ -1350,9 +1383,10 @@ revision,datetime,creator,display_name,status
 /en-US/kb/uninstall-thunderbird/revision/57982,2014-03-13T07:15:03-07:00,/en-US/user/heyjoni/,Joni,approved
 /en-US/kb/uninstall-thunderbird/revision/57763,2014-03-10T17:50:00-07:00,/en-US/user/davblayn/,David Blayney,unreviewed
 /en-US/kb/uninstall-thunderbird/revision/57762,2014-03-10T17:47:26-07:00,/en-US/user/davblayn/,David Blayney,unreviewed
+/en-US/kb/remote-content-in-messages/revision/289855,2024-12-03T09:23:01.357479-08:00,/en-US/user/rtanglao/,Roland Tanglao,current
 /en-US/kb/remote-content-in-messages/revision/275118,2024-01-25T02:52:51.078060-08:00,/en-US/user/bbonacci/,Ben Bonacci,unreviewed
 /en-US/kb/remote-content-in-messages/revision/261850,2023-06-07T01:40:48-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
-/en-US/kb/remote-content-in-messages/revision/127133,2016-07-02T01:33:00-07:00,/en-US/user/Tonnes/,Tonnes,current
+/en-US/kb/remote-content-in-messages/revision/127133,2016-07-02T01:33:00-07:00,/en-US/user/Tonnes/,Tonnes,approved
 /en-US/kb/remote-content-in-messages/revision/126480,2016-06-25T22:33:49-07:00,/en-US/user/Tonnes/,Tonnes,approved
 /en-US/kb/remote-content-in-messages/revision/126479,2016-06-25T22:30:57-07:00,/en-US/user/Tonnes/,Tonnes,unreviewed
 /en-US/kb/remote-content-in-messages/revision/122018,2016-04-14T04:07:27-07:00,/en-US/user/upwinxp/,Lan,approved
@@ -1389,6 +1423,7 @@ revision,datetime,creator,display_name,status
 /en-US/kb/cannot-delete-messages/revision/67599,2014-07-11T14:17:32-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/cannot-delete-messages/revision/67550,2014-07-10T21:43:04-07:00,/en-US/user/Zenos/,Zenos,unreviewed
 /en-US/kb/cannot-delete-messages/revision/66845,2014-07-04T06:50:57-07:00,/en-US/user/el.cameleon/,Vincent,unreviewed
+/en-US/kb/how-create-and-use-mailing-lists-thunderbird/revision/285112,2024-09-15T07:05:12.297588-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/how-create-and-use-mailing-lists-thunderbird/revision/228817,2021-09-10T06:18:14-07:00,/en-US/user/erling.rosag/,ErlingR,unreviewed
 /en-US/kb/how-create-and-use-mailing-lists-thunderbird/revision/90033,2015-02-13T01:52:00-08:00,/en-US/user/pollti/,pollti,current
 /en-US/kb/how-create-and-use-mailing-lists-thunderbird/revision/89780,2015-02-08T20:58:43-08:00,/en-US/user/Tonnes/,Tonnes,approved
@@ -1445,12 +1480,6 @@ revision,datetime,creator,display_name,status
 /en-US/kb/maildir-thunderbird/revision/96955,2015-06-12T09:44:09-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
 /en-US/kb/maildir-thunderbird/revision/96954,2015-06-12T09:24:23-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
 /en-US/kb/maildir-thunderbird/revision/96951,2015-06-12T08:57:48-07:00,/en-US/user/MattAuSupport/,Matt,unreviewed
-/en-US/kb/avoid-and-report-mozilla-tech-support-scams/revision/279554,2024-05-06T00:57:21.413413-07:00,/en-US/user/hythmkhyry00/,محمد الغزال,rejected
-/en-US/kb/avoid-and-report-mozilla-tech-support-scams/revision/277525,2024-03-09T04:24:19.502762-08:00,/en-US/user/Arpctech/,Arpctech,rejected
-/en-US/kb/avoid-and-report-mozilla-tech-support-scams/revision/277524,2024-03-09T04:23:35.767013-08:00,/en-US/user/Arpctech/,Arpctech,rejected
-/en-US/kb/avoid-and-report-mozilla-tech-support-scams/revision/277522,2024-03-09T04:23:01.149033-08:00,/en-US/user/Arpctech/,Arpctech,rejected
-/en-US/kb/avoid-and-report-mozilla-tech-support-scams/revision/277521,2024-03-09T04:22:28.755280-08:00,/en-US/user/Arpctech/,Arpctech,rejected
-/en-US/kb/avoid-and-report-mozilla-tech-support-scams/revision/277520,2024-03-09T04:21:39.847444-08:00,/en-US/user/Arpctech/,Arpctech,rejected
 /en-US/kb/avoid-and-report-mozilla-tech-support-scams/revision/270896,2023-11-23T14:54:28-08:00,/en-US/user/roosterbkc888/,Keith,current
 /en-US/kb/avoid-and-report-mozilla-tech-support-scams/revision/245277,2022-06-06T00:26:41-07:00,/en-US/user/lisah933/,lisah933,approved
 /en-US/kb/avoid-and-report-mozilla-tech-support-scams/revision/225863,2021-07-13T18:16:57-07:00,/en-US/user/sagarroka53/,sagarroka53,approved
@@ -1528,8 +1557,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/thunderbird-osx/revision/142275,2017-07-26T20:29:17-07:00,/en-US/user/MattAuSupport/,Matt,current
 /en-US/kb/thunderbird-osx/revision/142143,2017-07-25T11:00:35-07:00,/en-US/user/Tonnes/,Tonnes,approved
 /en-US/kb/thunderbird-osx/revision/141847,2017-07-21T04:55:13-07:00,/en-US/user/Tonnes/,Tonnes,unreviewed
-/en-US/kb/message-threading-thunderbird/revision/280519,2024-05-27T06:42:44.161739-07:00,/en-US/user/Y.D./,YD,unreviewed
-/en-US/kb/message-threading-thunderbird/revision/255269,2023-01-05T03:36:32-08:00,/en-US/user/firefox877/,thomas8,current
+/en-US/kb/message-threading-thunderbird/revision/280519,2024-05-27T06:42:44.161739-07:00,/en-US/user/Y.D./,YD,current
+/en-US/kb/message-threading-thunderbird/revision/255269,2023-01-05T03:36:32-08:00,/en-US/user/firefox877/,thomas8,approved
 /en-US/kb/message-threading-thunderbird/revision/252416,2022-10-26T02:33:37-07:00,/en-US/user/user145160793143493487427306403094455651964/,user145160793143493487427306403094455651964,rejected
 /en-US/kb/message-threading-thunderbird/revision/250383,2022-09-14T03:10:56-07:00,/en-US/user/firefox877/,thomas8,approved
 /en-US/kb/message-threading-thunderbird/revision/250255,2022-09-11T04:31:08-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
@@ -1632,13 +1661,15 @@ revision,datetime,creator,display_name,status
 /en-US/kb/calendar-updates-issues-thunderbird/revision/164659,2018-08-05T04:59:57-07:00,/en-US/user/MakeMyDay/,MakeMyDay,unreviewed
 /en-US/kb/calendar-updates-issues-thunderbird/revision/164652,2018-08-05T01:34:05-07:00,/en-US/user/MakeMyDay/,MakeMyDay,unreviewed
 /en-US/kb/calendar-updates-issues-thunderbird/revision/164648,2018-08-05T01:00:40-07:00,/en-US/user/MakeMyDay/,MakeMyDay,unreviewed
-/en-US/kb/install-themes-change-look-thunderbird/revision/198632,2020-04-15T00:49:30-07:00,/en-US/user/michro/,Michele Rodaro,current
+/en-US/kb/install-themes-change-look-thunderbird/revision/282781,2024-07-16T08:12:32.814878-07:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/install-themes-change-look-thunderbird/revision/198632,2020-04-15T00:49:30-07:00,/en-US/user/michro/,Michele Rodaro,approved
 /en-US/kb/install-themes-change-look-thunderbird/revision/198585,2020-04-14T10:27:18-07:00,/en-US/user/anonymous_/,anonymous,approved
 /en-US/kb/install-themes-change-look-thunderbird/revision/170954,2018-11-16T02:40:22-08:00,/en-US/user/michro/,Michele Rodaro,approved
 /en-US/kb/install-themes-change-look-thunderbird/revision/170312,2018-11-06T20:38:32-08:00,/en-US/user/Tonnes/,Tonnes,approved
 /en-US/kb/install-themes-change-look-thunderbird/revision/167723,2018-10-01T09:08:14-07:00,/en-US/user/Sancus/,Sancus,approved
 /en-US/kb/install-themes-change-look-thunderbird/revision/167719,2018-10-01T08:43:52-07:00,/en-US/user/Sancus/,Sancus,unreviewed
-/en-US/kb/unable-install-add-on-extension-theme-thunderbird/revision/269800,2023-11-06T08:16:10-08:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/unable-install-add-on-extension-theme-thunderbird/revision/289917,2024-12-04T15:59:26.116388-08:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/unable-install-add-on-extension-theme-thunderbird/revision/269800,2023-11-06T08:16:10-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/unable-install-add-on-extension-theme-thunderbird/revision/269798,2023-11-06T08:08:24-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/unable-install-add-on-extension-theme-thunderbird/revision/170356,2018-11-07T17:17:59-08:00,/en-US/user/Tonnes/,Tonnes,approved
 /en-US/kb/unable-install-add-on-extension-theme-thunderbird/revision/170313,2018-11-06T21:01:20-08:00,/en-US/user/wsmwk/,Wayne Mery,approved
@@ -1709,7 +1740,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/getting-started-thunderbird-main-window/revision/173888,2018-12-23T03:26:23-08:00,/en-US/user/Chris_Ilias/,Chris Ilias,approved
 /en-US/kb/getting-started-thunderbird-main-window/revision/173886,2018-12-23T03:03:56-08:00,/en-US/user/Chris_Ilias/,Chris Ilias,unreviewed
 /en-US/kb/getting-started-thunderbird-main-window/revision/173885,2018-12-23T03:02:43-08:00,/en-US/user/Chris_Ilias/,Chris Ilias,unreviewed
-/en-US/kb/how-change-thunderbird-layout/revision/232448,2021-11-11T02:58:24-08:00,/en-US/user/amagdo/,Amelia,unreviewed
+/en-US/kb/how-change-thunderbird-layout/revision/291396,2025-01-13T09:41:35.766782-08:00,/en-US/user/linuxcruizer/,linuxcruizer,unreviewed
+/en-US/kb/how-change-thunderbird-layout/revision/232448,2021-11-11T02:58:24-08:00,/en-US/user/amagdo/,Amelia,rejected
 /en-US/kb/how-change-thunderbird-layout/revision/222188,2021-05-20T18:14:46-07:00,/en-US/user/firefox877/,thomas8,current
 /en-US/kb/how-change-thunderbird-layout/revision/217759,2021-04-01T01:12:27-07:00,/en-US/user/rafael.granado/,Rafael Granado,unreviewed
 /en-US/kb/how-change-thunderbird-layout/revision/215457,2021-02-23T16:21:04-08:00,/en-US/user/user19880069563622738483721635866239326327/,user19880069563622738483721635866239326327,unreviewed
@@ -1718,8 +1750,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/how-change-thunderbird-layout/revision/174150,2018-12-30T23:49:15-08:00,/en-US/user/Chris_Ilias/,Chris Ilias,approved
 /en-US/kb/how-change-thunderbird-layout/revision/173939,2018-12-26T05:14:06-08:00,/en-US/user/Chris_Ilias/,Chris Ilias,unreviewed
 /en-US/kb/how-change-thunderbird-layout/revision/173938,2018-12-26T05:11:03-08:00,/en-US/user/Chris_Ilias/,Chris Ilias,unreviewed
-/en-US/kb/unable-launch-older-version-profile/revision/272580,2023-12-17T07:31:09.142347-08:00,/en-US/user/benwrk/,Benjapol Worakan,unreviewed
-/en-US/kb/unable-launch-older-version-profile/revision/209431,2020-10-19T02:29:55-07:00,/en-US/user/Artist/,Artist,current
+/en-US/kb/unable-launch-older-version-profile/revision/272580,2023-12-17T07:31:09.142347-08:00,/en-US/user/benwrk/,Benjapol Worakan,current
+/en-US/kb/unable-launch-older-version-profile/revision/209431,2020-10-19T02:29:55-07:00,/en-US/user/Artist/,Artist,approved
 /en-US/kb/unable-launch-older-version-profile/revision/203671,2020-07-19T04:13:45-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/unable-launch-older-version-profile/revision/203668,2020-07-19T03:59:15-07:00,/en-US/user/AliceWyman/,AliceWyman,approved
 /en-US/kb/unable-launch-older-version-profile/revision/203641,2020-07-18T23:31:11-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
@@ -1742,6 +1774,7 @@ revision,datetime,creator,display_name,status
 /en-US/kb/dangerous-directories-Thunderbird-account-settings/revision/198893,2020-04-18T19:00:18-07:00,/en-US/user/michro/,Michele Rodaro,approved
 /en-US/kb/dangerous-directories-Thunderbird-account-settings/revision/198879,2020-04-18T11:37:02-07:00,/en-US/user/MattAuSupport/,Matt,approved
 /en-US/kb/dangerous-directories-Thunderbird-account-settings/revision/187136,2019-09-06T23:11:51-07:00,/en-US/user/MattAuSupport/,Matt,unreviewed
+/en-US/kb/profile-manager-create-and-remove-thunderbird-profiles/revision/290342,2024-12-14T09:38:42.801025-08:00,/en-US/user/jefnik3/,jefnik3,unreviewed
 /en-US/kb/profile-manager-create-and-remove-thunderbird-profiles/revision/277422,2024-03-07T21:20:47.529948-08:00,/en-US/user/Artist/,Artist,current
 /en-US/kb/profile-manager-create-and-remove-thunderbird-profiles/revision/205113,2020-08-09T18:23:05-07:00,/en-US/user/michro/,Michele Rodaro,approved
 /en-US/kb/profile-manager-create-and-remove-thunderbird-profiles/revision/204453,2020-07-31T00:08:38-07:00,/en-US/user/michro/,Michele Rodaro,approved
@@ -1770,10 +1803,22 @@ revision,datetime,creator,display_name,status
 /en-US/kb/introduction-to-e2e-encryption/revision/202184,2020-06-25T07:23:49-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/introduction-to-e2e-encryption/revision/202106,2020-06-23T15:15:30-07:00,/en-US/user/ryanleesipes/,Ryan Sipes,unreviewed
 /en-US/kb/introduction-to-e2e-encryption/revision/202105,2020-06-23T15:10:37-07:00,/en-US/user/ryanleesipes/,Ryan Sipes,unreviewed
+/en-US/kb/thunderbird-telemetry/revision/275709,2024-02-03T15:27:01.165021-08:00,/en-US/user/weakish/,weakish,rejected
+/en-US/kb/thunderbird-telemetry/revision/275233,2024-01-26T12:19:51.312398-08:00,/en-US/user/Mozinet/,Mozinet,current
+/en-US/kb/thunderbird-telemetry/revision/275214,2024-01-26T01:10:45.670102-08:00,/en-US/user/Y.D./,YD,approved
+/en-US/kb/thunderbird-telemetry/revision/254241,2022-12-03T14:48:00-08:00,/en-US/user/wolfdaemon/,Michael "Cal" Krug,approved
+/en-US/kb/thunderbird-telemetry/revision/203950,2020-07-22T19:12:21-07:00,/en-US/user/ryanleesipes/,Ryan Sipes,approved
+/en-US/kb/thunderbird-telemetry/revision/203296,2020-07-12T03:34:14-07:00,/en-US/user/ryanleesipes/,Ryan Sipes,approved
+/en-US/kb/thunderbird-telemetry/revision/203294,2020-07-12T03:31:11-07:00,/en-US/user/ryanleesipes/,Ryan Sipes,unreviewed
 /en-US/kb/managing-thunderbird-updates/revision/228416,2021-09-03T05:40:00-07:00,/en-US/user/firefox877/,thomas8,current
 /en-US/kb/managing-thunderbird-updates/revision/228406,2021-09-03T03:07:24-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/managing-thunderbird-updates/revision/228405,2021-09-03T02:50:10-07:00,/en-US/user/firefox877/,thomas8,approved
 /en-US/kb/managing-thunderbird-updates/revision/203363,2020-07-13T17:47:56-07:00,/en-US/user/MattAuSupport/,Matt,rejected
+/en-US/kb/recover-user-data-missing-after-thunderbird-update/revision/284262,2024-08-25T23:12:49.727453-07:00,/en-US/user/markh2/,Mark Heijl,current
+/en-US/kb/recover-user-data-missing-after-thunderbird-update/revision/284244,2024-08-24T19:47:08.886924-07:00,/en-US/user/AliceWyman/,AliceWyman,approved
+/en-US/kb/recover-user-data-missing-after-thunderbird-update/revision/284241,2024-08-24T15:41:25.896001-07:00,/en-US/user/Mozinet/,Mozinet,approved
+/en-US/kb/recover-user-data-missing-after-thunderbird-update/revision/227993,2021-08-27T23:47:11-07:00,/en-US/user/michro/,Michele Rodaro,approved
+/en-US/kb/recover-user-data-missing-after-thunderbird-update/revision/204404,2020-07-30T01:24:56-07:00,/en-US/user/michro/,Michele Rodaro,unreviewed
 /en-US/kb/openpgp-thunderbird-howto-and-faq/revision/246607,2022-06-20T02:03:12-07:00,/en-US/user/kaie/,Kai Engert,current
 /en-US/kb/openpgp-thunderbird-howto-and-faq/revision/246047,2022-06-13T02:41:10-07:00,/en-US/user/kaie/,Kai Engert,approved
 /en-US/kb/openpgp-thunderbird-howto-and-faq/revision/246044,2022-06-13T02:36:54-07:00,/en-US/user/kaie/,Kai Engert,approved
@@ -1809,10 +1854,13 @@ revision,datetime,creator,display_name,status
 /en-US/kb/thunderbird-78-faq/revision/208472,2020-09-28T20:56:42-07:00,/en-US/user/michro/,Michele Rodaro,approved
 /en-US/kb/thunderbird-78-faq/revision/208341,2020-09-25T04:48:26-07:00,/en-US/user/firefox877/,thomas8,approved
 /en-US/kb/thunderbird-78-faq/revision/208187,2020-09-22T02:25:50-07:00,/en-US/user/kaie/,Kai Engert,approved
-/en-US/kb/profiling-thunderbird-performance/revision/280390,2024-05-23T09:15:11.564378-07:00,/en-US/user/moz_contrib/,moz_contrib,unreviewed
-/en-US/kb/profiling-thunderbird-performance/revision/280383,2024-05-23T07:35:31.973056-07:00,/en-US/user/moz_contrib/,moz_contrib,unreviewed
-/en-US/kb/profiling-thunderbird-performance/revision/279403,2024-04-28T21:43:53.381429-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
-/en-US/kb/profiling-thunderbird-performance/revision/277166,2024-03-02T02:35:39.365321-08:00,/en-US/user/markh2/,Mark Heijl,current
+/en-US/kb/profiling-thunderbird-performance/revision/285777,2024-09-28T18:56:58.840611-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
+/en-US/kb/profiling-thunderbird-performance/revision/285433,2024-09-22T19:02:46.251395-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
+/en-US/kb/profiling-thunderbird-performance/revision/285377,2024-09-21T11:41:16.366333-07:00,/en-US/user/mbfdias/,mbfdias,unreviewed
+/en-US/kb/profiling-thunderbird-performance/revision/280390,2024-05-23T09:15:11.564378-07:00,/en-US/user/moz_contrib/,moz_contrib,current
+/en-US/kb/profiling-thunderbird-performance/revision/280383,2024-05-23T07:35:31.973056-07:00,/en-US/user/moz_contrib/,moz_contrib,approved
+/en-US/kb/profiling-thunderbird-performance/revision/279403,2024-04-28T21:43:53.381429-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
+/en-US/kb/profiling-thunderbird-performance/revision/277166,2024-03-02T02:35:39.365321-08:00,/en-US/user/markh2/,Mark Heijl,approved
 /en-US/kb/profiling-thunderbird-performance/revision/277155,2024-03-01T15:27:48.738589-08:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/profiling-thunderbird-performance/revision/263586,2023-07-20T23:57:48-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/profiling-thunderbird-performance/revision/260374,2023-05-07T11:08:02-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
@@ -1847,6 +1895,7 @@ revision,datetime,creator,display_name,status
 /en-US/kb/compacting-folders-potential-complications/revision/220817,2021-05-06T01:54:01-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/compacting-folders-potential-complications/revision/220713,2021-05-04T20:56:10-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/openpgp-recipient-alias-configuration/revision/226565,2021-07-28T02:07:17-07:00,/en-US/user/firefox877/,thomas8,current
+/en-US/kb/customize-date-time-formats-thunderbird/revision/282237,2024-07-09T00:50:04.709182-07:00,/en-US/user/rainer.herget/,rainer.herget,unreviewed
 /en-US/kb/customize-date-time-formats-thunderbird/revision/251972,2022-10-17T18:55:19-07:00,/en-US/user/rptb1+firefox/,rptb1,current
 /en-US/kb/customize-date-time-formats-thunderbird/revision/227357,2021-08-13T00:03:30-07:00,/en-US/user/michro/,Michele Rodaro,approved
 /en-US/kb/customize-date-time-formats-thunderbird/revision/227184,2021-08-10T20:56:29-07:00,/en-US/user/michro/,Michele Rodaro,approved
@@ -1886,7 +1935,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/automatic-conversion-google-mail-accounts-oauth20/revision/240948,2022-04-04T09:41:19-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/automatic-conversion-google-mail-accounts-oauth20/revision/240757,2022-04-01T23:24:47-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/automatic-conversion-google-mail-accounts-oauth20/revision/240752,2022-04-01T21:55:38-07:00,/en-US/user/MattAuSupport/,Matt,unreviewed
-/en-US/kb/openpgp-unsafe-key-properties-ignored/revision/243295,2022-05-02T05:48:01-07:00,/en-US/user/wsmwk/,Wayne Mery,current
+/en-US/kb/openpgp-unsafe-key-properties-ignored/revision/284237,2024-08-24T10:10:01.601691-07:00,/en-US/user/Mozinet/,Mozinet,current
+/en-US/kb/openpgp-unsafe-key-properties-ignored/revision/243295,2022-05-02T05:48:01-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/openpgp-unsafe-key-properties-ignored/revision/243294,2022-05-02T05:42:21-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/openpgp-unsafe-key-properties-ignored/revision/243293,2022-05-02T04:46:00-07:00,/en-US/user/firefox877/,thomas8,approved
 /en-US/kb/openpgp-unsafe-key-properties-ignored/revision/243277,2022-05-02T02:35:56-07:00,/en-US/user/kaie/,Kai Engert,approved
@@ -1906,7 +1956,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/new-thunderbird-102/revision/242996,2022-04-29T03:12:07-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/new-thunderbird-102/revision/242995,2022-04-29T03:05:45-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/new-thunderbird-102/revision/242992,2022-04-29T02:06:32-07:00,/en-US/user/firefox877/,thomas8,approved
-/en-US/kb/custom-installation-thunderbird-windows/revision/264711,2023-08-23T04:21:52-07:00,/en-US/user/Mozinet/,Mozinet,current
+/en-US/kb/custom-installation-thunderbird-windows/revision/288794,2024-11-18T06:54:06.474747-08:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/custom-installation-thunderbird-windows/revision/264711,2023-08-23T04:21:52-07:00,/en-US/user/Mozinet/,Mozinet,approved
 /en-US/kb/custom-installation-thunderbird-windows/revision/244426,2022-05-22T21:02:50-07:00,/en-US/user/markh2/,Mark Heijl,approved
 /en-US/kb/custom-installation-thunderbird-windows/revision/244384,2022-05-21T22:33:50-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/custom-installation-thunderbird-windows/revision/244336,2022-05-21T01:22:23-07:00,/en-US/user/christ1/,christ1,approved
@@ -1931,8 +1982,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/thunderbird-help-openpgp-alias/revision/246628,2022-06-20T04:33:58-07:00,/en-US/user/kaie/,Kai Engert,current
 /en-US/kb/thunderbird-help-openpgp-alias/revision/246369,2022-06-16T15:54:56-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/thunderbird-help-openpgp-alias/revision/246211,2022-06-14T05:10:02-07:00,/en-US/user/kaie/,Kai Engert,approved
-/en-US/kb/thunderbird-help-openpgp-counterfeit-key/revision/270429,2023-11-17T22:19:38-08:00,/en-US/user/Mozinet/,Mozinet,unreviewed
-/en-US/kb/thunderbird-help-openpgp-counterfeit-key/revision/246619,2022-06-20T03:26:57-07:00,/en-US/user/wsmwk/,Wayne Mery,current
+/en-US/kb/thunderbird-help-openpgp-counterfeit-key/revision/270429,2023-11-17T22:19:38-08:00,/en-US/user/Mozinet/,Mozinet,current
+/en-US/kb/thunderbird-help-openpgp-counterfeit-key/revision/246619,2022-06-20T03:26:57-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/thunderbird-help-openpgp-counterfeit-key/revision/246617,2022-06-20T03:11:10-07:00,/en-US/user/kaie/,Kai Engert,approved
 /en-US/kb/thunderbird-help-openpgp-counterfeit-key/revision/246572,2022-06-19T06:21:52-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/thunderbird-help-openpgp-counterfeit-key/revision/246218,2022-06-14T06:23:01-07:00,/en-US/user/kaie/,Kai Engert,approved
@@ -1949,8 +2000,10 @@ revision,datetime,creator,display_name,status
 /en-US/kb/thunderbird-export/revision/247075,2022-06-30T04:57:39-07:00,/en-US/user/firefox877/,thomas8,current
 /en-US/kb/thunderbird-export/revision/246977,2022-06-27T21:24:26-07:00,/en-US/user/firefox877/,thomas8,approved
 /en-US/kb/thunderbird-export/revision/246976,2022-06-27T21:14:56-07:00,/en-US/user/firefox877/,thomas8,approved
-/en-US/kb/thunderbird-import/revision/279537,2024-05-04T08:04:37.956401-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
-/en-US/kb/thunderbird-import/revision/247073,2022-06-30T04:50:11-07:00,/en-US/user/firefox877/,thomas8,current
+/en-US/kb/thunderbird-import/revision/288450,2024-11-10T11:03:25.683229-08:00,/en-US/user/Mozinet/,Mozinet,current
+/en-US/kb/thunderbird-import/revision/288162,2024-11-05T11:52:36.788947-08:00,/en-US/user/Artist/,Artist,approved
+/en-US/kb/thunderbird-import/revision/279537,2024-05-04T08:04:37.956401-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
+/en-US/kb/thunderbird-import/revision/247073,2022-06-30T04:50:11-07:00,/en-US/user/firefox877/,thomas8,approved
 /en-US/kb/thunderbird-import/revision/247072,2022-06-30T03:59:10-07:00,/en-US/user/firefox877/,thomas8,approved
 /en-US/kb/thunderbird-import/revision/247056,2022-06-30T00:47:50-07:00,/en-US/user/firefox877/,thomas8,approved
 /en-US/kb/upgrading-older-version-thunderbird/revision/277373,2024-03-06T16:15:54.790542-08:00,/en-US/user/rtanglao/,Roland Tanglao,current
@@ -1967,6 +2020,8 @@ revision,datetime,creator,display_name,status
 /en-US/kb/upgrading-older-version-thunderbird/revision/258962,2023-03-30T16:09:05-07:00,/en-US/user/markh2/,Mark Heijl,unreviewed
 /en-US/kb/upgrading-older-version-thunderbird/revision/258678,2023-03-24T05:40:12-07:00,/en-US/user/justman10000/,Justin,approved
 /en-US/kb/upgrading-older-version-thunderbird/revision/255575,2023-01-10T05:10:53-08:00,/en-US/user/oopsallnaps/,Mel A,approved
+/en-US/kb/microsoft-oauth-authentication-and-thunderbird-202/revision/287738,2024-10-30T04:27:16.615295-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
+/en-US/kb/microsoft-oauth-authentication-and-thunderbird-202/revision/285808,2024-09-29T10:25:23.237323-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
 /en-US/kb/microsoft-oauth-authentication-and-thunderbird-202/revision/275988,2024-02-07T13:33:46.444968-08:00,/en-US/user/marcelo.ghelman/,Marcelo Ghelman,current
 /en-US/kb/microsoft-oauth-authentication-and-thunderbird-202/revision/275940,2024-02-06T20:55:37.495835-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/microsoft-oauth-authentication-and-thunderbird-202/revision/275730,2024-02-04T07:43:46.944900-08:00,/en-US/user/Mozinet/,Mozinet,approved
@@ -2001,7 +2056,10 @@ revision,datetime,creator,display_name,status
 /en-US/kb/new-thunderbird-115-supernova/revision/261139,2023-05-24T13:28:25-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/new-thunderbird-115-supernova/revision/261136,2023-05-24T09:03:55-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/new-thunderbird-115-supernova/revision/260845,2023-05-15T14:45:56-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
-/en-US/kb/getting-started-thunderbird-main-window-supernova/revision/274912,2024-01-23T03:50:01.369558-08:00,/en-US/user/michro/,Michele Rodaro,current
+/en-US/kb/getting-started-thunderbird-main-window-supernova/revision/291154,2025-01-06T20:49:27.176754-08:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/getting-started-thunderbird-main-window-supernova/revision/291150,2025-01-06T14:44:23.908887-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/getting-started-thunderbird-main-window-supernova/revision/289620,2024-11-28T04:30:29.115386-08:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
+/en-US/kb/getting-started-thunderbird-main-window-supernova/revision/274912,2024-01-23T03:50:01.369558-08:00,/en-US/user/michro/,Michele Rodaro,approved
 /en-US/kb/getting-started-thunderbird-main-window-supernova/revision/265723,2023-09-16T02:00:30-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
 /en-US/kb/getting-started-thunderbird-main-window-supernova/revision/263089,2023-07-09T15:05:44-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/getting-started-thunderbird-main-window-supernova/revision/263088,2023-07-09T14:30:18-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
@@ -2025,7 +2083,11 @@ revision,datetime,creator,display_name,status
 /en-US/kb/userchromecss-js-usercontent-unsupported/revision/264140,2023-08-04T03:37:15-07:00,/en-US/user/Artist/,Artist,approved
 /en-US/kb/userchromecss-js-usercontent-unsupported/revision/263923,2023-07-31T07:22:03-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/userchromecss-js-usercontent-unsupported/revision/263727,2023-07-26T09:55:54-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
-/en-US/kb/thunderbird-matrix-chat-faq/revision/272534,2023-12-15T14:43:50.200870-08:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/thunderbird-matrix-chat-faq/revision/283556,2024-08-04T16:10:04.834672-07:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/thunderbird-matrix-chat-faq/revision/283552,2024-08-04T11:20:33.478105-07:00,/en-US/user/Mozinet/,Mozinet,approved
+/en-US/kb/thunderbird-matrix-chat-faq/revision/282969,2024-07-21T07:21:28.147006-07:00,/en-US/user/Mozinet/,Mozinet,approved
+/en-US/kb/thunderbird-matrix-chat-faq/revision/282964,2024-07-21T07:05:30.594302-07:00,/en-US/user/Mozinet/,Mozinet,unreviewed
+/en-US/kb/thunderbird-matrix-chat-faq/revision/272534,2023-12-15T14:43:50.200870-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/thunderbird-matrix-chat-faq/revision/265335,2023-09-04T13:25:02-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
 /en-US/kb/thunderbird-matrix-chat-faq/revision/265018,2023-08-28T22:44:47-07:00,/en-US/user/kaie/,Kai Engert,approved
 /en-US/kb/thunderbird-115-supernova-faq/revision/274535,2024-01-11T23:08:09.196607-08:00,/en-US/user/markh2/,Mark Heijl,current
@@ -2055,13 +2117,130 @@ revision,datetime,creator,display_name,status
 /en-US/kb/thunderbird-115-supernova-faq/revision/265100,2023-08-30T09:00:46-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
 /en-US/kb/thunderbird-115-supernova-faq/revision/265099,2023-08-30T08:44:47-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
 /en-US/kb/thunderbird-115-supernova-faq/revision/265042,2023-08-29T09:35:32-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
-/en-US/kb/well-known-sources-for-downloading-thunderbird/revision/272864,2023-12-20T05:18:43.555712-08:00,/en-US/user/markh2/,Mark Heijl,current
+/en-US/kb/well-known-sources-for-downloading-thunderbird/revision/289716,2024-11-30T03:22:44.337535-08:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/well-known-sources-for-downloading-thunderbird/revision/289405,2024-11-25T17:27:57.155456-08:00,/en-US/user/AliceWyman/,AliceWyman,approved
+/en-US/kb/well-known-sources-for-downloading-thunderbird/revision/272864,2023-12-20T05:18:43.555712-08:00,/en-US/user/markh2/,Mark Heijl,approved
 /en-US/kb/well-known-sources-for-downloading-thunderbird/revision/272863,2023-12-20T05:18:02.381930-08:00,/en-US/user/markh2/,Mark Heijl,unreviewed
 /en-US/kb/well-known-sources-for-downloading-thunderbird/revision/270437,2023-11-17T22:50:08-08:00,/en-US/user/Mozinet/,Mozinet,approved
 /en-US/kb/well-known-sources-for-downloading-thunderbird/revision/266573,2023-10-02T01:37:01-07:00,/en-US/user/linuxflower/,Heather Ellsworth,approved
 /en-US/kb/well-known-sources-for-downloading-thunderbird/revision/266393,2023-09-29T02:29:46-07:00,/en-US/user/linuxflower/,Heather Ellsworth,unreviewed
 /en-US/kb/well-known-sources-for-downloading-thunderbird/revision/266376,2023-09-28T23:01:57-07:00,/en-US/user/kaie/,Kai Engert,unreviewed
-/en-US/kb/verifying-thunderbird-software-package/revision/266575,2023-10-02T02:17:36-07:00,/en-US/user/linuxflower/,Heather Ellsworth,current
+/en-US/kb/verifying-thunderbird-software-package/revision/289702,2024-11-29T15:10:57.869155-08:00,/en-US/user/Artist/,Artist,current
+/en-US/kb/verifying-thunderbird-software-package/revision/289694,2024-11-29T10:11:25.493708-08:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
+/en-US/kb/verifying-thunderbird-software-package/revision/288826,2024-11-19T01:23:04.133665-08:00,/en-US/user/markh2/,Mark Heijl,approved
+/en-US/kb/verifying-thunderbird-software-package/revision/288822,2024-11-18T18:57:48.874215-08:00,/en-US/user/Artist/,Artist,unreviewed
+/en-US/kb/verifying-thunderbird-software-package/revision/288814,2024-11-18T12:46:29.594503-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/verifying-thunderbird-software-package/revision/266575,2023-10-02T02:17:36-07:00,/en-US/user/linuxflower/,Heather Ellsworth,approved
 /en-US/kb/verifying-thunderbird-software-package/revision/266572,2023-10-02T01:32:26-07:00,/en-US/user/linuxflower/,Heather Ellsworth,unreviewed
 /en-US/kb/verifying-thunderbird-software-package/revision/266395,2023-09-29T02:51:20-07:00,/en-US/user/linuxflower/,Heather Ellsworth,unreviewed
 /en-US/kb/verifying-thunderbird-software-package/revision/266390,2023-09-29T00:49:24-07:00,/en-US/user/kaie/,Kai Engert,unreviewed
+/en-US/kb/instructions-smime-certificate-using-csr/revision/281140,2024-06-14T03:07:48.070895-07:00,/en-US/user/kaie/,Kai Engert,current
+/en-US/kb/instructions-smime-certificate-using-csr/revision/281129,2024-06-13T21:25:08.812496-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/instructions-smime-certificate-using-csr/revision/281128,2024-06-13T21:22:36.542064-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/instructions-smime-certificate-using-csr/revision/280627,2024-05-29T20:27:18.847247-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/instructions-smime-certificate-using-csr/revision/279832,2024-05-13T08:52:26.119307-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/instructions-smime-certificate-using-csr/revision/279803,2024-05-12T21:30:13.781617-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/instructions-smime-certificate-using-csr/revision/279802,2024-05-12T21:27:02.282423-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/instructions-smime-certificate-using-csr/revision/279801,2024-05-12T21:17:36.435444-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/instructions-smime-certificate-using-csr/revision/279307,2024-04-25T03:27:58.407029-07:00,/en-US/user/kaie/,Kai Engert,unreviewed
+/en-US/kb/openpgp-secret-keys-with-unsupported-feature-flags/revision/281130,2024-06-13T21:58:45.437301-07:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/openpgp-secret-keys-with-unsupported-feature-flags/revision/280684,2024-05-31T10:16:13.802120-07:00,/en-US/user/kaie/,Kai Engert,unreviewed
+/en-US/kb/openpgp-secret-keys-with-unsupported-feature-flags/revision/280054,2024-05-16T08:25:09.061794-07:00,/en-US/user/kaie/,Kai Engert,unreviewed
+/en-US/kb/new-thunderbird-128-nebula/revision/282402,2024-07-11T00:20:07.443533-07:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/new-thunderbird-128-nebula/revision/282401,2024-07-11T00:11:07.584759-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/new-thunderbird-128-nebula/revision/282400,2024-07-10T23:54:47.520188-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/new-thunderbird-128-nebula/revision/282227,2024-07-08T21:48:51.697278-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/thunderbird-128-nebula-faq/revision/288401,2024-11-09T06:47:49.712554-08:00,/en-US/user/AliceWyman/,AliceWyman,unreviewed
+/en-US/kb/thunderbird-128-nebula-faq/revision/282382,2024-07-10T15:18:39.739951-07:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/getting-started-thunderbird/revision/289403,2024-11-25T17:23:22.091045-08:00,/en-US/user/AliceWyman/,AliceWyman,current
+/en-US/kb/getting-started-thunderbird/revision/285136,2024-09-16T08:49:04.298659-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/getting-started-thunderbird/revision/285131,2024-09-16T06:34:47.825992-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
+/en-US/kb/getting-started-thunderbird/revision/285130,2024-09-16T06:33:10.303948-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/getting-started-thunderbird/revision/285124,2024-09-16T06:05:38.640060-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/getting-started-thunderbird/revision/284922,2024-09-08T22:12:05.423652-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/getting-started-thunderbird/revision/284921,2024-09-08T22:05:55.919789-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/thunderbird-android-telemetry/revision/288644,2024-11-14T04:56:05.783834-08:00,/en-US/user/Mozinet/,Mozinet,current
+/en-US/kb/thunderbird-android-telemetry/revision/288638,2024-11-13T20:04:29.584223-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-telemetry/revision/288572,2024-11-12T23:18:41.028801-08:00,/en-US/user/kewisch/,kewisch,unreviewed
+/en-US/kb/thunderbird-android-telemetry/revision/288475,2024-11-11T07:24:40.467547-08:00,/en-US/user/Mozinet/,Mozinet,unreviewed
+/en-US/kb/thunderbird-android-telemetry/revision/286054,2024-10-02T03:11:13.432614-07:00,/en-US/user/michro/,Michele Rodaro,approved
+/en-US/kb/thunderbird-android-telemetry/revision/285803,2024-09-29T08:37:23.737366-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
+/en-US/kb/thunderbird-android-telemetry/revision/285782,2024-09-28T20:58:11.642954-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
+/en-US/kb/thunderbird-android-telemetry/revision/285717,2024-09-27T13:58:15.793027-07:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
+/en-US/kb/thunderbird-android-import/revision/291430,2025-01-14T05:25:03.857555-08:00,/en-US/user/Mozinet/,Mozinet,current
+/en-US/kb/thunderbird-android-import/revision/291399,2025-01-13T15:45:22.607847-08:00,/en-US/user/wsmwk/,Wayne Mery,approved
+/en-US/kb/thunderbird-android-import/revision/291395,2025-01-13T08:29:59.421145-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/291356,2025-01-11T14:48:22.205764-08:00,/en-US/user/wsmwk/,Wayne Mery,unreviewed
+/en-US/kb/thunderbird-android-import/revision/287770,2024-10-30T12:43:18.435436-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287769,2024-10-30T12:09:49.338693-07:00,/en-US/user/kewisch/,kewisch,unreviewed
+/en-US/kb/thunderbird-android-import/revision/287651,2024-10-28T20:15:14.397498-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287650,2024-10-28T20:01:47.297174-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287632,2024-10-28T12:02:28.956667-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287617,2024-10-28T08:19:08.074918-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287616,2024-10-28T08:12:35.767324-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287576,2024-10-27T21:23:38.481964-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287411,2024-10-24T21:06:03.365877-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287383,2024-10-24T08:44:10.847405-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287382,2024-10-24T08:10:56.702061-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287329,2024-10-23T22:13:37.433310-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287328,2024-10-23T22:06:19.894124-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287327,2024-10-23T21:49:58.888067-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287326,2024-10-23T21:42:48.661976-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287325,2024-10-23T21:29:59.975820-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287324,2024-10-23T20:56:33.103447-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287225,2024-10-22T21:04:52.414846-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287210,2024-10-22T17:41:11.895196-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287209,2024-10-22T17:37:40.185025-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287208,2024-10-22T17:31:29.748894-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287202,2024-10-22T17:03:40.158259-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287201,2024-10-22T16:53:50.817807-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287188,2024-10-22T14:11:48.459646-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/287187,2024-10-22T14:04:04.408669-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/286785,2024-10-15T17:49:56.986163-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/286783,2024-10-15T17:33:02.046090-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/286782,2024-10-15T17:31:01.310347-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-import/revision/286063,2024-10-02T10:21:19.535331-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-8-faq/revision/289652,2024-11-28T19:48:07.293108-08:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/thunderbird-android-8-faq/revision/289567,2024-11-27T07:59:11.050093-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-8-faq/revision/289548,2024-11-27T03:22:03.313286-08:00,/en-US/user/kewisch/,kewisch,approved
+/en-US/kb/thunderbird-android-8-faq/revision/289545,2024-11-27T02:22:29.937963-08:00,/en-US/user/kewisch/,kewisch,unreviewed
+/en-US/kb/thunderbird-android-8-faq/revision/289086,2024-11-23T12:02:01.708292-08:00,/en-US/user/Mozinet/,Mozinet,approved
+/en-US/kb/thunderbird-android-8-faq/revision/289024,2024-11-22T11:20:29.182474-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-8-faq/revision/289023,2024-11-22T10:52:23.320759-08:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/thunderbird-android-8-faq/revision/288691,2024-11-15T12:51:50.956333-08:00,/en-US/user/kewisch/,kewisch,approved
+/en-US/kb/thunderbird-android-8-faq/revision/288593,2024-11-13T03:40:00.742345-08:00,/en-US/user/kewisch/,kewisch,unreviewed
+/en-US/kb/thunderbird-android-8-faq/revision/287841,2024-11-01T08:37:03.611447-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
+/en-US/kb/thunderbird-android-8-faq/revision/287788,2024-10-30T17:00:43.846593-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-8-faq/revision/287779,2024-10-30T15:40:45.037623-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-8-faq/revision/287774,2024-10-30T13:41:59.903506-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
+/en-US/kb/thunderbird-android-8-faq/revision/287771,2024-10-30T12:50:54.337331-07:00,/en-US/user/kewisch/,kewisch,approved
+/en-US/kb/thunderbird-android-8-faq/revision/287765,2024-10-30T10:09:18.285034-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-8-faq/revision/287764,2024-10-30T09:59:46.335694-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/thunderbird-android-8-faq/revision/287708,2024-10-29T19:44:35.411077-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/thunderbird-android-8-faq/revision/287700,2024-10-29T16:01:41.000192-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
+/en-US/kb/thunderbird-android-8-faq/revision/287653,2024-10-28T21:53:55.097362-07:00,/en-US/user/wsmwk/,Wayne Mery,approved
+/en-US/kb/thunderbird-android-8-faq/revision/287652,2024-10-28T20:40:30.006969-07:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/new-thunderbird-android-version-8/revision/287759,2024-10-30T09:27:06.322251-07:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/new-thunderbird-android-version-8/revision/287709,2024-10-29T20:29:17.185864-07:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/configure-push-email-thunderbird-android/revision/291196,2025-01-07T21:30:56.967520-08:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/configure-push-email-thunderbird-android/revision/288703,2024-11-15T22:41:41.308184-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/configure-push-email-thunderbird-android/revision/288695,2024-11-15T14:56:11.951695-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/configure-push-email-thunderbird-android/revision/288511,2024-11-11T21:40:46.249927-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/configure-push-email-thunderbird-android/revision/288510,2024-11-11T21:02:04.679807-08:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/getting-started-thunderbird-android/revision/288513,2024-11-11T22:29:09.439673-08:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/getting-started-thunderbird-android/revision/288512,2024-11-11T22:23:33.170596-08:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/openpgp-thunderbird-android-howto/revision/289879,2024-12-03T21:25:25.841588-08:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/openpgp-thunderbird-android-howto/revision/289532,2024-11-26T23:50:00.815889-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/openpgp-thunderbird-android-howto/revision/288882,2024-11-20T00:00:30.721238-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/openpgp-thunderbird-android-howto/revision/288881,2024-11-19T23:51:39.891514-08:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/openpgp-thunderbird-android-howto/revision/288879,2024-11-19T23:23:53.428993-08:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/openpgp-thunderbird-android-howto/revision/288877,2024-11-19T23:01:31.533618-08:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/openpgp-thunderbird-android-howto/revision/288875,2024-11-19T21:10:53.539946-08:00,/en-US/user/rtanglao/,Roland Tanglao,unreviewed
+/en-US/kb/notifications-thunderbird/revision/289635,2024-11-28T13:53:28.007545-08:00,/en-US/user/Sancus/,Sancus,current
+/en-US/kb/notifications-thunderbird/revision/289488,2024-11-26T09:21:47.579749-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/notifications-thunderbird/revision/289417,2024-11-25T21:03:13.614684-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/notifications-thunderbird/revision/288913,2024-11-20T16:25:35.791374-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/notifications-thunderbird/revision/288911,2024-11-20T16:20:14.698172-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/gmail-thunderbird-android/revision/289651,2024-11-28T19:45:01.836278-08:00,/en-US/user/rtanglao/,Roland Tanglao,current
+/en-US/kb/gmail-thunderbird-android/revision/289630,2024-11-28T10:16:22.528917-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
+/en-US/kb/gmail-thunderbird-android/revision/289578,2024-11-27T09:17:38.727936-08:00,/en-US/user/rtanglao/,Roland Tanglao,approved
