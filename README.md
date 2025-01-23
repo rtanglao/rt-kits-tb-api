@@ -1,6 +1,11 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 205-01-22 Get all the articles to get the 2024 contributors
+```bash
+# the following updates: allproducts-kb-title-slug-all-articles.csv
+./get-all-products-kb-articles-list.rb
+```
 ## 2024-06-24 Get all the Firefox Desktop revisions
 ```bash
  mlr --headerless-csv-output --csv cut -f slug firefox-kb-title-slug-all-articles.csv | \
