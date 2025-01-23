@@ -1,7 +1,7 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
-## 205-01-22 Get all the articles to get the 2024 contributors
+## 2025-01-22 Get all the articles to get the 2024 contributors
 ```bash
 # the following updates: allproducts-kb-title-slug-all-articles.csv
 ./get-all-products-kb-articles-list.rb
