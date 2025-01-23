@@ -10,6 +10,10 @@ require 'pry-byebug'
 logger = Logger.new($stderr)
 logger.level = Logger::DEBUG
 mechanize = Mechanize.new
+# mechanize.request_headers = { "Accept-Encoding" => "" }
+# mechanize.ignore_bad_chunking = true
+# mechanize.follow_meta_refresh = true
+# mechanize.log = Logger.new(STDOUT)
 # Prior art from 2017 :-)
 # https://github.com/rtanglao/rt-li-sumo-redirects/blob/master/OTHER-LANGUAGE/get-other-language-urls.rb
 puts 'revision,datetime,creator,display_name,status'
@@ -19,8 +23,15 @@ ARGF.each_line do |kb_slug|
 
   kb_slug_url = "https://support.mozilla.org#{kb_slug.chomp}/history"
   logger.debug "kb_slug_url #{kb_slug_url}"
-  page = mechanize.get(kb_slug_url)
+  skip = false
+  begin
+    page = mechanize.get(kb_slug_url)
+  rescue Mechanize::ResponseCodeError
+    logger.debug "Mechanize EXCEPTION:: 404 for #{kb_slug_url}"
+    skip = true
+  end
   # from https://stackoverflow.com/questions/34781600/how-to-parse-a-html-table-with-nokogiri
+  next if skip
   table = page.css('table').first
   rows = table.css('tr')
   # On each of the remaining rows
