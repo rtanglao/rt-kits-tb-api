@@ -20,7 +20,7 @@ mlr --headerless-csv-output --csv cut -f slug thunderbird-kb-title-slug-all-arti
 | ./get-localized-sumo-kb-urls.rb > thunderbird-localized-sumo-kb-article-slugs.csv
 # 6. get all the non en-US revisions
 mlr --headerless-csv-output --csv cut -f localized-slug thunderbird-localized-sumo-kb-article-slugs.csv | \
-./get-localized-revisions-sumo-kb-urls.rb > thunderbird-revisions.csv
+./get-localized-revisions-sumo-kb-urls.rb > thunderbird-localized-revisions.csv
 ```
 ## 2024-06-24 Get all the Firefox Desktop revisions
 ```bash
