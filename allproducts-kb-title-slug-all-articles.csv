@@ -13,7 +13,7 @@ secure-connection-failed-firefox-did-not-connect,Secure connection failed and Fi
 firefox-uses-too-much-memory-or-cpu-resources,Firefox uses too much memory or CPU resources - How to fix
 change-fonts-and-colors-websites-use,Change the fonts and colors websites use
 websites-look-wrong-or-appear-differently,Websites look wrong or appear differently than they should
-add-ons-cause-issues-are-on-blocklist,Add-ons that cause stability or security issues are put on a blocklist
+add-ons-cause-issues-are-on-blocklist,Why does Mozilla disable some add-ons from running in Firefox?
 bookmarks-toolbar-display-favorite-websites,Bookmarks Toolbar - Display your favorite websites at the top of the Firefox window
 bookmark-folders-organize-your-bookmarks,Use bookmark folders to organize your bookmarks
 update-failed-error-message-when-updating,How to fix the Update Failed error message when updating Firefox
@@ -26,7 +26,7 @@ what-to-do-if-firefox-wont-play-any-sounds,What to do if Firefox won't play any 
 control-whether-firefox-automatically-fills-forms,Control whether Firefox automatically fills in forms
 block-and-unblock-websites-parental-controls-firef,Block and unblock websites with parental controls on Firefox
 disable-or-remove-add-ons,Disable or remove Add-ons
-recovering-important-data-from-an-old-profile,Recovering important data from an old profile
+recovering-important-data-from-an-old-profile,Recover important data from an old profile
 troubleshoot-and-diagnose-firefox-problems,Troubleshoot and diagnose Firefox problems
 how-to-fix-preferences-wont-save,How to fix preferences that won't save
 cannot-remove-add-on-extension-or-theme,Cannot remove an add-on (extension or theme)
@@ -84,7 +84,7 @@ make-firefox-your-default-browser,Make Firefox your default browser
 how-do-i-use-firefox-spell-checker,How do I use the Firefox spell checker?
 websites-dont-load-troubleshoot-and-fix-errors,Websites don't load - troubleshoot and fix error messages
 customize-firefox-controls-buttons-and-toolbars,"Customize Firefox controls, buttons and toolbars"
-view-pdf-files-firefox-or-choose-another-viewer,View PDF files in Firefox or choose another viewer
+view-pdf-files-firefox-or-choose-another-viewer,View PDF files using Firefox’s built-in viewer
 fix-problems-facebook-games-chat-and-more,"Fix problems with Facebook games, chat and more"
 setting-firefox-default-browser-does-not-work,Setting Firefox as the default browser does not work - What to do
 using-pontoon-localize-sumo,Using Pontoon to Localize SUMO
@@ -92,7 +92,7 @@ profile-manager-create-remove-switch-firefox-profiles,"Profile Manager - Create,
 use-themes-change-look-of-firefox,Use themes to change the look of Firefox
 firefox-wont-start-find-solutions,Firefox won't start - find solutions
 recover-lost-or-missing-bookmarks,Recover lost or missing Bookmarks
-adding-screencasts,Adding screencasts
+adding-screencasts,Add screencasts to Knowledge Base articles
 server-not-found-connection-problem,Server Not Found - Troubleshoot connection problems
 firefox-says-its-just-updated-every-time-it-starts,Firefox says it's just updated every time it starts - how to fix
 Certificate-contains-the-same-serial-number-as-another-certificate,Certificate contains the same serial number as another certificate
@@ -118,10 +118,9 @@ firefox-does-not-work-common-fixes,Firefox does not work - Common fixes to get y
 quick-fixes-if-your-firefox-slows-down,Quick fixes if your Firefox slows down
 mozilla-support-rules-guidelines,Mozilla Support rules and guidelines
 install-firefox-android-device-using-google-play,Install Firefox on an Android device using Google Play
-find-and-install-add-ons-firefox-android,Find and install Add-ons on Firefox for Android
+find-and-install-add-ons-firefox-android,Find and install extensions on Firefox for Android
 fix-bookmarks-and-history-will-not-be-functional,"Fix ""The bookmarks and history system will not be functional"" error message"
 javascript-settings-for-interactive-web-pages,JavaScript settings and preferences for interactive web pages
-create-secure-passwords-keep-your-identity-safe,Create secure passwords to keep your identity safe
 how-do-i-restore-my-tabs-last-time,How do I restore my tabs from last time?
 private-browsing-use-firefox-without-history,Private Browsing - Use Firefox without saving history
 firefox-already-running-not-responding,"""Firefox is already running but is not responding"" error - How to fix"
@@ -160,7 +159,6 @@ how-do-i-share-firefox-between-people-on-computer,How do I share Firefox between
 what-mozilla-maintenance-service,What is the Mozilla Maintenance Service?
 customize-items-on-firefox-new-tab-page,Customize items on your Firefox New Tab page
 how-do-i-change-desktop-view-firefox-android,How do I change to the desktop view in Firefox for Android?
-thumbnails-new-tab-page-missing-how-get-them-back,The thumbnails on the New Tab page are missing - how to get them back
 social-support-common-replies,Social Support Common Replies
 technical-writing-program,Technical writing program
 where-are-my-logins-stored,Where are my logins stored?
@@ -169,7 +167,6 @@ when-and-how-to-use-keywords,When and how to use keywords to improve an article'
 anatomy-of-a-knowledge-base-article,Anatomy of a Knowledge Base article
 create-new-knowledge-base-article,Create a new Knowledge Base article
 markup-cheat-sheet,Markup cheat sheet
-remove-babylon-toolbar-home-page-and-search-engine,"How to remove the Babylon toolbar, home page and search engine"
 firefox-available-iphone-or-ipad-my-language,Is Firefox available for iPhone or iPad in my language?
 how-participate-sumo-contributor-meetings,How to participate in SUMO contributor meetings
 how-to-make-screenshots,How to make screenshots
@@ -210,7 +207,7 @@ thunderbird-and-comcast,Thunderbird and Comcast
 imap-synchronization,IMAP Synchronization
 cannot-receive-messages,Cannot receive messages
 thunderbird-crashes,Thunderbird Crashes
-updating-thunderbird,Updating Thunderbird
+updating-thunderbird,Update Thunderbird to the latest version
 thunderbird-faq,Thunderbird FAQ
 thunderbird-software-update-failed,Thunderbird Software Update Failed
 how-disable-or-change-thunderbird-start-page,How to disable or change the Thunderbird start page
@@ -220,11 +217,11 @@ thunderbird-add-ons-frequently-asked-questions,Thunderbird add-ons - frequently 
 thunderbird-and-yahoo,Thunderbird and Yahoo
 cannot-send-messages,Cannot send messages
 switching-thunderbird,Switching to Thunderbird
-installing-thunderbird-linux,Installing Thunderbird on Linux
-installing-thunderbird-on-mac,Installing Thunderbird on Mac
+installing-thunderbird-linux,Install Thunderbird on Linux
+installing-thunderbird-on-mac,Install Thunderbird on Mac
 keyboard-shortcuts-searching,Keyboard Shortcuts for Searching
 compacting-folders,Compacting folders
-moving-thunderbird-data-to-a-new-computer,Moving Thunderbird Data to a New Computer
+moving-thunderbird-data-to-a-new-computer,Move Thunderbird data to a new computer
 names-bug-no-email-addresses-are-displayed,Names but no Email Addresses are Displayed
 hyperlinks-in-messages-not-working,Hyperlinks in Messages Not Working
 protect-your-thunderbird-passwords-primary-password,Protect your Thunderbird passwords with a Primary Password
@@ -232,18 +229,18 @@ adding-a-holiday-calendar,Adding a holiday calendar
 changing-calendar-preferences,Changing calendar preferences
 make-thunderbird-default-mail-client,Make Thunderbird the Default Mail Client
 lightning-user-interface,Lightning User Interface
-using-lightning-google-calendar,Using Lightning with Google Calendar
+using-lightning-google-calendar,Using Thunderbird with Google Calendar
 configuring-lightning,Configuring Lightning
 working-events,Working with events
 creating-a-new-event-or-task,Creating a new event or task
-exporting-and-sharing-a-calendar,Exporting and sharing a calendar
+exporting-and-sharing-a-calendar,Export and share a calendar
 changing-date-or-time-event,Changing the Date or Time of an Event
 inviting-other-people-events,Inviting Other People to Events
 creating-a-recurring-event,Creating a recurring event
 creating-new-calendars,Creating New Calendars
 message-list-columns,Message List Columns
 vacation-response,Vacation Response
-using-multiple-profiles,Using Multiple Profiles
+using-multiple-profiles,Use multiple profiles in Thunderbird
 configuration-options-accounts,Configuration Options for Accounts
 configuration-options-identity,Configuration Options for Identity
 configuration-options-attachments,Configuration Options for Attachments
@@ -259,7 +256,7 @@ what-winmaildat-attachment,What is the winmail.dat attachment?
 switching-folder-pane-view,Switching the folder pane view
 how-install-and-use-another-language-dictionary-th,How to Install and Use another Language in the Dictionary on Thunderbird
 glossary-terms-including-types-accounts,Glossary of Terms including types of Accounts
-installing-thunderbird-windows,Installing Thunderbird on Windows
+installing-thunderbird-windows,Install Thunderbird on Windows
 open-search,Open Search
 add-search-engine-open-search,Add Search Engine to Open Search
 thunderbird-and-junk-spam-messages,Thunderbird and Junk / Spam Messages
@@ -282,7 +279,6 @@ localization-dashboard,Localization Dashboards
 about-new-tab-page,New Tab page in Firefox
 l10n-guidelines-reviewing-translated-articles,L10N guidelines for reviewing translated articles
 uninstall-thunderbird,Uninstall Thunderbird from your computer
-escalation-guidelines,Escalation Guidelines
 how-be-sumo-locale-leader,How to be a SUMO Locale Leader
 what-badge,What is a badge?
 why-open-badges,Why Open Badges?
@@ -295,9 +291,6 @@ what-included-badgekit,What is included in BadgeKit?
 badgekit-ready-now,Is BadgeKit ready now?
 badgekit-who,Who is BadgeKit for?
 technical-documentation-badgekit,Where is technical documentation for BadgeKit?
-get-involved-open-badges-community,Get involved with the Open Badges Community
-open-badges-calls,Open Badges Calls
-community-research-open-badges,Where can I find community research on Open Badges?
 what-is-a-mozilla-backpack,What is a Mozilla Backpack?
 where-can-i-earn-badges,Where can I earn badges?
 how-do-i-share-badges-ive-earned,How do I share the badges I've earned?
@@ -308,8 +301,8 @@ who-else-issuing-open-badges,Who else is issuing Open Badges?
 where-can-i-go-technical-help,Where can I go for technical help?
 how-can-i-personally-display-open-badges,How can I personally display Open Badges?
 organization-displayer-open-badges,How does my organization become a displayer of Open Badges?
-contributors-guide-writing-good-bug,Contributors Guide to Writing a Good Bug
-add-support-guidelines-contributors,Add-on support guidelines for contributors
+contributors-guide-writing-good-bug,Contributors guide for writing a good bug
+add-support-guidelines-contributors,Extension support guidelines for contributors
 where-can-i-go-open-badges-support,Where can I go for Open Badges support?
 remote-content-in-messages,Remote Content in Messages
 how-reset-default-user-agent-firefox,How to reset the default user agent on Firefox
@@ -318,15 +311,13 @@ firefox-support-troubleshooting-guide,Firefox Support troubleshooting guide
 moderation-guidelines,Forum Moderation Guidelines
 use-firefox-sidebar-access-bookmarks-history-synced,"Use the Firefox Sidebar to access bookmarks, history and synced tabs"
 cannot-delete-messages,Cannot delete messages
-how-add-shortcut-website-android,How to add a shortcut to a website on Android
+how-add-shortcut-website-android,Create a shortcut to a website on Firefox for Android
 im-having-problems-confirming-my-firefox-account,I'm having problems confirming my Mozilla account
 use-firefox-another-language,Use Firefox in another language
 where-go-developer-support,Where to go for developer support
 access-mozilla-services-firefox-account,Access Mozilla services with a Mozilla account
 firefox-android-support-forum-contributors,Firefox for Android for Support Forum Contributors
 angry-user-training,Angry User Training
-evaluating-solution-forum,Evaluating a Solution in the Forum
-how-answer-escalated-questions,How to answer escalated questions
 frequently-asked-questions,Frequently Asked Questions
 forget-button-quickly-delete-your-browsing-history,Forget button - quickly delete your browsing history on Firefox
 firefox-crashes-asking-support,Firefox crashes - asking for support
@@ -334,12 +325,11 @@ navigate-support-forum-platform,How to navigate and use the support forum platfo
 customer-service-contributor-forum-skills,Customer Service Contributor Forum Skills
 get-help-firefox-developer-edition,Get help with Firefox Developer Edition
 manage-my-default-search-engines-firefox-android,Manage my default search engines in Firefox for Android
-what-do-sslv3-error-messages-mean-firefox,What do the SSLv3 error messages mean on Firefox?
 i-cant-play-videos-or-audio-firefox-android-5,I can't play videos or audio on Firefox for Android 5.0 (Lollipop)
 how-create-and-use-mailing-lists-thunderbird,How to create and use mailing lists on Thunderbird
 enhanced-tracking-protection-firefox-android,Enhanced Tracking Protection in Firefox for Android
 create-or-improve-common-forum-responses,Create or improve common forum responses
-uninstall-firefox-android-add-ons,Uninstall Firefox for Android add-ons
+uninstall-firefox-android-add-ons,Uninstall Firefox for Android extensions
 uninstall-firefox-android,Uninstall Firefox for Android
 how-does-support-localization-work,How does support localization work?
 translating-an-article,Translating an article
@@ -366,7 +356,7 @@ rate-your-firefox-experience-heartbeat,"Rate your Firefox experience, surveys an
 add-or-remove-search-engine-firefox,Add or remove a search engine in Firefox
 install-firefox-your-phone-or-tablet,Install Firefox on your phone or tablet
 about-config-editor-firefox,Configuration Editor for Firefox
-how-change-your-default-browser-firefox-windows,How to change your default browser to Firefox on Windows
+how-change-your-default-browser-firefox-windows,Make Firefox your default browser on Windows
 thunderbird-and-logjam,Thunderbird and Logjam
 customize-your-new-tab-page,Customize your New Tab page to hide or display content
 search-suggestions-firefox,Search suggestions in Firefox
@@ -444,9 +434,8 @@ troubleshoot-time-errors-secure-websites,How to troubleshoot time related errors
 add-firefox-today-view-your-ios-device,Add Firefox to the Today view on your iOS device
 certificate-warnings-firefox-ios,Certificate warnings in Firefox for iOS
 why-do-i-see-message-asking-if-i-want-see-page-hos,Why do I see a message asking if I want to see the page hosted on HTTPS?
-can-i-print-tip-sheet-x-ray-goggles-shortcuts-even,Can I print a tip sheet with X-Ray Goggles shortcuts for an event?
 re-enable-multi-process-disabled-windows-utilities,Re-enable multi-process support disabled by Windows utilities
-automatically-close-private-tabs-when-leaving-priv,Automatically close Private Tabs when leaving Private Browsing
+automatically-close-private-tabs-when-leaving-priv,Keep Private Browsing tabs open after exiting Firefox
 set-homepage-firefox-ios,Set a homepage in Firefox for iOS
 keyboard-shortcuts-firefox-ios,Keyboard shortcuts in Firefox for iOS
 containers,Multi-Account Containers
@@ -454,7 +443,7 @@ i-found-fake-firefox-update,I found a fake Firefox update
 add-ons-firefox-ios,Add-ons in Firefox for iOS
 desktop-attribution-privacy,About Firefox Desktop Attribution
 screenshare-safety,Share browser windows or your screen with sites you trust
-using-primary-password-sync,Using a Primary Password with Sync
+using-primary-password-sync,Use a Primary Password with Sync
 accounts-blocked,My sign in was “blocked for security reasons” on Mozilla account
 message-tags,Message Tags - Categorize your email in Thunderbird
 change-default-email-program-firefox-ios,Change the default email program in Firefox for iOS
@@ -462,7 +451,6 @@ npapi-plugins,"Why do Java, Silverlight, Adobe Acrobat and other plugins no long
 end-support-windows-xp-and-vista,Firefox has ended support for Windows XP and Vista
 advanced-panel-settings-in-thunderbird,"Advanced panel - System, network, updates, and other advanced settings in Thunderbird"
 change-default-search-firefox-focus-ios,Change the default search in Firefox Focus on iOS
-firefox-add-technology-modernizing,Firefox add-on technology is modernizing
 what-firefox-focus-android,What is Firefox Focus for Android?
 set-firefox-focus-default-browser-android,Set Firefox Focus as default browser on Android
 your-hardware-no-longer-supported-tb,Your hardware is no longer supported by Thunderbird
@@ -481,18 +469,16 @@ storage,Manage local site storage settings
 difference-between-firefox-focus-and-firefox-klar,"I can't find Firefox Focus in Germany, Austria or Switzerland"
 64-bit-firefox-crashes-citrixs-xenapp-vm,64-bit Firefox crashes with Citrix's XenApp VM
 take-screenshots-firefox,Take screenshots in Firefox
-best-practices-answering-questions-support-forum,Best practices for answering questions in the Support Forum [Edits welcome!]
+best-practices-answering-questions-support-forum,Best practices for answering questions in the Support Forum - Edits welcome!
 scan-qr-codes-firefox-ios,Scan QR codes in Firefox for iOS
 night-mode-firefox-ios,Night Mode in Firefox for iOS
 hide-images-firefox-ios,Hide Images in Firefox for iOS
 send-tab-firefox-ios-another-device,Send a tab from Firefox for iOS to another device
 thunderbird-osx,"Thunderbird support has ended for Mac OS X 10.6, 10.7 and 10.8"
-view-virtual-reality-firefox-webvr,View Virtual Reality with Firefox WebVR
 attnadmin-how-community-can-reach-admin-and-when,[Attn Admin] How the community can reach an Admin and when you might want to
-change-primary-email-address-firefox-accounts,Change primary email address on Mozilla account
+change-primary-email-address-firefox-accounts,Change the primary email address on your Mozilla account
 how-update-add-ons,How to update add-ons
 built-themes-firefox-alternative-complete-themes,Built-in themes in Firefox - alternative to complete themes
-accessibility-services,What is the Accessibility Service Indicator?
 social-support-guidelines,Social Support - Guidelines
 shield,About Studies
 message-threading-thunderbird,Message threading in Thunderbird - keep messages grouped by conversation
@@ -500,7 +486,6 @@ automatically-fill-your-address-web-forms,Automatically fill in your address on 
 open-new-private-tab-firefox-focus-android,Open a new private tab in Firefox Focus for Android
 open-new-tab-firefox-klar,Open a new private tab in Firefox Klar
 enhanced-tracking-protection-firefox-ios,Enhanced Tracking Protection in Firefox for iOS
-frequently-asked-questions-firefox-addon,Frequently asked questions - Firefox add-on technology is modernizing
 i-cant-play-audio-remote-desktop-connection,I can’t play audio on a Remote Desktop Connection
 set-firefox-lite-your-default-browser,Set Firefox Lite as your default browser
 firefox-lite-turbo-mode,Firefox Lite Turbo Mode
@@ -509,7 +494,6 @@ browse-faster-blocking-images-firefox-lite,Browse faster by blocking images in F
 screenshots-problem-firefox-lite,I can't take screenshots of some websites on Firefox Lite
 get-started-firefox-lite,Get started with Firefox Lite
 clear-cache-without-clearing-browsing-history,Clear your cache without clearing your browsing history
-cliqz-recommendations-firefox,Cliqz Recommendations in Firefox
 social-support-contributor-roles,Social Support - Contributor roles
 connection-settings-firefox,Connection settings in Firefox
 add-web-page-shortcuts-your-home-screen,Add web page shortcuts to your Home screen
@@ -519,7 +503,7 @@ broadwell-u-microcode,Crash on Broadwell-U with old microcode
 can-i-use-my-screen-reader-new-firefox,Can I use my screen reader with the new Firefox?
 when-respond-controversial-tweet-firefox-advocate,When to respond to a controversial tweet as a Firefox Advocate
 turn-search-suggestions-or-firefox-ios,Turn search suggestions on or off on Firefox for iOS
-switching-chrome-firefox,Switching from Chrome to Firefox
+switching-chrome-firefox,Switch from Chrome to Firefox
 tracking-protection-focus-ios,Tracking Protection on Firefox Focus for iOS
 how-be-social-support-moderator,How to be a Social Support Moderator
 extension-changed-my-new-tab-page,An extension changed my New Tab page or home page
@@ -530,13 +514,10 @@ autocomplete-url-bar-firefox-focus-ios,Autocomplete web addresses in the URL bar
 add-search-engines-firefox-focus-ios,Add search engines in Firefox Focus for iOS
 remove-search-engine-firefox-focus-ios,Remove a search engine in Firefox Focus for iOS
 print-simplified-clutter-free-pages-firefox,"Print simplified, clutter-free pages in Firefox"
-lookingglass,Through the Looking Glass
-firefox-fire-tv,Firefox for Fire TV
 manage-bookmark-folders-firefox-android,Manage bookmark folders in Firefox for Android
 enable-email-invitations-caldav-servers-configured,Enable email invitations for CalDAV servers configured to do serverside scheduling
 utf-8-only-file-paths,File system paths on Linux are always treated as UTF-8
 does-firefox-share-my-location-websites,Does Firefox share my location with websites?
-turn-turbo-mode-or-firefox-fire-tv,Turn Turbo Mode off or on on Firefox for Fire TV
 tips-assessing-safety-extension,Tips for assessing the safety of an extension
 permission-request-messages-firefox-extensions,Permission request messages for Firefox extensions
 security-panel-settings-in-thunderbird,"Security panel - Junk, scam, antivirus, and password settings in Thunderbird"
@@ -544,14 +525,11 @@ privacy-panel-settings-in-thunderbird,Privacy panel - Remote content and cookie 
 find-what-version-thunderbird-you-are-using,Find what version of Thunderbird you are using
 password-manager-remember-delete-change-tb,"Password Manager - Remember, delete and change passwords in Thunderbird"
 videos-dont-have-sound-citrix,Videos don't have sound on Citrix
-firefox-nightly-error-collection,Firefox Nightly Error Collection
 how-add-translate-feature-firefox,How to add the translate add-on to Firefox
 firefox-protection-against-fingerprinting,Firefox's protection against fingerprinting
 add-secondary-email-address-firefox-accounts,Add a secondary email address to Mozilla accounts
-clear-cookies-and-site-data-firefox-fire-tv,Clear cookies and site data in Firefox for Fire TV
 how-replace-google-assistant-firefox-search,How to replace Google Assistant with a Firefox search
-save-or-bookmark-and-remove-links-your-home-screen,Save to (or bookmark) and remove links from your home screen
-privacy-web-authentication,Protecting Privacy while using Web Authentication
+privacy-web-authentication,Protect privacy while using Web Authentication
 reorder-tabs-tab-view,Reorder tabs from tab view
 drag-and-drop-links-and-tabs-and-firefox,Drag and drop links and tabs to and from Firefox
 add-shortcuts-websites-your-home-screen,Add shortcuts to websites on your home screen
@@ -562,19 +540,18 @@ social-support-configure-tools-and-workspace,Social Support - Configure tools an
 firefox-4k-ultra-high-definition-youtube-videos,Playing 4K (Ultra-High Definition) YouTube videos in Firefox
 secure-firefox-account-two-step-authentication,Secure your Mozilla account with two-step authentication
 thunderbird-end-support-xp-and-vista,Thunderbird end of Support for XP and Vista
-repackaging-windows-installer,Repackaging the Windows Installer
+repackaging-windows-installer,Repackage the Windows installer
 block-cookies-firefox-focus-android,Block cookies in Firefox Focus for Android
 block-cookies-firefox-klar-android,Block cookies in Firefox Klar for Android
-choosing-firefox-update-channel,Choosing a Firefox update channel
-customizing-firefox-using-autoconfig,Customizing Firefox Using AutoConfig
-customizing-firefox-using-group-policy-windows,Customizing Firefox Using Group Policy (Windows)
-customizing-firefox-using-policiesjson,Customizing Firefox Using policies.json
-deploying-firefox-customizations-macos,Deploying Firefox Customizations on macOS
+choosing-firefox-update-channel,Choose a Firefox update channel
+customizing-firefox-using-autoconfig,Customize Firefox using AutoConfig
+customizing-firefox-using-group-policy-windows,Customize Firefox using Group Policy (Windows)
+customizing-firefox-using-policiesjson,Customize Firefox using policies.json
+deploying-firefox-customizations-macos,Deploy Firefox customizations on macOS
 access-hidden-tabs-firefox,Access hidden tabs in Firefox
-return-your-firefox-fire-tv-home-screen,Return to your Firefox for Fire TV home screen
 download-photos-and-files-firefox-ios,Download photos and files on Firefox for iOS
 information-eu-eea-swiss-and-california-users,"Information for EU, EEA, Swiss, California, Connecticut, Virginia and Utah users"
-deploying-firefox-with-extensions,Deploying Firefox with extensions
+deploying-firefox-with-extensions,Deploy Firefox with extensions
 password-strength,Choose a strong password
 find-words-page-firefox-focus-ios,Find words on a page in Firefox Focus for iOS
 change-desktop-view-firefox-focus-ios,Change to desktop view on Firefox Focus for iOS
@@ -588,10 +565,9 @@ find-words-page-firefox-focus-android,Find words on a page in Firefox Focus for 
 change-desktop-view-firefox-klar-android,Change to desktop view on Firefox Klar for Android
 switch-desktop-view-firefox-focus-android,Switch to desktop view on Firefox Focus for Android
 tables-format-messages-rows-and-columns,Tables - Format messages with rows and columns
-crash-reporting-firefox-reality,Crash reporting in Firefox Reality
 unify-your-pop-email-accounts-global-inbox,Unify your POP email accounts with a global inbox
 managing-account-data,Managing Account Data
-reporting-extensions-and-themes-abuse,Reporting extensions and themes for abuse
+reporting-extensions-and-themes-abuse,Report extensions and themes for abuse
 bookmark-pages-firefox-lite,Bookmark pages in Firefox Lite
 private-browsing-firefox-lite,Private Browsing in Firefox Lite
 difference-between-imap-and-pop3,The difference between IMAP and POP3
@@ -603,7 +579,6 @@ block-autoplay,Allow or block media autoplay in Firefox
 feed-reader-replacements-firefox,Feed reader replacements for Firefox
 remove-synced-device-firefox-accounts,Remove a synced device from your Mozilla account
 report-breakage-due-blocking,How do I report a broken site in Firefox desktop?
-geckoview-firefox-focus,GeckoView in Firefox Focus
 geckoview-firefox-klar,GeckoView in Firefox Klar
 search-suggestions-firefox-focus-android,Search suggestions in Firefox Focus for Android
 search-suggestions-firefox-klar-android,Search suggestions in Firefox Klar for Android
@@ -611,12 +586,6 @@ screenshot-categories-firefox-lite,Screenshot categories in Firefox Lite
 recommendations-firefox,Recommendations from Firefox
 choosing-firefox-cpu-architecture-windows-os,Choosing a Firefox CPU architecture for Windows OS
 firefox-focus-main-menu,Firefox Focus main Menu
-using-voice-commands-firefox-amazon-fire-tv,Using voice commands in Firefox for Amazon Fire TV
-install-firefox-reality,Install Firefox Reality
-private-mode-firefox-reality,Private Mode in Firefox Reality
-resize-firefox-reality-window-full-screen-or-focus,Resize the Firefox Reality window to full screen or focus view
-using-voice-search-firefox-reality,Using Voice Search in Firefox Reality
-firefox-reality-vr-headsets,Firefox Reality for VR headsets
 firefox-screenshotgo-capture-organize-screenshots,Firefox ScreenshotGo - capture and organize screenshots
 amo-addonsmozillaorg-managing-account-data,AMO (addons.mozilla.org) - Managing account data
 bugzilla-managing-account-data,Bugzilla - Managing account data
@@ -629,19 +598,12 @@ how-use-collections-addonsmozillaorg,How to use collections on addons.mozilla.or
 firefox-accounts-managing-account-data,Mozilla account - Managing account data
 how-do-you-use-google-firebase-firefox,How do you use Google Firebase in Firefox?
 how-do-you-use-adjust-firefox,How do you use Adjust in Firefox?
-how-do-you-use-leanplum-firefox,How do you use Leanplum in Firefox?
 live-bookmarks-migration,What happened to my Live Bookmarks?
 mozilla-monitor-faq,Mozilla Monitor - Frequently asked questions
 install-themes-change-look-thunderbird,Install themes to change the look of Thunderbird
 safe-browsing-firefox-focus,Safe browsing in Firefox Focus
 debugging-policy-issues,Debugging policy issues
 search-suggestions-firefox-focus-ios,Search suggestions in Firefox Focus for iOS
-firefox-echo-show,Firefox for Echo Show
-how-install-firefox-echo-show,How to install Firefox for Echo Show
-clear-my-cookies-firefox-echo-show,Clear my cookies on Firefox for Echo Show
-remove-tiles-firefox-echo-show-home-screen,Remove tiles from the Firefox for Echo Show home screen
-use-voice-commands-firefox-echo-show,Use voice commands with Firefox for Echo Show
-help-improve-firefox-echo-show-sending-usage-data,Help improve Firefox for Echo Show by sending usage data
 personalized-extension-recommendations,Personalized extension recommendations
 unable-install-add-on-extension-theme-thunderbird,Unable to install add-ons (extensions or themes) in Thunderbird
 thunderbird-beta,Thunderbird Beta
@@ -655,15 +617,12 @@ add-trusted-sites-your-allow-list-firefox-klar,Add trusted sites to your allow l
 search-suggestions-firefox-klar-ios,Search suggestions in Firefox Klar for iOS
 how-use-find-page-firefox-android,How to Use Find in Page for Firefox for Android
 assign-shortcuts-search-engines,Assign shortcuts to search engines
-bookmark-page-firefox-reality,Bookmark a page in Firefox Reality
 deploy-firefox-msi-installers,Deploy Firefox with MSI installers
-switch-another-language-firefox-reality,Switch to another language on Firefox Reality
 choose-display-languages-multilingual-web-pages,Choose display languages for multilingual web pages
-firefox-enterprise-vs-normal-firefox,How is Firefox Enterprise different from normal Firefox?
-supported-platforms-and-system-requirements,Supported Platforms and System Requirements
-managing-firefox-updates,Managing Firefox Updates
+firefox-enterprise-vs-normal-firefox,How is Firefox for Enterprise different from normal Firefox?
+managing-firefox-updates,Manage Firefox updates
 what-if-im-locked-out-two-step-authentication,What if I'm locked out of Two-Step Authentication?
-managing-policies-macos-desktops,Managing policies on macOS desktops
+managing-policies-macos-desktops,Manage policies on macOS desktops
 getting-started-thunderbird-main-window,Getting started with the Thunderbird main window
 how-change-thunderbird-layout,How to change the Thunderbird layout
 third-party-trackers,Third-party trackers
@@ -673,8 +632,8 @@ dedicated-profiles-firefox-installation,Dedicated profiles per Firefox installat
 task-manager-tabs-or-extensions-are-slowing-firefox,Task Manager - see whether tabs or extensions are slowing down Firefox
 splash-accounts-managing-account-data,Splash Accounts - Managing Account Data
 privacy-settings-firefox-enterprise,Privacy settings in Firefox for Enterprise
-enforcing-policies-firefox-enterprise,Enforcing policies on Firefox for Enterprise
-deploying-firefox-windows,Deploying Firefox on Windows
+enforcing-policies-firefox-enterprise,Enforce policies on Firefox for Enterprise
+deploying-firefox-windows,Deploy Firefox on Windows
 install-system-add-ons-firefox-enterprise,Install system add-ons on Firefox for Enterprise
 see-active-policies-firefox-enterprise,See active policies on Firefox for Enterprise
 where-can-i-find-list-policies-firefox-enterprise,Where can I find a list of policies for Firefox for Enterprise?
@@ -689,13 +648,11 @@ how-do-i-know-status-my-sync,How do I know the status of my sync?
 will-policies-work-if-users-already-installed-firefox,Will policies I set work if users already installed Firefox?
 setting-roaming-users-profiles,Setting Up Roaming Users Profiles
 silently-install-uninstall-firefox-enterprise,How to silently install/uninstall Firefox for Enterprise
-make-firefox-enterprise-default-browser,Make Firefox for Enterprise the Default Browser
-setting-certificate-authorities-firefox,Setting Up Certificate Authorities (CAs) in Firefox
+make-firefox-enterprise-default-browser,Make Firefox for Enterprise the default browser
+setting-certificate-authorities-firefox,Set up Certificate Authorities (CAs) in Firefox
 windows-administrator-launcher-process-error-fix,Drag and Drop errors with Firefox Launcher Process enabled and Windows UAC disabled - How to Fix
 legacy-browser-support-extension-windows,Legacy browser support extension for Windows
 common-voice-accounts-managing-account-data,Common Voice Accounts - Managing Account Data
-hubs-managing-account-data,Hubs - Managing account data
-send-files-anyone-securely-firefox-send,Send files to anyone securely with Firefox Send
 review-installed-extensions,Review installed extensions
 getting-started-firefox-lockwise,Getting started with Firefox Lockwise
 how-fix-pocket-login-issues,How to fix Pocket login issues
@@ -729,12 +686,10 @@ enable-auto-fill-your-android-devices,Enable auto-fill on your Android devices
 collections-firefox,Collections in Firefox
 facebook-container-prevent-facebook-tracking,Facebook Container - Prevent Facebook from tracking you on other websites
 firefox-keeps-asking-me-primary-password,Firefox keeps asking me for Primary Password
-surf-and-watch-videos-firefox-fire-tv,Surf and watch videos on Firefox for Fire TV
 recover-user-data-missing-after-firefox-update,Recover user data missing after Firefox update
 sync-custom-preferences,Sync custom preferences
-dom-events-changes-introduced-firefox-66,DOM events changes introduced in Firefox 66
 firefox-subprocessor-list,Firefox Subprocessor List
-firefox-dns-over-https,Firefox DNS-over-HTTPS
+firefox-dns-over-https,Firefox DNS over HTTPS
 firefox-esr-release-cycle,Firefox ESR release cycle
 unable-launch-older-version-profile,Unable to use profile when you launch an older version of Thunderbird
 open-firefox-tab-windows-volume-mixer,Why is each open Firefox tab showing up in the Windows volume mixer?
@@ -742,28 +697,24 @@ turn-picture-picture-mode,Turn picture-in-picture mode controls on and off
 certificate-cannot-be-trusted-warning-kazakhstan,"""Certificate cannot be trusted"" warning in Kazakhstan"
 how-firefox-sync-keeps-your-data-safe-even-if-tls-fails,How Firefox Sync keeps your data safe even if TLS fails
 autofill-logins-firefox,Autofill logins on Firefox
-configuring-networks-disable-dns-over-https,Configuring Networks to Disable DNS over HTTPS
+configuring-networks-disable-dns-over-https,Configure networks to disable DNS over HTTPS
 enhanced-tracking-protection-firefox-desktop,Enhanced Tracking Protection in Firefox for desktop
 trackers-and-scripts-firefox-blocks-enhanced-track,Trackers and scripts Firefox blocks in Enhanced Tracking Protection
-receive-tabs-firefox-fire-tv,Receive tabs on Firefox for Fire TV
-sign-firefox-accounts-fire-tv,Sign in to your Mozilla account on Fire TV
-disconnect-your-firefox-account-fire-tv,Disconnect your Mozilla account from Fire TV
 firefox-browser-welcome-pages,Firefox Browser welcome pages - helping you get more from Firefox products and services
 dangerous-directories-Thunderbird-account-settings,Dangerous directories
 changing-your-two-step-authentication-device-firefox-account,Changing your two-step authentication device for your Mozilla account
 understanding-depth-profile-installation,Understanding in depth the profile per installation feature
 canary-domain-use-application-dnsnet,Canary domain - use-application-dns.net
 playing-videos-firefox-android,Playing videos in Firefox for Android
-dns-over-https-doh-faqs,DNS-over-HTTPS (DoH) FAQs
+dns-over-https-doh-faqs,DNS over HTTPS (DoH) FAQs
 firefox-password-manager-alerts-breached-websites,Firefox Password Manager - Alerts for breached websites
 firefox-lockwise-and-privacy,Firefox Lockwise and Privacy
 unable-download-files-windows-10-parental-controls,Unable to download files in Windows 10 when Parental Controls are on
-hubs-touchscreen-controls,Hubs touchscreen controls
-customizing-firefox-macos-using-configuration-prof,Customizing Firefox on MacOS using configuration profiles
-browsing-history-firefox,Browsing history in Firefox  - View the websites you have visited
+customizing-firefox-macos-using-configuration-prof,Customize Firefox on macOS using configuration profiles
+browsing-history-firefox,Browsing history in Firefox - View the websites you have visited
 lightbeam-extension-firefox-no-longer-supported,Lightbeam extension for Firefox is no longer supported
-firefox-enterprise-kiosk-mode,Firefox Enterprise Kiosk mode
-firefox-lite-what-vendors-do-you-use-could-receive,Firefox Lite: What vendors do you use that could receive my data?
+firefox-enterprise-kiosk-mode,Firefox for Enterprise Kiosk mode
+firefox-lite-what-vendors-do-you-use-could-receive,Firefox Lite - What vendors do you use that could receive my data?
 access-popular-sites-firefox-lite,Access popular sites from Firefox Lite
 clear-browsing-history-firefox-lite,Clear browsing history from Firefox Lite
 access-games-firefox-lite,Access games from Firefox Lite
@@ -772,17 +723,17 @@ access-latest-news-firefox-lite,Access the latest news from Firefox Lite
 perform-price-comparisons-firefox-lite,Perform price comparisons in Firefox Lite
 access-downloads-firefox-lite,Access downloads in Firefox Lite
 move-navigation-bar,Move the navigation bar to the top or bottom of the app in Firefox for Android
-deploying-firefox-macos-using-pkg-and-jamf,Deploying Firefox on MacOS using PKG and Jamf
+deploying-firefox-macos-using-pkg-and-jamf,Deploy Firefox on macOS using PKG and Jamf
 pocket-sponsored-stories-new-tabs,Pocket sponsored stories on new tabs
 disable-firefox-sync,Disable Firefox Sync
 using-dark-theme-firefox-ios,Using Dark Theme in Firefox for iOS
 where-are-my-synced-tabs-firefox-ios,Where are my synced tabs in Firefox for iOS?
 about-picture-picture-firefox,About Picture-in-Picture in Firefox
+how-download-mozilla-vpn-your-desktop-or-mobile,Download Mozilla VPN on your desktop or mobile device
 how-do-i-turn-mozilla-vpn,How do I turn on Mozilla VPN?
 mozilla-vpn-compatible-my-device,Is Mozilla VPN compatible with my device?
 how-add-devices-your-mozilla-vpn-subscription,How to add devices to your Mozilla VPN subscription
 how-do-i-choose-my-server-mozilla-vpn,How do I choose my server on Mozilla VPN?
-help-i-still-have-questions-about-mozilla-vpn,"Help, I still have questions about Mozilla VPN"
 are-there-limits-my-mozilla-vpn-connection,Are there limits to my Mozilla VPN connection?
 mozilla-vpn-countries-available-subscribe,In which countries is Mozilla VPN available to subscribe?
 i-forgot-my-firefox-account-password-and-i-cant-log-in-to-mozilla-vpn,I forgot my Mozilla account password and I can't sign in to Mozilla VPN
@@ -791,22 +742,22 @@ how-do-i-cancel-my-subscription-mozilla-vpn,How do I cancel my subscription to M
 how-do-i-request-refund-mozilla-vpn,How do I request a refund for Mozilla VPN?
 how-do-i-update-my-payment-information-mozilla-vpn,How do I update my payment information on Mozilla VPN?
 telemetry-clientid,Telemetry collection and deletion
-debugging-mozilla-vpn,Debugging Mozilla VPN
+debugging-mozilla-vpn,How to obtain the Mozilla VPN Logs
 travel-deals-and-guides-firefox-lite,Travel deals and guides in Firefox Lite
 my-privacy-settings-were-changed-custom-standard,My privacy settings were changed from Custom to Standard
+webxr-permission-info-page,WebXR Permission Info Page
 deceased-incapacitated-account-management-faq,Deceased or incapacitated account management FAQ
 logins-sync-autofill-saving-firefox-preview,"Turn on/off saved logins, login sync and login autofill in Firefox for Android"
 importing-safari-data-firefox,Importing Safari data into Firefox
-how-generate-secure-password-firefox,How to generate a secure password in Firefox
+how-generate-secure-password-firefox,Generate a secure password in Firefox
 how-pin-and-unpin-firefox-taskbar-windows-10-and-windows-11,How to pin and unpin Firefox from the taskbar on Windows 10 and Windows 11
 sync-delist,Transfer information from the old to new Firefox for Android (Nightly or Beta)
 profile-manager-create-and-remove-thunderbird-profiles,Profile Manager - Create and remove Thunderbird profiles
 file-bug-report-or-feature-request-mozilla,File a bug report or feature request for Mozilla products
-firefox-password-authentification-prompt,"Firefox asks for authentication (password, voice, face or fingerprint) when accessing passwords"
+firefox-password-authentification-prompt,Secure Firefox passwords with device sign-in
 dedicated-profile-thunderbird-installation,Dedicated profile per Thunderbird installation
-make-estonian-smartcards-work-firefox-76-and-above,Workaround to make Estonian Smartcards work in Firefox 76+
 xframe-neterror-page,Website will not allow Firefox to display the page if another site has embedded it
-managing-firefox-intune,Managing Firefox with Microsoft Endpoint Manager (Intune)
+managing-firefox-intune,Manage Firefox with Microsoft Endpoint Manager (Intune)
 compatibility-exploit-protection-windows,Compatibility with Exploit protection on Windows
 run-firefox-chromeos,Run Firefox on ChromeOS
 firefox-mac-osx-users-esr,"Firefox Mac OS X 10.9, 10.10 and 10.11 users move to Extended Support Release"
@@ -814,7 +765,7 @@ mobile-and-social-support-escalation-process,Mobile and Social Support escalatio
 social-support-tagging-guidelines,Social Support - Tagging guidelines
 social-support-how-use-tool,Social Support - How to use the tool
 credit-card-autofill,Automatically fill in credit card and payment method data on Web forms
-changes-tab-context-menu-firefox-78,Tab context menu in Firefox - close multiple tabs
+changes-tab-context-menu-firefox-78,Tab context menu
 export-login-data-firefox,Export login data from Firefox
 mozilla-vpn-kill-switch,What is the Mozilla VPN kill switch?
 introduction-to-e2e-encryption,Introduction to End-to-end encryption in Thunderbird
@@ -827,12 +778,13 @@ edit-top-sites-firefox-lite-home-screen,Edit top sites on Firefox Lite home scre
 primary-password-replacing-master-password,Primary Password is replacing Master Password
 firefox-lite-enhanced-search-awesome-bar,Firefox Lite enhanced search with Awesome bar
 whats-new-firefox-lite-version-2-5,What's new in Firefox Lite (version 2.5)
+thunderbird-telemetry,Thunderbird Telemetry
 managing-thunderbird-updates,Managing Thunderbird Updates
 turn-push-notifications-or-firefox-ios,Turn push notifications on or off in Firefox for iOS
 manage-notifications-firefox-android,Manage notifications in Firefox for Android
 firefox-enterprise-79-release-notes,Firefox for Enterprise 79 - Release notes
-ccleaner-deleting-firefox-extension-settings-firef,CCleaner is deleting Firefox extension settings in Firefox 79
-telemetry-collection-windows-default-browser-trend,Telemetry collection- Windows default browser trends
+recover-user-data-missing-after-thunderbird-update,Recover user data missing after Thunderbird update
+telemetry-collection-windows-default-browser-trend,Telemetry collection - Windows default browser trends
 import-login-data-file,Import login and password data from a file
 firefox-android-68-and-earlier-end-support,Firefox for Android (68 and earlier) end of support
 activate-firefox-relay-mask-your-email-address,Activate Firefox Relay - Mask your email address
@@ -846,7 +798,6 @@ openpgp-thunderbird-howto-and-faq,OpenPGP in Thunderbird - HOWTO and FAQ
 use-web-apps-firefox-android,Use Web Apps with Firefox for Android
 delete-sync-data-firefox-signing-out-firefox-account,Delete sync data from Firefox by signing out of your Mozilla account
 control-audio-or-video-playback-your-keyboard,Control audio or video playback with your keyboard
-notes-status,Firefox Notes status
 firefox-enterprise-81-release-notes,Firefox for Enterprise 81 - Release notes
 auto-close-open-tabs-firefox-android,Auto-close open tabs in Firefox for Android
 set-firefox-android-open-links-native-apps,Set Firefox for Android to open links in native apps
@@ -860,7 +811,7 @@ troubleshoot-issues-related-to-add-ons,Troubleshoot issues related to add-ons
 profiling-thunderbird-performance,Profiling Thunderbird Performance
 firefox-enterprise-83-release-notes,Firefox for Enterprise 83 - Release notes
 end-support-adobe-flash,End of support for Adobe Flash
-manage-optional-permissions-extensions,Manage Optional Permissions for Extensions
+manage-optional-permissions-extensions,Manage optional permissions for Firefox extensions
 primary-password-replacing-master-password-thunderbird,Primary Password is replacing Master Password in Thunderbird
 firefox-enterprise-84-release-notes,Firefox for Enterprise 84 - Release notes
 what-mozilla-vpn-and-how-does-it-work,What is Mozilla VPN and how does it work?
@@ -887,6 +838,7 @@ what-information-does-mozilla-vpn-collect,What information does Mozilla VPN coll
 policies-extensions-locked,Unable to uninstall add-ons (extensions or themes)
 how-opt-out-studies-firefox-ios,How to opt out of studies on Firefox for iOS
 how-opt-out-studies-firefox-android,How to opt out of studies on Firefox for Android
+compact-mode-workaround-firefox,Compact mode workaround in Firefox
 firefox-enterprise-88-release-notes,Firefox for Enterprise 88 - Release notes
 how-fix-error-when-trying-open-telegram-or-slack,How to fix an error when trying to open Telegram or Slack on Firefox
 text-encoding-no-longer-available-firefox-menu,Text Encoding no longer available in the Firefox menu panel
@@ -898,7 +850,7 @@ whats-new-firefox-ios-version-34,What's new in Firefox for iOS (version 34)
 firefox-enterprise-89-release-notes,Firefox for Enterprise 89 - Release notes
 end-support-firefox-lite,End of support for Firefox Lite
 solutions-can-not-create-temp-folder-archive-error,"Solutions for ""Can not create temp folder archive"" error when installing Firefox (Windows 10)"
-deploying-firefox-language-packs,Deploying Firefox with Language Packs
+deploying-firefox-language-packs,Deploy Firefox with language packs
 fritzbox-isnt-working-when-mozilla-vpn,Fritz!box isn't working when Mozilla VPN is on
 firefox-enterprise-90-release-notes,Firefox for Enterprise 90 - Release notes
 enable-background-updates-firefox-windows,Enable background updates on Firefox for Windows when Firefox is not running
@@ -926,6 +878,7 @@ whats-new-firefox-ios-version-37,What's new in Firefox for iOS (version 37)
 how-contribute-knowledge-base,How to contribute to the Knowledge Base
 whats-new-firefox-klar-android,What's new in Firefox Klar for Android
 social-support-responding-firefoxsupport,Social Support - Responding from @FirefoxSupport
+social-support-responding-personal-account,Social Support - Responding from personal account
 how-contribute-social-support,How to contribute to Social Support
 how-share-urls-firefox-macos,How to share URLs on Firefox for macOS
 firefox-enterprise-92-release-notes,Firefox for Enterprise 92 - Release notes
@@ -944,7 +897,7 @@ whats-new-firefox-ios-version-39,What's new in Firefox for iOS (version 39)
 use-multi-account-containers-mozilla-vpn,Use Multi-Account Containers with Mozilla VPN
 view-recent-tabs-on-firefox-ios-homepage,View recent tabs on your Firefox for iOS homepage
 view-recently-saved-bookmarks-firefox-ios-homepage,View recently saved bookmarks from your homepage on Firefox for iOS
-view-recent-bookmarks-and-searches-firefox-android-home,View recent bookmarks and searches on your Firefox for Android homepage
+view-recent-bookmarks-and-searches-firefox-android-home,View bookmarks on your home screen
 view-recent-tabs-firefox-android-homepage,View recent tabs on your Firefox for Android homepage
 view-pocket-articles-recommended-firefox-android-home,View articles recommended by Pocket on your Firefox for Android homepage
 firefox-advanced-customization-and-configuration,Firefox advanced customization and configuration options
@@ -957,7 +910,7 @@ firefox-enterprise-94-release-notes,Firefox for Enterprise 94 - Release notes
 change-your-theme-firefox-focus-ios,Change your theme in Firefox Focus for iOS
 change-your-theme-firefox-klar-ios,Change your theme in Firefox Klar for iOS
 usage-data-changes-firefox-ios-and-android,Usage Data Changes for Firefox for iOS and Android
-personalize-firefox-colorways,Personalize Firefox with Colorways
+personalize-firefox-colorways,Personalize Firefox with colorways
 download-firefox-windows-microsoft-store,Download Firefox on Windows from the Microsoft Store
 what-do-after-you-have-subscribed-mozilla-vpn,What to do after you have subscribed to Mozilla VPN
 language-websites-i-visit-changes-when-i-turn-mozilla-vpn-on-what-to-do,The language of the websites I visit changes when I turn Mozilla VPN on - What to do
@@ -970,8 +923,8 @@ how-do-i-contact-support-relay-premium,How do I contact support for Relay Premiu
 reply-forwarded-emails-firefox-relay-premium,Reply to forwarded emails with Firefox Relay Premium
 forgot-password-firefox-relay,I forgot my password for Mozilla account and I can't sign in to Firefox Relay
 end-of-support-firefox-lockwise,End of support for Firefox Lockwise
-how-do-i-install-firefox-relay-extension,How do I install the Firefox Relay Extension on Firefox Desktop?
-firefox-relay-what-email-mask,Firefox Relay - What is an Email mask?
+how-do-i-install-firefox-relay-extension,Install the Firefox Relay extension on Firefox for desktop
+firefox-relay-what-email-mask,Firefox Relay - Email and Phone masks
 firefox-suggest-faq,Firefox Suggest FAQ
 download-beta-and-nightly-focus-android,Download the Beta and Nightly versions of Firefox Focus for Android
 firefox-enterprise-95-release-notes,Firefox for Enterprise 95 - Release notes
@@ -996,7 +949,7 @@ how-opt-out-studies-firefox-klar-ios,How to opt out of studies on Firefox Klar f
 whats-new-firefox-klar-ios-version-40,What's new in Firefox Klar for iOS (version 40)
 firefox-enterprise-96-release-notes,Firefox for Enterprise 96 - Release notes
 what-do-after-data-breach,What to do after a data breach
-manage-downloads-preferences-using-downloads-menu,How file downloads are handled in Firefox version 98 and above
+manage-downloads-preferences-using-downloads-menu,How file downloads are handled in Firefox
 pocket-firefox-account-migration,Pocket transition to Mozilla accounts
 https-only-prefs-focus,HTTPS-Only Mode in Firefox Focus for Android
 whats-new-firefox-ios-version-97,What's new in Firefox for iOS (version 97)
@@ -1040,15 +993,12 @@ difficulties-website-firefox-klar-android-100,Difficulties with a website in Fir
 firefox-enterprise-99-release-notes,Firefox for Enterprise 99 - Release notes
 whats-new-firefox-ios-version-99,What's new in Firefox for iOS (version 99)
 automatic-conversion-google-mail-accounts-oauth20,Automatic Conversion of Google mail accounts to OAuth 2.0 Authentication
-firefox-version-100-on-windows-7,Will Firefox version 100 work on Windows 7?
-importing-bookmarks-firefox-android,Importing bookmarks to Firefox for Android
+importing-bookmarks-firefox-android,Import bookmarks to Firefox for Android
 change-website-appearance-settings-firefox,Change website appearance settings in Firefox
 how-sign-mozilla-vpn,How to sign up for Mozilla VPN
 how-log-mozilla-vpn,How to sign in to Mozilla VPN
 how-do-i-restore-my-mozilla-vpn-subscription,How do I restore my Mozilla VPN Subscription on my mobile device?
-check-your-connection-speed-mozilla-vpn,Check your connection speed in Mozilla VPN
 whats-new-firefox-ios-version-100,What's new in Firefox for iOS (version 100)
-mozilla-vpn-affiliate-program-faq,Mozilla VPN Affiliate Program FAQ
 mobile-support-moderation-guidelines,Mobile Store Support moderation guidelines
 openpgp-unsafe-key-properties-ignored,Unsafe properties of OpenPGP keys might be ignored
 firefox-enterprise-100-release-notes,Firefox for Enterprise 100 - Release notes
@@ -1062,7 +1012,7 @@ automatically-launch-mozilla-vpn-when-your-device,Automatically launch Mozilla V
 what-mozilla-connect,What is Mozilla Connect?
 custom-installation-thunderbird-windows,Custom installation of Thunderbird on Windows
 whats-new-firefox-ios-version-101,What's new in Firefox for iOS (version 101)
-mozilla-vpn-faq,Mozilla VPN FAQ
+mozilla-vpn-faq,Mozilla VPN - FAQ
 what-are-email-trackers-and-how-can-i-block-them-firefox-relay,What are email trackers and how can I block them with Firefox Relay?
 why-do-i-see-white-screen-after-updating-mozilla-v283,Why do I see a white screen after updating Mozilla VPN to version 2.8.3?
 change-site-permissions-firefox-focus-android,Change site permissions in Firefox Focus for Android
@@ -1085,7 +1035,7 @@ thunderbird-help-openpgp-alias,Thunderbird and OpenPGP Alias Keys
 thunderbird-help-openpgp-counterfeit-key,OpenPGP keys might be authentic or counterfeit
 whats-new-firefox-ios-version-102,What's new in Firefox for iOS (version 102)
 thunderbird-help-setup-account-e2ee,Setup your email account for using End-To-End Encryption
-how-set-tab-pickup-firefox-view,Access pages from other devices with Firefox View
+how-set-tab-pickup-firefox-view,"Firefox View - Access pages from open tabs, recently closed tabs, tabs from other devices and browsing history"
 firefox-enterprise-102-release-notes,Firefox for Enterprise 102 - Release notes
 thunderbird-export,Export your Thunderbird Profile
 thunderbird-import,Import settings and data into Thunderbird
@@ -1097,6 +1047,7 @@ how-upgrade-your-mdn-plus-subscription,How to upgrade your MDN Plus subscription
 i-cant-sign-mozilla-vpn-what-should-i-do,I can't sign in to Mozilla VPN - What should I do?
 whats-new-firefox-ios-version-103,What's new in Firefox for iOS (version 103)
 text-recognition,Copy text from images on Firefox for MacOS
+mobile-support-ios-tags,Mobile support - iOS tags
 firefox-privacy-and-security-features,Firefox privacy and security features
 recommended-firefox-privacy-and-security-settings-families,Recommended Firefox privacy and security settings for families
 recommended-firefox-extensions-families-and-students,Recommended Firefox extensions for families and students
@@ -1125,28 +1076,19 @@ whats-new-firefox-klar-ios-version-106,What's new in Firefox Klar for iOS (versi
 firefox-update-notifications-windows,Firefox update notifications on Windows
 whats-new-firefox-ios-version-107,What's new in Firefox for iOS (version 107)
 firefox-hangs-when-copying-suggested-actions-windows-11,Firefox hangs when copying with Suggested Actions enabled on Windows 11 - What to do
-how-do-i-upgrade-my-subscription,How do I upgrade my subscription?
-how-enable-disable-firefox-relay-icon-on-online-fields-and-websites,How to enable/disable the Firefox Relay icon on online fields and websites
+how-do-i-upgrade-my-subscription,Upgrade your subscription
+how-enable-disable-firefox-relay-icon-on-online-fields-and-websites,How to disable the Firefox Relay autofill icon on online fields and websites
 site-permission-add-ons,Site Permission Add-ons
 how-can-i-tell-if-mozilla-vpn-connected,How can I tell if Mozilla VPN is connected?
 firefox-enterprise-107-release-notes,Firefox for Enterprise 107 - Release notes
 cookie-banner-reduction,Block cookie banners on Firefox
-subscribe-hubs,Subscribe to Hubs
-how-can-i-contact-support-hubs,How can I contact support for Hubs?
-i-forgot-my-firefox-account-password-and-i-cant-log-in-hubs,I forgot my Mozilla account password and I can't sign in to the Hubs dashboard
-how-do-i-cancel-my-subscription-hubs,How do I cancel my subscription to Hubs?
-how-do-i-request-refund-hubs,How do I request a refund for Hubs
-where-can-i-see-my-hubs-subscription-information,Where can I see my Hubs subscription information?
-where-hubs-subscription-available,Where is Hubs subscription available?
-if-i-subscribe-hubs-will-my-content-carry-over,"If I subscribe to Hubs will my rooms, scenes, and content on hubs.mozilla.com carry over?"
-do-other-participants-need-firefox-account-join-my-room,Do other participants need a Mozilla account to join my room?
 whats-new-firefox-ios-version-108,What's new in Firefox for iOS (version 108)
 save-web-pages-pdf-firefox-android,Save web pages as PDF in Firefox for Android
 extensions-button,Manage your extensions using the extensions button in the toolbar
 what-should-i-do-if-im-redirected,What should I do if I'm redirected to the Firefox Relay FAQ when clicking a link within an email?
 how-do-i-report-issue-firefox-relay,How do I report an issue with Firefox Relay?
 cookie-banner-reduction-firefox-android,Block cookie banners on Firefox for Android
-domains-allow-firefox,Domains to Allow for Firefox
+domains-allow-firefox,Domains to allow for Firefox
 whats-new-firefox-ios-version-109,What's new in Firefox for iOS (version 109)
 whats-new-firefox-klar-ios-version-107,What's new in Firefox Klar for iOS (version 107)
 mozilla-people-directory-managing-account-data,Mozilla People Directory - Managing account data
@@ -1157,8 +1099,8 @@ firefox-android-android-studio-emulator,Firefox for Android (Android Studio Emul
 firefox-enterprise-109-release-notes,Firefox for Enterprise 109 - Release notes
 upgrading-older-version-thunderbird,Upgrading from an older version of Thunderbird
 how-download-and-install-mozilla-vpn-android,How to download and install Mozilla VPN on Android
-how-download-and-install-mozilla-vpn-ios,How to download and install Mozilla VPN on iOS
-how-download-and-install-mozilla-vpn-windows,How to download and install Mozilla VPN on Windows
+how-download-and-install-mozilla-vpn-ios,Download and install Mozilla VPN on iOS
+how-download-and-install-mozilla-vpn-windows,Download and install Mozilla VPN on Windows
 how-download-and-install-mozilla-vpn-macos,How to download and install Mozilla VPN on macOS
 x-mouse-button-control-firefox-110,X-Mouse Button Control in Firefox 110
 get-started-firefox-monitor,Get started with Mozilla Monitor
@@ -1178,6 +1120,7 @@ how-does-firefox-klar-ios-use-permissions-it-requests,How does Firefox Klar for 
 how-do-i-monitor-multiple-email-addresses,How do I monitor multiple email addresses?
 how-do-i-change-my-privacy-features,How do I change my Privacy features?
 how-do-i-change-my-dns-settings,How do I change my DNS settings?
+general-questions-about-privacy-protection-scans,General questions about privacy protection scans
 firefox-enterprise-112-release-notes,Firefox for Enterprise 112 - Release notes
 turn-ads-mdn-plus,Turn off ads on MDN Plus
 why-do-i-get-harmful-download-message-when-downloading-firefox-windows,Why do I get a harmful download message when downloading Firefox on Windows?
@@ -1208,18 +1151,18 @@ autofill-credit-cards-firefox-ios,Autofill Credit Cards in Firefox for iOS
 userchromecss-js-usercontent-unsupported,userChrome.css and .js and userContent are unsupported
 firefox-enterprise-116-release-notes,Firefox for Enterprise 116 - Release notes
 in-what-languages-is-firefox-relay-available-in,In what languages is Firefox Relay available in?
-how-can-i-contact-support-my-mozilla-vpn-app,How Can I Contact Support From My Mozilla VPN App?
+how-can-i-contact-support-my-mozilla-vpn-app,Contact support from my Mozilla VPN app
 how-view-and-manage-saved-articles-pocket-ios,How to View and Manage Saved Articles in Pocket for iOS
-installing-pocket-for-android-via-direct-download,Installing Pocket for Android and Kindle Fire via direct download
+installing-pocket-for-android-via-direct-download,Install Pocket for Android and Kindle Fire via direct download
 how-do-i-cancel-my-subscription-firefox-relay,How do I cancel my subscription to Firefox Relay?
 global-privacy-control,Global Privacy Control
 pocket-glossary,The Pocket Glossary
-how-to-save-to-pocket-overview,How to Save to Pocket - Overview
+how-to-save-to-pocket-overview,Save to Pocket - Overview
 where-can-i-find-my-saved-items,Where can I find my saved items?
 what-can-be-saved-to-pocket,What can be saved to Pocket?
 what-is-article-view,What is Article View?
-using-pocket-offline,Using Pocket offline
-listening-to-articles-in-pocket-with-text-to-speech,Listening to articles in Pocket with Text-to-Speech
+using-pocket-offline,Use Pocket offline
+listening-to-articles-in-pocket-with-text-to-speech,Listen to articles in Pocket with Text-to-Speech
 saving-from-subscription-based-sites,Saving from subscription-based sites
 getting-started-with-pocket-on-your-iphone,Getting started with Pocket for iOS
 pocket-system-requirements,Pocket system requirements
@@ -1227,7 +1170,7 @@ save-to-pocket-from-your-clipboard,Save to Pocket from your clipboard
 customizing-your-reading-settings-in-pocket,Customizing your reading settings in Pocket
 saving-to-pocket-on-iphone,Saving to Pocket on iOS
 enabling-the-pocket-share-extension-in-ios,Enabling the Pocket Share extension in iOS
-changing-your-language-in-pocket,Changing Your language in Pocket
+changing-your-language-in-pocket,Change your language in Pocket
 importing-into-pocket,Importing your links into Pocket
 tagging-in-pocket-for-iphone,Tagging in Pocket for iOS
 saving-to-pocket-from-apple-news,Saving to Pocket from Apple News
@@ -1238,7 +1181,7 @@ pocket-for-ios-app-privacy-information,Pocket for iOS App privacy information
 getting-started-with-pocket-on-your-computer,Getting started with Pocket on your computer
 getting-started-with-pocket-for-android,Getting started with Pocket for Android
 pocket-hits-faq,Pocket Hits FAQ
-saving-to-pocket-on-android,Saving to Pocket on Android
+saving-to-pocket-on-android,Save to Pocket on Android
 getting-started-with-kobo,Getting started with Pocket on your Kobo eReader
 creating-an-account-and-logging-into-pocket,How to create an account and sign in to Pocket
 im-having-trouble-signing-up-for-pocket-can-you-help,I'm having trouble signing up for Pocket. Can you help?
@@ -1248,14 +1191,14 @@ how-can-i-recover-my-lost-pocket-account,How can I recover my lost Pocket accoun
 unsubscribing-from-pockets-emails,Unsubscribing From Pocket's emails
 login-has-been-disabled-for-my-account,Login has been disabled for my account
 what-is-my-pocket-username-or-email-address,What is my Pocket email address?
-logging-out-of-your-pocket-account,Logging out of your Pocket account
-sharing-in-pocket-for-android,Sharing from Pocket for Android
+logging-out-of-your-pocket-account,Log out of your Pocket account
+sharing-in-pocket-for-android,Share from Pocket for Android
 deleting-your-pocket-account,Deleting Your Pocket account
 viewing-your-saved-items-in-pocket-for-android,Viewing your Saved Items in Pocket for Android
 using-reading-time-estimates-and-viewed-item-status-in-pocket-for-android,Using Reading Time Estimates and Viewed Item Status in Pocket for Android
 adding-a-shortcut-to-pocket-on-your-windows-desktop,Adding a shortcut to Pocket on your Windows desktop
 keyboard-shortcuts-in-pocket-for-web,Keyboard shortcuts in Pocket for Web
-using-pocket-on-kindle-devices,Using Pocket on Kindle devices
+using-pocket-on-kindle-devices,Use Pocket on Kindle devices
 recommended-items-faq,Discover page FAQ
 exporting-your-pocket-list,Exporting your Pocket saves
 what-android-permissions-does-pocket-require-and-why,What permissions does Pocket for Android require and why?
@@ -1264,7 +1207,6 @@ viewing-and-editing-your-pocket-profile,Viewing and editing Your Pocket profile
 retrieving-a-pocket-crash-log-on-android,Retrieving a Pocket Crash Log on Android
 google-sign-on-faq,Google Sign-On FAQ
 i-never-set-a-pocket-password-how-can-i-create-one,I never set a Pocket password. How can I create one?
-can-i-subscribe-to-my-list-via-rss,Can I subscribe to my list via RSS?
 saving-to-pocket-manually,Saving to Pocket manually
 sharing-in-pocket-on-your-computer,Sharing from Pocket on your computer
 pocket-premium-faq,Pocket Premium FAQ
@@ -1288,14 +1230,14 @@ tagging-in-pocket-on-your-computer,Tagging in Pocket on your computer
 bulk-editing-in-pocket-on-your-computer,Bulk Editing in Pocket on your computer
 searching-your-list-in-pocket-on-your-computer,Searching in Pocket on your computer
 firefox-accounts-renamed-mozilla-accounts,Firefox accounts renamed Mozilla accounts - What you need to know
-review-checker-review-quality,Firefox Review Checker - Ensure review authenticity in your online shopping
+review-checker-review-quality,Shop online with more confidence using Firefox Review Checker
 cant-save-pocket-firefox-asked-log-every-time,Can’t save to Pocket in Firefox - Asked to log in every time
 pocket-for-firefox-faq,Pocket for Firefox FAQ
 hide-pocket-recommendations-firefox,Hide Pocket recommendations in Firefox
 about-paywalled-articles-pockets-recommendations,About paywalled articles in Pocket's recommendations
-installing-pocket-extension-your-browser,Installing the Pocket extension in your browser
+installing-pocket-extension-your-browser,Install the Pocket extension in your browser
 using-save-pocket-extension-google-chrome,Using the Save to Pocket extension for Google Chrome
-using-save-pocket-extension-safari,Using the Save to Pocket extension for Safari
+using-save-pocket-extension-safari,Use the Save to Pocket extension for Safari
 troubleshooting-save-button-issues-pocket-chrome,Troubleshooting Save Button issues with Pocket Chrome extension
 using-pocket-must-reads-extension-google-chrome,Using the Pocket Must Reads extension in Google Chrome
 pocket-developer-faq,Pocket Developer FAQ
@@ -1323,8 +1265,7 @@ open-firefox-automatically-when-you-start-computer,Open Firefox automatically wh
 relay-phone-masking-faq,Relay Phone Masking FAQ
 use-browser-print-function-firefox-android,Use the in-browser print function on Firefox for Android
 well-known-sources-for-downloading-thunderbird,Well known sources for downloading the Thunderbird email software
-verifying-thunderbird-software-package,Verifying a Mozilla Thunderbird installation package
-review_checker_mobile,Review Checker for Firefox Mobile
+verifying-thunderbird-software-package,Verify a Mozilla Thunderbird installation package
 faq-encrypted-client-hello-redirect-2,Placeholder article 091802
 firefox-enterprise-120-release-notes,Firefox for Enterprise 120 - Release notes
 firefox-enterprise-119-release-notes,Firefox for Enterprise 119 - Release notes
@@ -1333,22 +1274,95 @@ avoid-getting-locked-out-your-mozilla-account,Avoid getting locked out of your M
 how-does-monitor-plus-work,How does Monitor Plus work?
 firefox_suggest_mobile,Firefox Suggest for Mobile
 contributor-policy-generative-ai-usage,"Contributor Policy - Usage of Generative AI (e.g., ChatGPT)"
+android-translation,Firefox translation for Android
 firefox-enterprise-121-release-notes,Firefox for Enterprise 121 - Release notes
 sync,Sync Firefox data
-using-firefox-android-view-saved-pdf-files,Using Firefox for Android to view saved PDF files
+using-firefox-android-view-saved-pdf-files,Open PDFs in Firefox for Android
 firefox-enterprise-122-release-notes,Firefox for Enterprise 122 - Release notes
 delete-email-mask,How to delete an email mask
 get-started-monitor-plus,Get started with Monitor Plus
 how-upgrade-monitor-plus,How to upgrade to Monitor Plus?
 data-broker-scan,Data broker scan
 how-do-i-request-refund-monitor-plus,How do I request a refund for Monitor Plus?
-how-go-back-mozilla-monitors-free-version,How to go back to Mozilla Monitor’s free version
+how-go-back-mozilla-monitors-free-version,Switch back to Mozilla Monitor’s free plan
 how-do-i-contact-support-monitor-plus,How do I contact support for Monitor Plus?
-data-broker-sites,Data broker sites
 firefox-enterprise-123-release-notes,Firefox for Enterprise 123 - Release notes
 global-privacy-control-firefox-android,Global Privacy Control in Firefox for Android
 firefox-version-support-policy,Firefox version support policy for Knowledge Base content
 firefox-enterprise-124-release-notes,Firefox for Enterprise 124 - Release notes
+use-eyedropper-tool-firefox,Use the Eyedropper tool in Firefox to sample colors
+about-article-type-best-practices,"""About"" article type best practices"
+how-to-article-type-best-practices,"""How-to"" article type best practices"
+troubleshooting-article-type-best-practices,"""Troubleshooting"" article type best practices"
+faq-article-type-best-practices,"""FAQ"" article type best practices"
+firefox-enterprise-125-release-notes,Firefox for Enterprise 125 - Release notes
+address-autofill-firefox,Address autofill on Firefox
+instructions-smime-certificate-using-csr,Instructions for obtaining a personal S/MIME certificate by creating a CSR
+data-loss-prevention,Data Loss Prevention
+icon-gallery-firefox-desktop,Firefox desktop icon gallery for SUMO contributors
+firefox-enterprise-126-release-notes,Firefox for Enterprise 126 - Release notes
+report-inappropriate-content,How to report inappropriate content on Mozilla Support
+how-delete-my-mozilla-account-mozilla-vpn-app-ios,How to delete my Mozilla account via the Mozilla VPN app on Android and iOS
+enable-or-disable-local-network-access-ios,Enable or disable Local Network Access on iOS
+privacy-preserving-attribution,Privacy-Preserving Attribution
+manage-optional-permissions-android-extensions,Manage optional permissions for Firefox extensions on Android
+openpgp-secret-keys-with-unsupported-feature-flags,Using OpenPGP secret keys that advertise features that are not supported by Thunderbird
+monthly-monitor-report-email,Monthly Monitor Report Email
+end-support-mozilla-hubs,End of support for Mozilla Hubs
+firefox-enterprise-127-release-notes,Firefox for Enterprise 127 - Release notes
+monitor-status-indicators,Monitor status indicators
+contribution-area,Update your contribution area
+tab-overview-menu,Tab overview menu
+firefox-enterprise-128-release-notes,Firefox for Enterprise 128 - Release notes
+new-thunderbird-128-nebula,New in Thunderbird 128 Nebula
+block-links-opening-external-apps,Block links from opening in external apps
+multiwindow-support-ipad-firefox,Multiwindow support on iPad for Firefox
+sequential-step-markers-list,Sequential step markers list
+thunderbird-128-nebula-faq,Thunderbird 128 Nebula FAQ
+pdf-alt-text,Add alt text to images in your PDFs using Firefox
+root-certificate-expiration,Update Firefox to prevent add-ons issues from root certificate expiration
+new-tab,Content recommendations on the Firefox New Tab page - FAQ
+firefox-suggest-fakespot,Fakespot results in Firefox Suggest
+firefox-enterprise-129-release-notes,Firefox for Enterprise 129 - Release notes
+submit-sumo-knowledge-base-content-request,Submit a SUMO knowledge base content request
+choose-your-preferred-pdf-viewer-firefox,Choose your preferred PDF viewer in Firefox
+back-your-firefox-installation-folder,Back up your Firefox installation folder
+resolve-installation-error-windows,Resolve “The installation seems to be incomplete/corrupt” error in Firefox on Windows
+firefox-enterprise-130-release-notes,Firefox for Enterprise 130 - Release notes
+generate-strong-passwords-firefox-android,Generate strong passwords in Firefox for Android
+firefox-labs-explore-experimental-features-firefox,Firefox Labs - Explore experimental features in Firefox
+getting-started-thunderbird,Get started with Thunderbird
+how-review-checker-preserves-user-privacy,How Review Checker preserves user privacy
+rcs-messaging-and-mozilla-vpn,RCS messaging and Mozilla VPN
+integrate-firefox-relay-firefox-password-manager,Integrate Firefox Relay into the Firefox Password Manager
+firefox-blocked-macos-15-sequoia-firewall-what-you,Firefox blocked by macOS 15 Sequoia firewall - What you need to know
+ai-chatbot,Enable AI chatbots in Firefox
+thunderbird-android-telemetry,Thunderbird Android Telemetry
+firefox-enterprise-131-release-notes,Firefox for Enterprise 131 - Release notes
+thunderbird-android-import,Import settings and data into Thunderbird for Android
+resist-fingerprinting,Resist Fingerprinting
+choose-browser-opens-pocket-web-content-android,Choose which browser opens Pocket web content on your Android
+securing-new-partner-monitor-plus,Securing a New Partner for Monitor Plus
+why-mozilla--show-me-data-breach-site-never-signed-to,Why does Monitor show me in a data breach for a site I never signed up to?
+thunderbird-android-8-faq,Thunderbird for Android 8 FAQ
+firefox-enterprise-132-release-notes,Firefox for Enterprise 132 - Release notes
+screen-sharing-warning-macos-15-sequoia,Address screen sharing issues with Firefox on macOS 15 Sequoia
+new-thunderbird-android-version-8,New in Thunderbird for Android version 8
+how-change-or-reset-your-mozilla-account-password,How to change or reset your Mozilla account password
+firefox-macos-session-resume-feature,Firefox macOS session resume feature
+configure-push-email-thunderbird-android,Configure push email for Thunderbird for Android
+getting-started-thunderbird-android,Getting started with Thunderbird for Android
+openpgp-thunderbird-android-howto,OpenPGP in Thunderbird for Android - How To
+notifications-thunderbird,Notifications in Thunderbird
+firefox-enterprise-133-release-notes,Firefox for Enterprise 133 - Release notes
+gmail-thunderbird-android,Gmail and Thunderbird for Android
+customize-your-wallpapers,Customize your wallpapers
+manage-your-monitor-notifications,Manage your Monitor notifications
+best-practices-gifs,Best practices to use GIFs in KB articles
+https-upgrades,Firefox connection upgrades - HTTP to HTTPS
+https-first,HTTPS-First upgrades to secure connections
+https-upgrades-redirect-1,Placeholder Bug 1929565
+backlogged-crash-reports,Bug 1931078
 searches-take-you-to-wrong-search-website,What to do when searches take you to the wrong search website
 troubleshoot-firefox-crashes-closing-or-quitting,Troubleshoot Firefox crashes (closing or quitting unexpectedly)
 will-firefox-work-my-mobile-device,Will Firefox work on my mobile device?
