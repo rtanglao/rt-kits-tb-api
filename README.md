@@ -1,6 +1,8 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2025-01-22 Search all kb articles, the API has changed! There is now a column with kitsune markdown called `text`
+* Search engine for all products: https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Fdetails-allproducts-kb-title-slug-all-articles.csv#/data/details-allproducts-kb-title-slug-all-articles
 ## 2025-01-22 Get all the articles to get the 2024 contributors
 ```bash
 # the following updates: allproducts-kb-title-slug-all-articles.csv
