@@ -5,10 +5,13 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 * Search engine for all products: https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Fdetails-allproducts-kb-title-slug-all-articles.csv#/data/details-allproducts-kb-title-slug-all-articles
 ## 2025-01-22 Get all the articles to get the 2024 contributors
 ```bash
-# the following updates: allproducts-kb-title-slug-all-articles.csv
+# 1. the following updates: allproducts-kb-title-slug-all-articles.csv
 ./get-all-products-kb-articles-list.rb
 ./get-kb-article-detailed-list.rb allproducts-kb-title-slug-all-articles.csv
-# resulting file is: details-allproducts-kb-title-slug-all-articles.csv
+# 2. resulting file is: details-allproducts-kb-title-slug-all-articles.csv
+# 3. get all thunderbird desktop and android articles
+ mlr --csv filter '$products_str =~ "thunderbird"' details-allproducts-kb-title-slug-all-articles.csv \
+> thunderbird-kb-title-slug-all-articles-details.csv
 ```
 ## 2024-06-24 Get all the Firefox Desktop revisions
 ```bash
