@@ -18,7 +18,7 @@ mlr --headerless-csv-output --csv cut -f slug thunderbird-kb-title-slug-all-arti
 # 5. get all the localized URLs
  mlr --headerless-csv-output --csv cut -f slug thunderbird-kb-title-slug-all-articles-details.csv \
 | ./get-localized-sumo-kb-urls.rb > thunderbird-localized-sumo-kb-article-slugs.csv
-# 6. get all the non en-US revisions, bug, fails if the history is no longer visible to anonymous users
+# 6. get all the non en-US revisions, bug, fails if the history is no longer visible to anonymous users i.e. translation wasn't approved.
 mlr --headerless-csv-output --csv cut -f localized-slug thunderbird-localized-sumo-kb-article-slugs.csv | \
 ./get-localized-revisions-sumo-kb-urls.rb > thunderbird-localized-revisions.csv 2>logs-get-localized-revisions-stderr.txt &
 ```
