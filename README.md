@@ -12,9 +12,12 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 # 3. get all thunderbird desktop and android articles
  mlr --csv filter '$products_str =~ "thunderbird"' details-allproducts-kb-title-slug-all-articles.csv \
 > thunderbird-kb-title-slug-all-articles-details.csv
-# 4. get all the revisions
+# 4. get all the en-US revisions
 mlr --headerless-csv-output --csv cut -f slug thunderbird-kb-title-slug-all-articles-details.csv | \
 ./get-revisions-sumo-kb-urls.rb > thunderbird-revisions.csv
+# 5. get all the localized URLs
+ mlr --headerless-csv-output --csv cut -f slug thunderbird-kb-title-slug-all-articles-details.csv \
+| ./get-localized-sumo-kb-urls.rb > thunderbird-localized-sumo-kb-article-slugs.csv
 ```
 ## 2024-06-24 Get all the Firefox Desktop revisions
 ```bash
