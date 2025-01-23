@@ -3,7 +3,7 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 
 ## 2025-01-22 Search all kb articles, the API has changed! There is now a column with kitsune markdown called `text`
 * Search engine for all products: https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Fdetails-allproducts-kb-title-slug-all-articles.csv#/data/details-allproducts-kb-title-slug-all-articles
-## 2025-01-22 Get all the articles to get the 2024 contributors
+## 2025-01-22 Get all the articles to get the 2024 contributors via the revisions
 ```bash
 # 1. the following updates: allproducts-kb-title-slug-all-articles.csv
 ./get-all-products-kb-articles-list.rb
@@ -12,6 +12,9 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 # 3. get all thunderbird desktop and android articles
  mlr --csv filter '$products_str =~ "thunderbird"' details-allproducts-kb-title-slug-all-articles.csv \
 > thunderbird-kb-title-slug-all-articles-details.csv
+# 4. get all the revisions
+mlr --headerless-csv-output --csv cut -f slug thunderbird-kb-title-slug-all-articles-details.csv | \
+./get-revisions-sumo-kb-urls.rb > thunderbird-revisions.csv
 ```
 ## 2024-06-24 Get all the Firefox Desktop revisions
 ```bash
