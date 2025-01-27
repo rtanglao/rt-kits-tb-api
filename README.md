@@ -1,6 +1,43 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2025-01-26 get all the SUMO KB Localizers with approved revisions
+```bash
+ mlr --csv --from thunderbird-localized-revisions.csv filter '($datetime =~ "^2024-") && $status == "approved"' \
+then count-distinct -f creator \
+then sort -nr count thunderbird-localized-revisions.csv
+```
+* results in:
+```
+creator,count
+/it/user/michro/,68
+/de/user/Artist/,32
+/ru/user/Goudron/,28
+/nl/user/markh2/,26
+/el/user/d.spentzos/,24
+/zh-CN/user/wxie2016/,20
+/fr/user/Mozinet/,18
+/pl/user/teo951/,12
+/pt-BR/user/marcelo.ghelman/,10
+/pl/user/TyDraniu/,10
+/fr/user/Y.D./,10
+/hu/user/kkemenczy/,6
+/el/user/norhorn/,6
+/pt-PT/user/Manuela.Silva/,4
+/nl/user/Mad_Maks/,4
+/zh-CN/user/Olvcpr423/,4
+/da/user/Joergen/,2
+/fr/user/JUM/,2
+/ja/user/mokich1one/,2
+/ko/user/paperbox/,2
+/ko/user/ies240/,2
+/zh-CN/user/aiwwe0897/,2
+/es/user/pcp04/,2
+/de/user/graba/,2
+/pt-BR/user/jhonatasrm/,2
+/zh-TW/user/%E5%B0%8F%E5%90%89%E9%86%AC/,2
+/bg/user/shopov.bogomil/,2
+```
 ## 2025-01-26 get all the SUMO KB Localizers
 ```bash
  mlr --csv --from thunderbird-localized-revisions.csv filter '($datetime =~ "^2024-")' \
