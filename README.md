@@ -1,6 +1,41 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2025-01-26 get all the SUMO KB Localizers
+```bash
+ mlr --csv --from thunderbird-localized-revisions.csv filter '($datetime =~ "^2024-")' \
+then count-distinct -f creator \
+then sort -nr count thunderbird-localized-revisions.csv
+```
+* results n:
+```
+creator,count
+/it/user/michro/,188
+/nl/user/markh2/,98
+/ru/user/Goudron/,98
+/de/user/Artist/,82
+/el/user/d.spentzos/,82
+/pl/user/TyDraniu/,78
+/zh-CN/user/wxie2016/,72
+/fr/user/Mozinet/,62
+/fr/user/Y.D./,60
+/pt-PT/user/Manuela.Silva/,54
+/fr/user/moz_contrib/,54
+/uk/user/hotr1pak/,48
+/pl/user/teo951/,26
+/pt-BR/user/marcelo.ghelman/,20
+/ja/user/trsn4649/,18
+/cs/user/soucet/,16
+/hu/user/kkemenczy/,16
+/el/user/norhorn/,12
+/zh-CN/user/aiwwe0897/,12
+/pt-BR/user/jhonatasrm/,12
+/de/user/graba/,10
+/nl/user/Mad_Maks/,10
+/ja/user/marsf/,8
+...
+```
+
 ## 2025-01-22 Search all kb articles, the API has changed! There is now a column with kitsune markdown called `text`
 * Search engine for all products: https://lite.datasette.io/?csv=https%3A%2F%2Fraw.githubusercontent.com%2Frtanglao%2Frt-kits-tb-api%2Fmain%2Fdetails-allproducts-kb-title-slug-all-articles.csv#/data/details-allproducts-kb-title-slug-all-articles
 ## 2025-01-22 Get all the articles to get the 2024 contributors via the revisions
