@@ -1,6 +1,11 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2025-05-16=p1 Get all the articles to get the contributors as of 2025-05-16 via the revisions
+1\. the following updates: allproducts-kb-title-slug-all-articles.csv
+```bash
+./get-all-products-kb-articles-list.rb # 1429 articles
+```
 ## 2025-01-26 get all the SUMO KB Localizers with approved revisions in 2024
 ```bash
  mlr --csv --from thunderbird-localized-revisions.csv filter '($datetime =~ "^2024-") && $status == "approved"' \
