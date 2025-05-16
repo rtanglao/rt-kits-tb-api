@@ -8,7 +8,10 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 git add allproducts-kb-title-slug-all-articles.csv
 git commit -m "update all articles csv" ; git push
 ```
-
+2\. resulting file is: details-allproducts-kb-title-slug-all-articles.csv
+```bash
+./get-kb-article-detailed-list.rb allproducts-kb-title-slug-all-articles.csv
+```
 ## 2025-01-26 get all the SUMO KB Localizers with approved revisions in 2024
 ```bash
  mlr --csv --from thunderbird-localized-revisions.csv filter '($datetime =~ "^2024-") && $status == "approved"' \
