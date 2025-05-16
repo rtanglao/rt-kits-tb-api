@@ -6,7 +6,7 @@ Experiments with Thunderbird and the SUMO aka Kitsune API
 ```bash
 ./get-all-products-kb-articles-list.rb # 1429 articles
 git add allproducts-kb-title-slug-all-articles.csv
-git commit -m "update all articles csv ; git push
+git commit -m "update all articles csv" ; git push
 ```
 
 ## 2025-01-26 get all the SUMO KB Localizers with approved revisions in 2024
