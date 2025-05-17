@@ -16,6 +16,17 @@ git add  details-allproducts-kb-title-slug-all-articles.csv
 git commit -m "2025-05-16 version of details-allproducts-kb-title-slug-all-articles.csv"
 git push
 ```
+
+3\. get all thunderbird desktop and android articles
+```bash
+ mlr --csv filter '$products_str =~ "thunderbird"' details-allproducts-kb-title-slug-all-articles.csv \
+> thunderbird-kb-title-slug-all-articles-details.csv
+```
+4\. get all the en-US revisions
+```bash
+mlr --headerless-csv-output --csv cut -f slug thunderbird-kb-title-slug-all-articles-details.csv | \
+./get-revisions-sumo-kb-urls.rb > thunderbird-revisions.csv
+```
 ## 2025-01-26 get all the SUMO KB Localizers with approved revisions in 2024
 ```bash
  mlr --csv --from thunderbird-localized-revisions.csv filter '($datetime =~ "^2024-") && $status == "approved"' \
