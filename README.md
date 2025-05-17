@@ -11,6 +11,10 @@ git commit -m "update all articles csv" ; git push
 2\. resulting file is: details-allproducts-kb-title-slug-all-articles.csv
 ```bash
 ./get-kb-article-detailed-list.rb allproducts-kb-title-slug-all-articles.csv
+ details-allproducts-kb-title-slug-all-articles.csv
+git add  details-allproducts-kb-title-slug-all-articles.csv
+git commit -m "2025-05-16 version of details-allproducts-kb-title-slug-all-articles.csv"
+git push
 ```
 ## 2025-01-26 get all the SUMO KB Localizers with approved revisions in 2024
 ```bash
