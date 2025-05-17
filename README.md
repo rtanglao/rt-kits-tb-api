@@ -22,10 +22,13 @@ git push
  mlr --csv filter '$products_str =~ "thunderbird"' details-allproducts-kb-title-slug-all-articles.csv \
 > thunderbird-kb-title-slug-all-articles-details.csv
 ```
-4\. get all the en-US revisions
+4\. get all the en-US revisions and commit to github
 ```bash
 mlr --headerless-csv-output --csv cut -f slug thunderbird-kb-title-slug-all-articles-details.csv | \
 ./get-revisions-sumo-kb-urls.rb > thunderbird-revisions.csv
+git add thunderbird-kb-title-slug-all-articles-details.csv thunderbird-revisions.csv
+git commit -m "2025-05-16 versions of thunderbird-kb-title-slug-all-articles-details.csv thunderbird-revisions.csv"
+git push
 ```
 ## 2025-01-26 get all the SUMO KB Localizers with approved revisions in 2024
 ```bash
