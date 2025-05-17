@@ -22,13 +22,23 @@ git push
  mlr --csv filter '$products_str =~ "thunderbird"' details-allproducts-kb-title-slug-all-articles.csv \
 > thunderbird-kb-title-slug-all-articles-details.csv
 ```
-4\. get all the en-US revisions and commit to github
+4\. get all the Thunderbird en-US revisions and commit to github
 ```bash
 mlr --headerless-csv-output --csv cut -f slug thunderbird-kb-title-slug-all-articles-details.csv | \
 ./get-revisions-sumo-kb-urls.rb > thunderbird-revisions.csv
 git add thunderbird-kb-title-slug-all-articles-details.csv thunderbird-revisions.csv
 git commit -m "2025-05-16 versions of thunderbird-kb-title-slug-all-articles-details.csv thunderbird-revisions.csv"
 git push
+```
+5\. get all the Thunderbird localized URLs
+```bash
+ mlr --headerless-csv-output --csv cut -f slug thunderbird-kb-title-slug-all-articles-details.csv \
+| ./get-localized-sumo-kb-urls.rb > thunderbird-localized-sumo-kb-article-slugs.csv
+```
+6\. get all the Thunderbird non en-US revisions, bug, fails if the history is no longer visible to anonymous users i.e. translation wasn't approved.
+```bash
+mlr --headerless-csv-output --csv cut -f localized-slug thunderbird-localized-sumo-kb-article-slugs.csv | \
+./get-localized-revisions-sumo-kb-urls.rb > thunderbird-localized-revisions.csv 2>logs-get-localized-revisions-stderr.txt &
 ```
 ## 2025-01-26 get all the SUMO KB Localizers with approved revisions in 2024
 ```bash
