@@ -1,6 +1,11 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2025-05-19-p2 Get all the locale SUMO KB pages
+* The following creates [all-sumo-locales.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/all-sumo-locales.csv)
+```bash
+./get-kb-locales-list.rb
+```
 ## 2025-05-19-p1 Get all the Thunderbird SUMO KB Localizers with approved revisions in 2025 as of 2025-05-16
 
 ```bash
