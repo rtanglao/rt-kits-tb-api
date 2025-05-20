@@ -1,0 +1,77 @@
+locale_slug,locale_name,locale_localized_name,locale_aaq_enabled,locale_url
+af,Afrikaans,Afrikaans,false,https://support.mozilla.org/en-US/kb/locales/af
+ar,Arabic,عربي,false,https://support.mozilla.org/en-US/kb/locales/ar
+az,Azerbaijani,Azərbaycanca,false,https://support.mozilla.org/en-US/kb/locales/az
+bg,Bulgarian,Български,false,https://support.mozilla.org/en-US/kb/locales/bg
+bm,Bambara,Bamanankan,false,https://support.mozilla.org/en-US/kb/locales/bm
+bn,Bengali,বাংলা,false,https://support.mozilla.org/en-US/kb/locales/bn
+bs,Bosnian,Bosanski,false,https://support.mozilla.org/en-US/kb/locales/bs
+ca,Catalan,català,false,https://support.mozilla.org/en-US/kb/locales/ca
+cs,Czech,Čeština,true,https://support.mozilla.org/en-US/kb/locales/cs
+da,Danish,Dansk,false,https://support.mozilla.org/en-US/kb/locales/da
+de,German,Deutsch,false,https://support.mozilla.org/en-US/kb/locales/de
+ee,Ewe,Èʋegbe,false,https://support.mozilla.org/en-US/kb/locales/ee
+el,Greek,Ελληνικά,false,https://support.mozilla.org/en-US/kb/locales/el
+en-US,English,English,true,https://support.mozilla.org/en-US/kb/locales/en-US
+es,Spanish,Español,true,https://support.mozilla.org/en-US/kb/locales/es
+et,Estonian,eesti keel,false,https://support.mozilla.org/en-US/kb/locales/et
+eu,Basque,Euskara,false,https://support.mozilla.org/en-US/kb/locales/eu
+fa,Persian,فارسی,false,https://support.mozilla.org/en-US/kb/locales/fa
+fi,Finnish,suomi,true,https://support.mozilla.org/en-US/kb/locales/fi
+fr,French,Français,false,https://support.mozilla.org/en-US/kb/locales/fr
+fy-NL,Frisian,Frysk,false,https://support.mozilla.org/en-US/kb/locales/fy-NL
+ga-IE,Irish (Ireland),Gaeilge (Éire),false,https://support.mozilla.org/en-US/kb/locales/ga-IE
+gl,Galician,Galego,false,https://support.mozilla.org/en-US/kb/locales/gl
+gn,Guarani,Avañe'ẽ,false,https://support.mozilla.org/en-US/kb/locales/gn
+gu-IN,Gujarati,ગુજરાતી,false,https://support.mozilla.org/en-US/kb/locales/gu-IN
+ha,Hausa,هَرْشَن هَوْسَ,false,https://support.mozilla.org/en-US/kb/locales/ha
+he,Hebrew,עברית,false,https://support.mozilla.org/en-US/kb/locales/he
+hi-IN,Hindi (India),हिन्दी (भारत),false,https://support.mozilla.org/en-US/kb/locales/hi-IN
+hr,Croatian,Hrvatski,false,https://support.mozilla.org/en-US/kb/locales/hr
+hu,Hungarian,Magyar,true,https://support.mozilla.org/en-US/kb/locales/hu
+dsb,Lower Sorbian,Dolnoserbšćina,false,https://support.mozilla.org/en-US/kb/locales/dsb
+hsb,Upper Sorbian,Hornjoserbsce,false,https://support.mozilla.org/en-US/kb/locales/hsb
+id,Indonesian,Bahasa Indonesia,false,https://support.mozilla.org/en-US/kb/locales/id
+ig,Igbo,Asụsụ Igbo,false,https://support.mozilla.org/en-US/kb/locales/ig
+it,Italian,Italiano,true,https://support.mozilla.org/en-US/kb/locales/it
+ja,Japanese,日本語,false,https://support.mozilla.org/en-US/kb/locales/ja
+ka,Georgian,ქართული,false,https://support.mozilla.org/en-US/kb/locales/ka
+km,Khmer,ខ្មែរ,false,https://support.mozilla.org/en-US/kb/locales/km
+kn,Kannada,ಕನ್ನಡ,false,https://support.mozilla.org/en-US/kb/locales/kn
+ko,Korean,한국어,false,https://support.mozilla.org/en-US/kb/locales/ko
+ln,Lingala,Lingála,false,https://support.mozilla.org/en-US/kb/locales/ln
+lt,Lithuanian,lietuvių kalba,false,https://support.mozilla.org/en-US/kb/locales/lt
+mg,Malagasy,Malagasy,false,https://support.mozilla.org/en-US/kb/locales/mg
+mk,Macedonian,Македонски,false,https://support.mozilla.org/en-US/kb/locales/mk
+ml,Malayalam,മലയാളം,false,https://support.mozilla.org/en-US/kb/locales/ml
+ms,Malay,Bahasa Melayu,false,https://support.mozilla.org/en-US/kb/locales/ms
+ne-NP,Nepali,नेपाली,false,https://support.mozilla.org/en-US/kb/locales/ne-NP
+nl,Dutch,Nederlands,true,https://support.mozilla.org/en-US/kb/locales/nl
+no,Norwegian,Norsk,false,https://support.mozilla.org/en-US/kb/locales/no
+pl,Polish,Polski,false,https://support.mozilla.org/en-US/kb/locales/pl
+pt-BR,Portuguese (Brazilian),Português (do Brasil),true,https://support.mozilla.org/en-US/kb/locales/pt-BR
+pt-PT,Portuguese (Portugal),Português (Europeu),false,https://support.mozilla.org/en-US/kb/locales/pt-PT
+ro,Romanian,română,false,https://support.mozilla.org/en-US/kb/locales/ro
+ru,Russian,Русский,false,https://support.mozilla.org/en-US/kb/locales/ru
+si,Sinhala,සිංහල,false,https://support.mozilla.org/en-US/kb/locales/si
+sk,Slovak,slovenčina,false,https://support.mozilla.org/en-US/kb/locales/sk
+sl,Slovenian,slovenščina,true,https://support.mozilla.org/en-US/kb/locales/sl
+sq,Albanian,Shqip,false,https://support.mozilla.org/en-US/kb/locales/sq
+sr,Serbian,Српски,true,https://support.mozilla.org/en-US/kb/locales/sr
+sw,Swahili,Kiswahili,false,https://support.mozilla.org/en-US/kb/locales/sw
+sv,Swedish,Svenska,false,https://support.mozilla.org/en-US/kb/locales/sv
+ta,Tamil,தமிழ்,false,https://support.mozilla.org/en-US/kb/locales/ta
+ta-LK,Tamil (Sri Lanka),தமிழ் (இலங்கை),false,https://support.mozilla.org/en-US/kb/locales/ta-LK
+te,Telugu,తెలుగు,false,https://support.mozilla.org/en-US/kb/locales/te
+th,Thai,ไทย,false,https://support.mozilla.org/en-US/kb/locales/th
+tn,Tswana,Setswana,false,https://support.mozilla.org/en-US/kb/locales/tn
+tr,Turkish,Türkçe,true,https://support.mozilla.org/en-US/kb/locales/tr
+uk,Ukrainian,Українська,false,https://support.mozilla.org/en-US/kb/locales/uk
+ur,Urdu,اُردو,false,https://support.mozilla.org/en-US/kb/locales/ur
+vi,Vietnamese,Tiếng Việt,false,https://support.mozilla.org/en-US/kb/locales/vi
+wo,Wolof,Wolof,false,https://support.mozilla.org/en-US/kb/locales/wo
+xh,Xhosa,isiXhosa,false,https://support.mozilla.org/en-US/kb/locales/xh
+yo,Yoruba,èdè Yorùbá,false,https://support.mozilla.org/en-US/kb/locales/yo
+zh-CN,Chinese (Simplified),中文 (简体),false,https://support.mozilla.org/en-US/kb/locales/zh-CN
+zh-TW,Chinese (Traditional),正體中文 (繁體),false,https://support.mozilla.org/en-US/kb/locales/zh-TW
+zu,Zulu,isiZulu,false,https://support.mozilla.org/en-US/kb/locales/zu
