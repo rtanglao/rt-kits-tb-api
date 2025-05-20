@@ -18,7 +18,12 @@ YYYY_MM_DD = Time.now.strftime('%Y-%m-%d')
 CSV.foreach(CSV_LOCALES_FILE, headers: true).each do |locale_info|
   locale_url = locale_info['locale_url']
   logger.debug "locale_url #{locale_url}"
-  page = mechanize.get(locale_url)
+  begin
+    page = mechanize.get(locale_url)
+  rescue Mechanize::ResponseCodeError
+    logger.debug "Mechanize error, probably 404 in locale: #{locale_url}! Skipping locale!!!"
+    next
+  end
   locale_leaders = page.css('.leaders a.author-name').map do |link|
     "https://support.mozilla.org#{link['href']}"
   end.join(';')
@@ -51,9 +56,9 @@ end
 headers = output_csv[0].keys
 CSV.open(
   "#{YYYY_MM_DD}-locale-leaders-reviewers-editors-active-last90.csv",
-  'w', 
+  'w',
   write_headers: true,
   headers: headers
 ) do |csv_object|
-  csv.each { |row_array| csv_object << row_array }
+  output_csv.each { |row_array| csv_object << row_array }
 end
