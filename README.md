@@ -39,6 +39,9 @@ git push
 ```bash
 mlr --headerless-csv-output --csv cut -f localized-slug thunderbird-localized-sumo-kb-article-slugs.csv | \
 ./get-localized-revisions-sumo-kb-urls.rb > thunderbird-localized-revisions.csv 2>logs-get-localized-revisions-stderr.txt &
+git add thunderbird-localized-sumo-kb-article-slugs.csv
+git commit -m "2025-05-16 snapshot all the Thunderbird non en-US revisions"
+git push
 ```
 ## 2025-01-26 get all the SUMO KB Localizers with approved revisions in 2024
 ```bash
