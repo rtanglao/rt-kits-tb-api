@@ -1,6 +1,11 @@
 # rt-kits-tb-api
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
+## 2025-05-19-p3 Get all the locale leaders, editors, reviewers, active in the last 90 days
+The following creates YYYY-MM-DD-locale-leaders-reviewers-editors-active-last90.csv based on the time the script was run e.g. [2025-05-19-locale-leaders-reviewers-editors-active-last90.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/2025-05-19-locale-leaders-reviewers-editors-active-last90.csv)
+```bash
+./get-locale-leaders-reviewers-editors-active-contributors-last90.rb all-sumo-locales.csv
+```
 ## 2025-05-19-p2 Get all the locale SUMO KB pages
 * The following creates [all-sumo-locales.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/all-sumo-locales.csv)
 ```bash
