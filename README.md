@@ -2,7 +2,7 @@
 Experiments with Thunderbird and the SUMO aka Kitsune API 
 
 ## 2025-05-19-p3 Get all the locale leaders, editors, reviewers, active in the last 90 days
-The following creates YYYY-MM-DD-locale-leaders-reviewers-editors-active-last90.csv based on the time the script was run e.g. [2025-05-19-locale-leaders-reviewers-editors-active-last90.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/2025-05-19-locale-leaders-reviewers-editors-active-last90.csv)
+The following creates YYYY-MM-DD-locale-leaders-reviewers-editors-active-last90.csv based on the time the script was run e.g. [2025-05-19-locale-leaders-reviewers-editors-active-last90.csv](https://github.com/rtanglao/rt-kits-tb-api/blob/main/2025-05-19-locale-leaders-reviewers-editors-active-last90.csv) <-- **NOTE**: this is for **all** SUMO products (i.e. MZLA and MoCo products, there is no easy way to easy way to find those active just in MoCo or just in MZLA products for example. You could do that bye looping through all revisions by product but that's a nightmare :-)
 ```bash
 ./get-locale-leaders-reviewers-editors-active-contributors-last90.rb all-sumo-locales.csv
 ```
