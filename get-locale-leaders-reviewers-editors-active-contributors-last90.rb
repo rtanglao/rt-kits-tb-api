@@ -5,6 +5,8 @@ require 'net/http'
 require 'logger'
 require 'mechanize'
 require 'csv'
+require_relative 'get_locale_leaders_reviewers_editors_active_last90_filename_by_yyyymmdd'
+
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 if ARGV.empty?
@@ -12,9 +14,10 @@ if ARGV.empty?
   exit
 end
 CSV_LOCALES_FILE = ARGV[0]
+csv_filename = get_locale_leaders_reviewers_editors_active_last90_filename_by_yyyymmdd(Time.now.strftime('%Y-%m-%d'))
+
 mechanize = Mechanize.new
 output_csv = []
-YYYY_MM_DD = Time.now.strftime('%Y-%m-%d')
 CSV.foreach(CSV_LOCALES_FILE, headers: true).each do |locale_info|
   locale_url = locale_info['locale_url']
   logger.debug "locale_url #{locale_url}"
@@ -36,26 +39,25 @@ CSV.foreach(CSV_LOCALES_FILE, headers: true).each do |locale_info|
   active_contributors_last90 = page.css('.active a.author-name').map do |link|
     "https://support.mozilla.org#{link['href']}"
   end.join(';')
-  locale_url = locale_info['locale_url']
+  locale_info['locale_url']
   locale_row =
     {
-      locale_url: locale_url,
+      locale_slug: locale_info['locale_slug'],
+      locale_name: locale_info['locale_name'],
+      locale_localized_name: locale_info['locale_localizedname'],
+      locale_url: locale_info['locale_url'],
       locale_leaders: locale_leaders,
       locale_reviewers: locale_reviewers,
       locale_editors: locale_editors,
       active_contributors_last90: active_contributors_last90
     }
-  logger.debug("locale_url: #{locale_url}")
-  logger.debug "locale_leaders: #{locale_leaders.ai}"
-  logger.debug "locale_reviewers: #{locale_reviewers.ai}"
-  logger.debug "locale_editors: #{locale_editors.ai}"
-  logger.debug "active_contributors_last90: #{active_contributors_last90.ai}"
+  logger.debug("locale_row: #{locale_row.ai}")
   output_csv.push(locale_row)
   sleep(1) # Keep Kitsune from throttling this script :-)
 end
 headers = output_csv[0].keys
 CSV.open(
-  "#{YYYY_MM_DD}-locale-leaders-reviewers-editors-active-last90.csv",
+  csv_filename,
   'w',
   write_headers: true,
   headers: headers
