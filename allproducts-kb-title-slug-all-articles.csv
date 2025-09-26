@@ -1295,7 +1295,9 @@ extension-data-collection,Extension data collection
 control-personal-device-local-network-permissions-firefox-android,Control personal device and local network permissions on Firefox for Android
 web-apps-firefox-windows,Use web apps in Firefox for Windows
 custom-suggestions-firefox-address-bar,Get custom suggestions in the Firefox address bar
+use-link-previews-firefox,Preview webpages in Firefox with link preview
 firefox-enterprise-143-release-notes,Firefox for Enterprise 143 - Release notes
+new-thunderbird-android,New in Thunderbird for Android
 searches-take-you-to-wrong-search-website,What to do when searches take you to the wrong search website
 troubleshoot-firefox-crashes-closing-or-quitting,Troubleshoot Firefox crashes (closing or quitting unexpectedly)
 will-firefox-work-my-mobile-device,Will Firefox work on my mobile device?
